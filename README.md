@@ -115,10 +115,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-loki]: https://github.com/mdegat01/addon-loki/tree/2e54da0
-[addon-doc-loki]: https://github.com/mdegat01/addon-loki/blob/2e54da0/README.md
+[addon-loki]: https://github.com/mdegat01/addon-loki/tree/722c3c8
+[addon-doc-loki]: https://github.com/mdegat01/addon-loki/blob/722c3c8/README.md
 [loki-issue]: https://github.com/mdegat01/addon-loki/issues
-[loki-version-shield]: https://img.shields.io/badge/version-2e54da0-blue.svg
+[loki-version-shield]: https://img.shields.io/badge/version-722c3c8-blue.svg
 [loki-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [loki-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [loki-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

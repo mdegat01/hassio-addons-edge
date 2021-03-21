@@ -1,1 +1,1 @@
-- Building dockerfile pulls arch binary from repo
+- README template and clean up tmp files

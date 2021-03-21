@@ -1,0 +1,11 @@
+---
+channel: edge
+addons:
+  loki:
+    repository: mdegat01/addon-loki
+    target: loki
+    image: ghcr.io/mdegat01/loki/{arch}
+  promtail:
+    repository: mdegat01/addon-promtail
+    target: promtail
+    image: ghcr.io/mdegat01/promtail/{arch}

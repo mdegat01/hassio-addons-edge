@@ -1,7 +1,7 @@
 {
   "name": "Loki",
   "url": "https://github.com/mdegat01/addon-loki",
-  "version": "604d886",
+  "version": "2257be6",
   "slug": "loki",
   "arch": [
     "aarch64",
@@ -31,5 +31,6 @@
     "cafile": "str?",
     "config_path": "str?",
     "log_level": "list(debug|info|warning|error)?"
-  }
+  },
+  "image": "ghcr.io/mdegat01/loki/{arch}"
 }

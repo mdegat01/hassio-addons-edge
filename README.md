@@ -129,10 +129,10 @@ SOFTWARE.
 [loki-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [loki-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [loki-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-promtail]: https://github.com/mdegat01/addon-promtail/tree/6ad2400
-[addon-doc-promtail]: https://github.com/mdegat01/addon-promtail/blob/6ad2400/README.md
+[addon-promtail]: https://github.com/mdegat01/addon-promtail/tree/4fec980
+[addon-doc-promtail]: https://github.com/mdegat01/addon-promtail/blob/4fec980/README.md
 [promtail-issue]: https://github.com/mdegat01/addon-promtail/issues
-[promtail-version-shield]: https://img.shields.io/badge/version-6ad2400-blue.svg
+[promtail-version-shield]: https://img.shields.io/badge/version-4fec980-blue.svg
 [add-addon-promtail]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_promtail
 [promtail-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [promtail-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

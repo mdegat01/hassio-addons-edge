@@ -40,7 +40,7 @@ https://github.com/mdegat01/hassio-addons-edge
 
 ## Add-ons provided by this repository
 
-### &#10003; [Loki][addon-loki]f
+### &#10003; [Loki][addon-loki]
 
 ![Latest Version][loki-version-shield]
 ![Supports armhf Architecture][loki-armhf-shield]
@@ -53,7 +53,7 @@ Loki for Home Assistant
 
 [:books: Loki add-on documentation][addon-doc-loki]
 
-### &#10003; [Promtail][addon-promtail]f
+### &#10003; [Promtail][addon-promtail]
 
 ![Latest Version][promtail-version-shield]
 ![Supports armhf Architecture][promtail-armhf-shield]

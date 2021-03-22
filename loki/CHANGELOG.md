@@ -1,6 +1,5 @@
-# Changelog since v1.0.1
-- Merge pull request #1 from mdegat01/readme-typos
+# Changelog since v1.0.2
+- Merge pull request #2 from mdegat01/ci-improvements
 
-Fixed some readme typos 
-- README style tweaks 
-- Fixed some readme typos 
+CI workflow runs automatically 
+- CI workflow runs automatically 

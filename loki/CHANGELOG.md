@@ -1,12 +1,5 @@
-# Changelog since v1.0.2
-- Merge pull request #3 from mdegat01/add-issue-templates
+# Changelog since v1.0.3
+- Merge pull request #4 from mdegat01/ci-automatic
 
-Add issue templates 
-- Prettified Code! 
-- Add issue templates
-
-Add templates for bug report and feature request issues 
-- Merge pull request #2 from mdegat01/ci-improvements
-
-CI workflow runs automatically 
-- CI workflow runs automatically 
+Adjusted ci on to prevent duplicate runs 
+- Adjusted ci on to prevent duplicate runs 

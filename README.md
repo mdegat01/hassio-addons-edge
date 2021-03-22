@@ -30,7 +30,7 @@ If you are more interested in stable releases of our add-ons:
 Click this link and follow the provided directions:
 
 [![Open your Home Assistant instance and show the add add-on repository dialog
-with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A//github.com/mdegat01/hassio-addons-edge)
+with a specific repository URL pre-filled.][add-repo-shield]][add-repo]
 
 Or alternatively, copy this URL and add it as a repository in the add-on store:
 
@@ -51,6 +51,8 @@ https://github.com/mdegat01/hassio-addons-edge
 
 Loki for Home Assistant
 
+[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-loki]
+
 [:books: Loki add-on documentation][addon-doc-loki]
 
 ### &#10003; [Promtail][addon-promtail]
@@ -63,6 +65,8 @@ Loki for Home Assistant
 ![Supports i386 Architecture][promtail-i386-shield]
 
 Promtail for Home Assistant
+
+[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-promtail]
 
 [:books: Promtail add-on documentation][addon-doc-promtail]
 
@@ -119,6 +123,7 @@ SOFTWARE.
 [addon-doc-loki]: https://github.com/mdegat01/addon-loki/blob/722c3c8/README.md
 [loki-issue]: https://github.com/mdegat01/addon-loki/issues
 [loki-version-shield]: https://img.shields.io/badge/version-722c3c8-blue.svg
+[add-addon-loki]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_loki
 [loki-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [loki-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [loki-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -128,11 +133,15 @@ SOFTWARE.
 [addon-doc-promtail]: https://github.com/mdegat01/addon-promtail/blob/a86fa74/README.md
 [promtail-issue]: https://github.com/mdegat01/addon-promtail/issues
 [promtail-version-shield]: https://img.shields.io/badge/version-a86fa74-blue.svg
+[add-addon-promtail]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_promtail
 [promtail-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [promtail-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [promtail-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [promtail-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [promtail-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[add-addon-shield]: https://my.home-assistant.io/badges/supervisor_addon.svg
+[add-repo-shield]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
+[add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A//github.com/mdegat01/hassio-addons-edge
 [discord-ha]: https://discord.gg/c5DvZ4e
 [forum-centralcommand]: https://community.home-assistant.io/u/CentralCommand/?u=CentralCommand
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg

@@ -1,5 +1,5 @@
-# Changelog since v1.0.1
-- Merge pull request #3 from mdegat01/move-readmej2
+# Changelog since v1.0.2
+- Merge pull request #4 from mdegat01/ci-improvements
 
-Readme.j2 was in the wrong place 
-- Readme.j2 was in the wrong place 
+CI workflow runs automatically 
+- CI workflow runs automatically 

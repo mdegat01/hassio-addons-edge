@@ -1,9 +1,5 @@
-# Changelog since v1.0.3
-- Merge pull request #7 from mdegat01/dockerfile-labels
+# Changelog since v1.0.4
+- Merge pull request #8 from mdegat01/add-forum-link
 
-Added labels to dockerfile 
-- Added labels to dockerfile 
-- Merge pull request #6 from mdegat01/ci-automatic
-
-Adjusted ci on to prevent duplicate runs 
-- Adjusted ci on to prevent duplicate runs 
+Simplified generated addon README & improved DOCS 
+- Simplified generated addon README & improved DOCS 

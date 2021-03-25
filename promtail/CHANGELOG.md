@@ -1,4 +1,8 @@
 # Changelog since v1.0.4
+- Merge pull request #11 from mdegat01/debug-logging
+
+Log config on start if debug log level 
+- Log config on start if debug log level 
 - Merge pull request #10 from mdegat01/create-journal-folder
 
 Ensure /var/log/journal exists 

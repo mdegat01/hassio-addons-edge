@@ -1,4 +1,8 @@
 # Changelog since v1.0.4
+- Merge pull request #10 from mdegat01/create-journal-folder
+
+Ensure /var/log/journal exists 
+- Ensure /var/log/journal exists 
 - Merge pull request #9 from mdegat01/enable-journald
 
 Enable journald support and remove warnings 

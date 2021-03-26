@@ -1,4 +1,8 @@
 # Changelog since v1.0.4
+- Merge pull request #8 from mdegat01/code-formatting
+
+Cleaned up formatting in scripts 
+- Cleaned up formatting in scripts 
 - Merge pull request #7 from mdegat01/debug-logging
 
 Log config on start if debug log level 

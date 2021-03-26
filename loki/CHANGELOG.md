@@ -1,4 +1,8 @@
 # Changelog since v1.0.4
+- Merge pull request #9 from mdegat01/add-forum-link
+
+Add link to forum post 
+- Add link to forum post 
 - Merge pull request #8 from mdegat01/code-formatting
 
 Cleaned up formatting in scripts 

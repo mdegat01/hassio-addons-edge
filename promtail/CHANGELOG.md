@@ -1,6 +1,5 @@
-# Changelog since v1.1.0
-- Merge pull request #13 from mdegat01/handle-volatile-journal
+# Changelog since v1.1.1
+- Merge pull request #14 from mdegat01/add-forum-link
 
-Handle volatile journal when used 
-- Dont force /var/log/journal to exist 
-- Handle volatile journal when used 
+Add link to forum post 
+- Add link to forum post 

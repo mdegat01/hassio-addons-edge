@@ -11,10 +11,10 @@
 [Loki][loki] instance or [Grafana Cloud][grafana-cloud]. It is usually deployed
 to every machine that has applications needed to be monitored.
 
-⚠ This addon requires supervisor version `2021.03.7` to install as it relies on
-the new `journald` capability just added. This is the current beta release as
-of 3/24. If you don't want to join the beta channel, you can wait until it becomes
-the stable release in a couple days.
+⚠ This addon requires supervisor version `2021.03.8` as it relies on the new
+`journald` capability just added. This is the current beta release as of 3/26.
+If you don't want to join the beta channel, you can wait until it becomes the
+stable release in a couple days.
 
 ## WARNING! THIS IS AN EDGE REPOSITORY
 

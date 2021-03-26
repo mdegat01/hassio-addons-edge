@@ -1,4 +1,12 @@
 # Changelog since v1.0.4
+- Merge pull request #12 from mdegat01/mdegat01-patch-1
+
+Update supervisor version required 
+- Fixed lint issue in readme 
+- Updating readme generator to match 
+- Update supervisor version required
+
+`2021.3.7` had a bug with the `journald` capability so updating the warning to mention `2021.03.8` is required. 
 - Merge pull request #11 from mdegat01/debug-logging
 
 Log config on start if debug log level 

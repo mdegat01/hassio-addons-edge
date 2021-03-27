@@ -1,4 +1,8 @@
 # Changelog since v1.0.5
+- Merge pull request #13 from mdegat01/fix-listen-addr-config
+
+Fix incorrect config value for listen address 
+- Fix incorrect config value for listen address 
 - Merge pull request #12 from mdegat01/block-internal-port
 
 Block access to internal port externally 

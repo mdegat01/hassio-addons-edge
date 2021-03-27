@@ -1,7 +1,7 @@
 {
   "name": "Loki",
   "url": "https://github.com/mdegat01/addon-loki",
-  "version": "87c607a",
+  "version": "a527fdb",
   "slug": "loki",
   "arch": [
     "aarch64",
@@ -14,7 +14,7 @@
     "share",
     "ssl"
   ],
-  "watchdog": "http://[HOST]/ready",
+  "watchdog": "http://[HOST]:80/ready",
   "ports": {
     "3100/tcp": null
   },

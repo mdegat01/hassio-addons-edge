@@ -1,4 +1,8 @@
 # Changelog since v1.0.5
+- Merge pull request #12 from mdegat01/block-internal-port
+
+Block access to internal port externally 
+- Block access to internal port externally 
 - Merge pull request #11 from mdegat01/add-watchdog-port
 
 Add port 80 to watchdog URL 

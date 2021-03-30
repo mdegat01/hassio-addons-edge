@@ -119,10 +119,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-loki]: https://github.com/mdegat01/addon-loki/tree/11a143f
-[addon-doc-loki]: https://github.com/mdegat01/addon-loki/blob/11a143f/README.md
+[addon-loki]: https://github.com/mdegat01/addon-loki/tree/412251a
+[addon-doc-loki]: https://github.com/mdegat01/addon-loki/blob/412251a/README.md
 [loki-issue]: https://github.com/mdegat01/addon-loki/issues
-[loki-version-shield]: https://img.shields.io/badge/version-11a143f-blue.svg
+[loki-version-shield]: https://img.shields.io/badge/version-412251a-blue.svg
 [add-addon-loki]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_loki
 [loki-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [loki-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

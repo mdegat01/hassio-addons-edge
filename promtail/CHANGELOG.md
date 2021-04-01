@@ -1,14 +1,5 @@
-# Changelog since v1.1.4
-- Merge pull request #20 from mdegat01/formatting-fix
+# Changelog since v1.2.0
+- Merge pull request #21 from mdegat01/run-as-non-root
 
-Additional files not being merged in correctly 
-- Fix up formatting in setup file 
-- Merge pull request #19 from mdegat01/add-pipeline-stages-opt
-
-Add `additional_pipeline_stages` option 
-- Tweaked wording 
-- Add `additional_pipeline_stages` option 
-- Merge pull request #18 from mdegat01/better-traceback-handling
-
-Improve traceback handling in HA logs 
-- Improve traceback handling in HA logs 
+Run as non-root user 
+- Run as non-root user 

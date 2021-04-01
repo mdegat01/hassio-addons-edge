@@ -1,4 +1,8 @@
 # Changelog since v1.2.0
+- Merge pull request #24 from mdegat01/log-other-access
+
+Log non-push, non-watchdog access 
+- Log non-push, non-watchdog access 
 - Merge pull request #23 from mdegat01/fix-nginx-non-root
 
 Fix permissions for nginx user 

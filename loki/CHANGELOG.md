@@ -1,4 +1,8 @@
 # Changelog since v1.2.0
+- Merge pull request #25 from mdegat01/log-bad-ready-access
+
+Log unexpected access at watchdog port 
+- Log unexpected access at ready port 
 - Merge pull request #24 from mdegat01/log-other-access
 
 Log non-push, non-watchdog access 

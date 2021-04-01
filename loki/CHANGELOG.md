@@ -1,4 +1,8 @@
 # Changelog since v1.2.0
+- Merge pull request #23 from mdegat01/fix-nginx-non-root
+
+Fix permissions for nginx user 
+- Fix permissions for nginx user 
 - Merge pull request #22 from mdegat01/run-non-root
 
 Run Loki as non-root user 

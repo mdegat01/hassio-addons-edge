@@ -1,4 +1,9 @@
 # Changelog since v1.2.0
+- Merge pull request #22 from mdegat01/run-non-root
+
+Run Loki as non-root user 
+- Putting back changes to add and use user 
+- Run Loki as non-root user 
 - Merge pull request #21 from mdegat01/dependabot/github_actions/ludeeus/action-shellcheck-1.1.0
 
 Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 

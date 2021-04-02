@@ -1,4 +1,8 @@
 # Changelog since v1.3.0
+- Merge pull request #28 from mdegat01/armhf-support
+
+Add armhf support 
+- Add armhf support 
 - Merge pull request #27 from mdegat01/refactor-permission-setup
 
 Refactor permissions setup 

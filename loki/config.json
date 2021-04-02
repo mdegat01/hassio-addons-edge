@@ -1,12 +1,13 @@
 {
   "name": "Loki",
   "url": "https://github.com/mdegat01/addon-loki",
-  "version": "ce9d59a",
+  "version": "c7a54bd",
   "slug": "loki",
   "arch": [
     "aarch64",
     "amd64",
-    "armv7"
+    "armv7",
+    "armhf"
   ],
   "description": "Loki for Home Assistant",
   "startup": "system",

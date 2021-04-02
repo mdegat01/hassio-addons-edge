@@ -1,4 +1,9 @@
 # Changelog since v1.2.0
+- Merge pull request #24 from mdegat01/formatting-fix
+
+Small formatting fix 
+- New version of libsystemd-dev 
+- Small formatting fix 
 - Merge pull request #23 from mdegat01/dependabot/github_actions/ludeeus/action-shellcheck-1.1.0
 
 Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 

@@ -9,10 +9,6 @@
 
 _The best platform to write and share markdown._
 
-[![Open your Home Assistant instance and show the add add-on repository dialog
-with a specific repository URL pre-filled.][add-repo-shield]][add-repo]
-[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon]
-
 ## WARNING! THIS IS AN EDGE REPOSITORY
 
 This Add-ons repository contains edge builds of add-ons. Edge

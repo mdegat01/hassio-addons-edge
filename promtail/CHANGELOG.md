@@ -1,4 +1,9 @@
 # Changelog since v1.2.0
+- Merge pull request #26 from mdegat01/apkarch-tweak
+
+Use apk --print-arch instead of arg 
+- Change to what apk calls amd64 
+- Use apk --print-arch instead of arg 
 - Merge pull request #25 from mdegat01/armhf-support
 
 Add armhf support 

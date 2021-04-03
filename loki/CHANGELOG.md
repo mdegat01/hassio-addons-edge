@@ -1,4 +1,8 @@
 # Changelog since v1.3.0
+- Merge pull request #29 from mdegat01/use-build-image
+
+Use build image and copy for loki 
+- Use build image and copy for loki 
 - Merge pull request #28 from mdegat01/armhf-support
 
 Add armhf support 

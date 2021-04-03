@@ -1,37 +1,5 @@
-# Changelog since v1.2.0
-- Merge pull request #26 from mdegat01/apkarch-tweak
+# Changelog since v1.3.0
+- Merge pull request #27 from mdegat01/docs-forum-link
 
-Use apk --print-arch instead of arg 
-- Change to what apk calls amd64 
-- Use apk --print-arch instead of arg 
-- Merge pull request #25 from mdegat01/armhf-support
-
-Add armhf support 
-- Use workdir instead of cd 
-- Trying to parallelize build process 
-- Need to make /src folder to tar into it 
-- Trying to make binary from source instead 
-- Add armhf support 
-- Merge pull request #24 from mdegat01/formatting-fix
-
-Small formatting fix 
-- New version of libsystemd-dev 
-- Small formatting fix 
-- Merge pull request #23 from mdegat01/dependabot/github_actions/ludeeus/action-shellcheck-1.1.0
-
-Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0 
-- Bump ludeeus/action-shellcheck from 1.0.0 to 1.1.0
-
-Bumps [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) from 1.0.0 to 1.1.0.
-- [Release notes](https://github.com/ludeeus/action-shellcheck/releases)
-- [Commits](https://github.com/ludeeus/action-shellcheck/compare/1.0.0...94e0aab03ca135d11a35e5bfc14e6746dc56e7e9)
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #22 from mdegat01/revert-21-run-as-non-root
-
-Revert "Run as non-root user" 
-- Revert "Run as non-root user" 
-- Merge pull request #21 from mdegat01/run-as-non-root
-
-Run as non-root user 
-- Run as non-root user 
+Fix forum link in docs 
+- Fix forum link in docs 

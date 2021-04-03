@@ -40,6 +40,21 @@ https://github.com/mdegat01/hassio-addons-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [Hedgedoc][addon-hedgedoc]
+
+![Latest Version][hedgedoc-version-shield]
+![Supports armhf Architecture][hedgedoc-armhf-shield]
+![Supports armv7 Architecture][hedgedoc-armv7-shield]
+![Supports aarch64 Architecture][hedgedoc-aarch64-shield]
+![Supports amd64 Architecture][hedgedoc-amd64-shield]
+![Supports i386 Architecture][hedgedoc-i386-shield]
+
+Hedgedoc for Home Assistant
+
+[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-hedgedoc]
+
+[:books: Hedgedoc add-on documentation][addon-doc-hedgedoc]
+
 ### &#10003; [Loki][addon-loki]
 
 ![Latest Version][loki-version-shield]
@@ -90,6 +105,7 @@ You could also open an issue here on GitHub. Note, I use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: Hedgedoc][hedgedoc-issue]
 - [Open an issue for the add-on: Loki][loki-issue]
 - [Open an issue for the add-on: Promtail][promtail-issue]
 
@@ -119,6 +135,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-hedgedoc]: https://github.com/mdegat01/addon-hedgedoc/tree/9f3265a
+[addon-doc-hedgedoc]: https://github.com/mdegat01/addon-hedgedoc/blob/9f3265a/README.md
+[hedgedoc-issue]: https://github.com/mdegat01/addon-hedgedoc/issues
+[hedgedoc-version-shield]: https://img.shields.io/badge/version-9f3265a-blue.svg
+[add-addon-hedgedoc]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_hedgedoc
+[hedgedoc-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[hedgedoc-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[hedgedoc-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[hedgedoc-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[hedgedoc-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-loki]: https://github.com/mdegat01/addon-loki/tree/950a95b
 [addon-doc-loki]: https://github.com/mdegat01/addon-loki/blob/950a95b/README.md
 [loki-issue]: https://github.com/mdegat01/addon-loki/issues

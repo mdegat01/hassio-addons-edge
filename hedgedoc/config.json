@@ -1,12 +1,20 @@
 {
   "name": "Hedgedoc",
   "url": "https://hedgedoc.org/",
-  "version": "9f3265a",
+  "version": "0.0.1",
   "slug": "hedgedoc",
-  "arch": ["aarch64", "amd64", "armv7"],
+  "arch": [
+    "aarch64",
+    "amd64",
+    "armv7"
+  ],
   "description": "Hedgedoc for Home Assistant",
-  "services": ["mysql:want"],
-  "map": ["ssl"],
+  "services": [
+    "mysql:want"
+  ],
+  "map": [
+    "ssl"
+  ],
   "ports": {
     "3000/tcp": 3000
   },
@@ -39,5 +47,6 @@
       }
     ],
     "log_level": "list(debug|info|warning|error)?"
-  }
+  },
+  "image": "ghcr.io/mdegat01/hedgedoc/{arch}"
 }

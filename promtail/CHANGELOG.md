@@ -1,4 +1,12 @@
 # Changelog since v1.2.0
+- Merge pull request #25 from mdegat01/armhf-support
+
+Add armhf support 
+- Use workdir instead of cd 
+- Trying to parallelize build process 
+- Need to make /src folder to tar into it 
+- Trying to make binary from source instead 
+- Add armhf support 
 - Merge pull request #24 from mdegat01/formatting-fix
 
 Small formatting fix 

@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #4 from mdegat01/remove-nginx
+
+Remove Nginx and use native SSL features 
+- Remove Nginx and use native SSL features 
 - Merge pull request #3 from mdegat01/remove-buttons
 
 Remove my.HA buttons from generated README 

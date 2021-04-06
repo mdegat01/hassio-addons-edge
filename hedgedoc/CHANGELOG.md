@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #10 from mdegat01/incorrect-nc
+
+Remote DB test had incorrect nc path 
+- Remote DB test had incorrect nc path 
 - Merge pull request #9 from mdegat01/remote-mysql-config
 
 Switch config from `mysql_*` to `remote_mysql_*` 

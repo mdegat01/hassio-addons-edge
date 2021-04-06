@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #15 from mdegat01/opt-allow-email-reg
+
+Add option for disabling email registration 
+- Add option for disabling email registration 
 - Merge pull request #14 from mdegat01/full-arch-support
 
 Add `armhf` and `i386` to arch list 

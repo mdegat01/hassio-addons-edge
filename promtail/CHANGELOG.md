@@ -1,4 +1,8 @@
 # Changelog since v1.3.0
+- Merge pull request #32 from mdegat01/debian-base-4.1.4
+
+Update addon debian base to `4.1.4` 
+- Update debian base to 4.1.4 
 - Merge pull request #31 from mdegat01/curl-yq-binary
 
 Curl yq binary in dockerfile for easier updating 

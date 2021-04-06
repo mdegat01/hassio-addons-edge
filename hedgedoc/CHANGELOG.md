@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #14 from mdegat01/full-arch-support
+
+Add `armhf` and `i386` to arch list 
+- Add armhf and i386 to arch list 
 - Merge pull request #13 from mdegat01/watchdog-and-webui
 
 Add watchdog and webui urls to config 

@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #7 from mdegat01/dhparamfile-bug
+
+Not looking in correct place for `dhparamfile` 
+- Not looking in correct place for dhparamfile 
 - Merge pull request #6 from mdegat01/base-9.1.6
 
 Update base image to `9.1.6` 

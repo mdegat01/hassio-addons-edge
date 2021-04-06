@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #6 from mdegat01/base-9.1.6
+
+Update base image to `9.1.6` 
+- Update base image to 9.1.6 
 - Merge pull request #5 from mdegat01/image-labels
 
 Add labels to image 

@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #9 from mdegat01/remote-mysql-config
+
+Switch config from `mysql_*` to `remote_mysql_*` 
+- Config still said mysql-*, not remote-mysql-* 
 - Merge pull request #8 from mdegat01/fix-exit-code-error
 
 Last command shouldn't be conditional 

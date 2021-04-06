@@ -1,7 +1,7 @@
 {
   "name": "Hedgedoc",
   "url": "https://hedgedoc.org/",
-  "version": "98e81bf",
+  "version": "79742c6",
   "slug": "hedgedoc",
   "arch": [
     "aarch64",
@@ -44,11 +44,11 @@
       "session_secret": "password?",
       "session_days": "int(1,)?"
     },
-    "mysql_host": "str?",
-    "mysql_port": "port?",
-    "mysql_username": "str?",
-    "mysql_password": "password?",
-    "mysql_database": "str?",
+    "remote_mysql_host": "str?",
+    "remote_mysql_port": "port?",
+    "remote_mysql_username": "str?",
+    "remote_mysql_password": "password?",
+    "remote_mysql_database": "str?",
     "reset_database": "bool?",
     "env_vars": [
       {

@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #13 from mdegat01/watchdog-and-webui
+
+Add watchdog and webui urls to config 
+- Add watchdog and webui urls to config 
 - Merge pull request #12 from mdegat01/project-shield
 
 Update project stage shield 

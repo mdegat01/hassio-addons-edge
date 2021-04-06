@@ -1,4 +1,8 @@
 # Changelog since v1.3.0
+- Merge pull request #30 from mdegat01/use-base-image
+
+Update to Promtail 2.2.1 and use pre-built binary 
+- Use pre-built binary from image 
 - Merge pull request #28 from mdegat01/yq-binary-copy
 
 Update YQ to `4.6.3` and store current binaries in repo 

@@ -1,4 +1,8 @@
 # Changelog since v1.3.0
+- Merge pull request #31 from mdegat01/curl-yq-binary
+
+Curl yq binary in dockerfile for easier updating 
+- Curl yq binary in dockerfile for easier updating 
 - Merge pull request #30 from mdegat01/use-base-image
 
 Update to Promtail 2.2.1 and use pre-built binary 

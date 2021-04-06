@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #8 from mdegat01/fix-exit-code-error
+
+Last command shouldn't be conditional 
+- Last command shouldn't be conditional 
 - Merge pull request #7 from mdegat01/dhparamfile-bug
 
 Not looking in correct place for `dhparamfile` 

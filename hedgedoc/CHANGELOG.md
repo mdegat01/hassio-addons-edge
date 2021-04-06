@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #11 from mdegat01/exit-db-unavailable
+
+Exit if remote db is unavailable 
+- Exit if remote db is unavailable 
 - Merge pull request #10 from mdegat01/incorrect-nc
 
 Remote DB test had incorrect nc path 

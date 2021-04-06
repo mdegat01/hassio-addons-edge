@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #12 from mdegat01/project-shield
+
+Update project stage shield 
+- Update project stage shield 
 - Merge pull request #11 from mdegat01/exit-db-unavailable
 
 Exit if remote db is unavailable 

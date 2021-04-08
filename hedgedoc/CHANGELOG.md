@@ -1,4 +1,8 @@
 # Changelog since v1.0.2
+- Merge pull request #24 from mdegat01/bump-nodejs
+
+Update nodejs/npm to `14.16.1-r0` 
+- Update nodejs/npm to 14.16.1-r0 
 - Merge pull request #21 from mdegat01/dependabot/github_actions/docker/build-push-action-v2.4.0
 
 Bump docker/build-push-action from v2.3.0 to v2.4.0 

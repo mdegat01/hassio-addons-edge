@@ -1,4 +1,9 @@
 # Changelog since v1.3.1
+- Merge pull request #35 from mdegat01/add-apparmor
+
+Add custom apparmor profile 
+- Adjusted apparmor after complain test 
+- Add custom apparmor profile 
 - Merge pull request #34 from mdegat01/dependabot/github_actions/docker/build-push-action-v2.4.0
 
 Bump docker/build-push-action from v2.3.0 to v2.4.0 

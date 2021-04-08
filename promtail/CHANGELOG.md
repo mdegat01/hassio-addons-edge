@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #36 from mdegat01/apparmor-data-read
+
+Allow read from anywhere in `/data` 
+- Allow read from anywhere in /data 
 - Merge pull request #35 from mdegat01/add-apparmor
 
 Add custom apparmor profile 

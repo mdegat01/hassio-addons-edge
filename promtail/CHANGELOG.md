@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #37 from mdegat01/log-level-variable
+
+Use mapped log level variable 
+- Use mapped log level variable 
 - Merge pull request #36 from mdegat01/apparmor-data-read
 
 Allow read from anywhere in `/data` 

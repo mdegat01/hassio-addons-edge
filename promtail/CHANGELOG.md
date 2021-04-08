@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #40 from mdegat01/apparmor-network-limit
+
+Limit network access to promtail in apparmor 
+- Limit network access to promtail in apparmor 
 - Merge pull request #39 from mdegat01/dependabot/github_actions/docker/setup-qemu-action-v1.0.2
 
 Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 

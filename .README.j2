@@ -111,7 +111,7 @@ SOFTWARE.
 [addon-{{ addon.target }}]: {{ addon.repo }}/tree/{{ addon.version }}
 [addon-doc-{{ addon.target}}]: {{ addon.repo }}/blob/{{ addon.version }}/README.md
 [{{ addon.target }}-issue]: {{ addon.repo }}/issues
-[{{ addon.target }}-version-shield]: https://img.shields.io/badge/version-{{ addon.version }}-blue.svg
+[{{ addon.target }}-version-shield]: https://img.shields.io/badge/version-{{ addon.version }}-yellow.svg
 [add-addon-{{ addon.target }}]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_{{ addon.target }}
 {% for arch in ['aarch64', 'amd64', 'armhf', 'armv7', 'i386'] %}
 {% if arch in addon.archs %}

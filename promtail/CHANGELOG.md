@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #42 from mdegat01/enable-beta-publish
+
+Enable publishing to beta repo 
+- Enable publishing to beta repo 
 - Merge pull request #41 from mdegat01/apparmor-self-signal
 
 Apparmor - allow self-signalling 

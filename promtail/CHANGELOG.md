@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #41 from mdegat01/apparmor-self-signal
+
+Apparmor - allow self-signalling 
+- Apparmor - allow self-signalling 
 - Merge pull request #40 from mdegat01/apparmor-network-limit
 
 Limit network access to promtail in apparmor 

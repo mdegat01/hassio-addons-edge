@@ -1,8 +1,13 @@
 # Changelog since v1.4.1
+- Merge pull request #38 from mdegat01/add-apparmor
+
+Add custom apparmor profile 
+- Working profile and corresponding changes 
 - Merge pull request #37 from mdegat01/add-beta-support
 
 Add support for beta environment 
 - Add support for beta environment 
+- Add custom apparmor profile 
 - Merge pull request #35 from mdegat01/dependabot/github_actions/docker/setup-buildx-action-v1.1.2
 
 Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 

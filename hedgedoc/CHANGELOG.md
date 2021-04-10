@@ -1,4 +1,8 @@
 # Changelog since v1.0.2
+- Merge pull request #25 from mdegat01/beta-support
+
+Add support for beta environment 
+- Add support for beta environment 
 - Merge pull request #23 from mdegat01/dependabot/github_actions/docker/setup-qemu-action-v1.0.2
 
 Bump docker/setup-qemu-action from v1.0.1 to v1.0.2 

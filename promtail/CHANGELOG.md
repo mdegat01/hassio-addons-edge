@@ -1,4 +1,10 @@
 # Changelog since v1.3.1
+- Merge pull request #47 from mdegat01/aa-complain-off
+
+Remove complain mode in apparmor 
+- Remove complain mode in apparmor
+
+Forgot to remove complain mode in the testing back and forth 
 - Merge pull request #46 from mdegat01/apparmor-cleanup
 
 Use apparmor variables and no more /etc/** 

@@ -138,7 +138,7 @@ SOFTWARE.
 [addon-hedgedoc]: https://github.com/mdegat01/addon-hedgedoc/tree/e8efd50
 [addon-doc-hedgedoc]: https://github.com/mdegat01/addon-hedgedoc/blob/e8efd50/README.md
 [hedgedoc-issue]: https://github.com/mdegat01/addon-hedgedoc/issues
-[hedgedoc-version-shield]: https://img.shields.io/badge/version-e8efd50-blue.svg
+[hedgedoc-version-shield]: https://img.shields.io/badge/version-e8efd50-yellow.svg
 [add-addon-hedgedoc]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_hedgedoc
 [hedgedoc-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [hedgedoc-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
@@ -148,7 +148,7 @@ SOFTWARE.
 [addon-loki]: https://github.com/mdegat01/addon-loki/tree/8ce940e
 [addon-doc-loki]: https://github.com/mdegat01/addon-loki/blob/8ce940e/README.md
 [loki-issue]: https://github.com/mdegat01/addon-loki/issues
-[loki-version-shield]: https://img.shields.io/badge/version-8ce940e-blue.svg
+[loki-version-shield]: https://img.shields.io/badge/version-8ce940e-yellow.svg
 [add-addon-loki]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_loki
 [loki-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [loki-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
@@ -158,7 +158,7 @@ SOFTWARE.
 [addon-promtail]: https://github.com/mdegat01/addon-promtail/tree/455a149
 [addon-doc-promtail]: https://github.com/mdegat01/addon-promtail/blob/455a149/README.md
 [promtail-issue]: https://github.com/mdegat01/addon-promtail/issues
-[promtail-version-shield]: https://img.shields.io/badge/version-455a149-blue.svg
+[promtail-version-shield]: https://img.shields.io/badge/version-455a149-yellow.svg
 [add-addon-promtail]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_promtail
 [promtail-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [promtail-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

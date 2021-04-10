@@ -12,7 +12,7 @@ _Like Prometheus, but for logs!_
 ## WARNING! THIS IS AN EDGE REPOSITORY
 
 This Add-ons repository contains edge builds of add-ons. Edge
-builds add-ons are based upon the latest development version.
+builds of add-ons are based upon the latest development version.
 
 - They may not work at all.
 - They might stop working at any time.

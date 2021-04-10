@@ -1,4 +1,8 @@
 # Changelog since v1.4.1
+- Merge pull request #37 from mdegat01/add-beta-support
+
+Add support for beta environment 
+- Add support for beta environment 
 - Merge pull request #35 from mdegat01/dependabot/github_actions/docker/setup-buildx-action-v1.1.2
 
 Bump docker/setup-buildx-action from v1.1.1 to v1.1.2 

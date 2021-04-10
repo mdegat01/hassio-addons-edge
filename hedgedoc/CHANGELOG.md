@@ -1,4 +1,8 @@
 # Changelog since v1.0.2
+- Merge pull request #26 from mdegat01/config-is-empty
+
+Use not is empty instead of exists for UI 
+- Use not is empty instead of exists for UI 
 - Merge pull request #25 from mdegat01/beta-support
 
 Add support for beta environment 

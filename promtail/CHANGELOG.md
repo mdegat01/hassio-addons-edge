@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #52 from mdegat01/remove-supervisor-warning
+
+Remove supervisor version warning 
+- Remove supervisor version warning 
 - Merge pull request #51 from mdegat01/fix-cafile
 
 Used loki's config option not promtails 

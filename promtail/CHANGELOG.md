@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #51 from mdegat01/fix-cafile
+
+Used loki's config option not promtails 
+- Used loki's config option not promtails 
 - Merge pull request #50 from mdegat01/config-is-empty
 
 Use not is empty on configs instead of exists for UI editor 

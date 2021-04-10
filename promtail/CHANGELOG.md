@@ -1,4 +1,9 @@
 # Changelog since v1.3.1
+- Merge pull request #48 from mdegat01/fix-apparmor
+
+Read on some folders (aa) 
+- Grant promtail lock access on its data 
+- Read on some folders (aa) 
 - Merge pull request #47 from mdegat01/aa-complain-off
 
 Remove complain mode in apparmor 

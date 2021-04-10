@@ -1,4 +1,8 @@
 # Changelog since v1.4.1
+- Merge pull request #39 from mdegat01/fix-apparmor
+
+Read on some folders and lock dbs for loki (aa) 
+- Read on some folders and lock dbs for loki (aa) 
 - Merge pull request #38 from mdegat01/add-apparmor
 
 Add custom apparmor profile 

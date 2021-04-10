@@ -1,4 +1,8 @@
 # Changelog since v1.4.1
+- Merge pull request #40 from mdegat01/cafile-in-ssl
+
+Deprecate absolute path support for cafile & support blanking out 
+- Deprecate absolute path support for cafile 
 - Merge pull request #39 from mdegat01/fix-apparmor
 
 Read on some folders and lock dbs for loki (aa) 

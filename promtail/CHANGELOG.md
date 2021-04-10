@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #45 from mdegat01/fix-self-signal
+
+Wrong character on apparmor variable 
+- Wrong character on apparmor variable 
 - Merge pull request #44 from mdegat01/doc-typo
 
 Fix small typo in documentation 

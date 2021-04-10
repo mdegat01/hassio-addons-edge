@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #44 from mdegat01/doc-typo
+
+Fix small typo in documentation 
+- Fix small typo in documentation 
 - Merge pull request #43 from mdegat01/beta-readme
 
 Update readme template for beta 

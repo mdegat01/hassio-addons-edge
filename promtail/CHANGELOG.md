@@ -1,4 +1,9 @@
 # Changelog since v1.3.1
+- Merge pull request #49 from mdegat01/cafile-in-ssl
+
+Deprecate absolute path support for cafile & support blanking out 
+- Correct comment release 
+- Deprecate absolute path support for cafile 
 - Merge pull request #48 from mdegat01/fix-apparmor
 
 Read on some folders (aa) 

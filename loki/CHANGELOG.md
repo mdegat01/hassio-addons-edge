@@ -1,4 +1,8 @@
 # Changelog since v1.4.1
+- Merge pull request #41 from mdegat01/fix-cafile
+
+Correctly use new cafile variable 
+- Correctly use new cafile variable 
 - Merge pull request #40 from mdegat01/cafile-in-ssl
 
 Deprecate absolute path support for cafile & support blanking out 

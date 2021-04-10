@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #46 from mdegat01/apparmor-cleanup
+
+Use apparmor variables and no more /etc/** 
+- Use apparmor variables and no more /etc/** 
 - Merge pull request #45 from mdegat01/fix-self-signal
 
 Wrong character on apparmor variable 

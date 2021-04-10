@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #50 from mdegat01/config-is-empty
+
+Use not is empty on configs instead of exists for UI editor 
+- Use not is empty instead of exists for UI 
 - Merge pull request #49 from mdegat01/cafile-in-ssl
 
 Deprecate absolute path support for cafile & support blanking out 

@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #43 from mdegat01/beta-readme
+
+Update readme template for beta 
+- Update readme template for beta 
 - Merge pull request #42 from mdegat01/enable-beta-publish
 
 Enable publishing to beta repo 

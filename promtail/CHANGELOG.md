@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #53 from mdegat01/variable-refactor
+
+Move constants up top in scripts 
+- Move constants up top in scripts 
 - Merge pull request #52 from mdegat01/remove-supervisor-warning
 
 Remove supervisor version warning 

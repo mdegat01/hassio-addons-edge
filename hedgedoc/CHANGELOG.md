@@ -1,4 +1,11 @@
 # Changelog since v1.0.2
+- Merge pull request #27 from mdegat01/generate-dhparamfile
+
+Deprecate `dhparamfile` option, generate it instead 
+- Small typo 
+- Don't generate /data/ssl, not needed 
+- Permissions of new dhparam file 
+- Deprecate dhparamfile, generate it instead 
 - Merge pull request #26 from mdegat01/config-is-empty
 
 Use not is empty instead of exists for UI 

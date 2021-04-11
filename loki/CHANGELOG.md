@@ -1,4 +1,8 @@
 # Changelog since v1.4.1
+- Merge pull request #43 from mdegat01/declare-at-top
+
+Declare log_level up top 
+- Declare log_level up top 
 - Merge pull request #42 from mdegat01/variable-refactor
 
 Move constants up top in scripts 

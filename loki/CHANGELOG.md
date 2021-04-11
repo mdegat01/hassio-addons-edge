@@ -1,4 +1,8 @@
 # Changelog since v1.4.1
+- Merge pull request #42 from mdegat01/variable-refactor
+
+Move constants up top in scripts 
+- Move constants up top in scripts 
 - Merge pull request #41 from mdegat01/fix-cafile
 
 Correctly use new cafile variable 

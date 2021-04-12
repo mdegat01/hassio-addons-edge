@@ -1,4 +1,9 @@
 # Changelog since v1.0.2
+- Merge pull request #32 from mdegat01/add-apparmor
+
+Add custom apparmor profile 
+- Updated profile after local testing 
+- Add apparmor profile 
 - Merge pull request #31 from mdegat01/use-dsaparam
 
 Use dsaparam option to generate dhparam for ssl 

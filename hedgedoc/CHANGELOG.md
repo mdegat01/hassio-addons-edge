@@ -1,4 +1,8 @@
 # Changelog since v1.0.2
+- Merge pull request #33 from mdegat01/aa-add-proc-stat
+
+Missing proc stat and couple files from aa profile 
+- Missing proc stat and couple files from aa profile 
 - Merge pull request #32 from mdegat01/add-apparmor
 
 Add custom apparmor profile 

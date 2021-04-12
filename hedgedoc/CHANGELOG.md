@@ -1,4 +1,10 @@
 # Changelog since v1.0.2
+- Merge pull request #29 from mdegat01/node-update-14.16.1-r1
+
+Update to nodejs & npm `14.16.1-r1` 
+- Update to nodejs & npm `14.16.1-r1`
+
+Update to latest nodejs and npm version 
 - Merge pull request #27 from mdegat01/generate-dhparamfile
 
 Deprecate `dhparamfile` option, generate it instead 

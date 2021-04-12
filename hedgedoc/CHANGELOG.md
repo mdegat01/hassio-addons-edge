@@ -1,10 +1,17 @@
 # Changelog since v1.0.2
+- Merge pull request #28 from mdegat01/stable-to-beta
+
+Deploys to stable also go to beta 
+- Merge branch 'main' into stable-to-beta 
 - Merge pull request #29 from mdegat01/node-update-14.16.1-r1
 
 Update to nodejs & npm `14.16.1-r1` 
 - Update to nodejs & npm `14.16.1-r1`
 
 Update to latest nodejs and npm version 
+- Deploys to stable also go to beta
+
+New stable releases should also update the beta 
 - Merge pull request #27 from mdegat01/generate-dhparamfile
 
 Deprecate `dhparamfile` option, generate it instead 

@@ -1,4 +1,10 @@
 # Changelog since v1.0.2
+- Merge pull request #30 from mdegat01/devcontainer-dev
+
+Add devcontainer config 
+- Merge branch 'main' into devcontainer-dev 
+- Prettier for json files 
+- Add devcontainer config 
 - Merge pull request #28 from mdegat01/stable-to-beta
 
 Deploys to stable also go to beta 

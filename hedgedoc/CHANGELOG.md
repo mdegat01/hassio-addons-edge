@@ -1,4 +1,8 @@
 # Changelog since v1.0.2
+- Merge pull request #34 from mdegat01/aa-add-my.cnf.d
+
+Add my.cnf.d and proc loadavg to aa profile 
+- Add my.cnf.d and proc loadavg to aa profile 
 - Merge pull request #33 from mdegat01/aa-add-proc-stat
 
 Missing proc stat and couple files from aa profile 

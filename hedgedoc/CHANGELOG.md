@@ -1,4 +1,10 @@
 # Changelog since v1.0.2
+- Merge pull request #31 from mdegat01/use-dsaparam
+
+Use dsaparam option to generate dhparam for ssl 
+- Use dsaparam option to generate dhparam for ssl
+
+Generating a 4096 bit dhparam takes too long on a pi-like device, use `dsaparam` like the NGinx add-on does. 
 - Merge pull request #30 from mdegat01/devcontainer-dev
 
 Add devcontainer config 

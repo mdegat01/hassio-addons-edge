@@ -1,4 +1,8 @@
 # Changelog since v1.5.1
+- Merge pull request #60 from mdegat01/temp-remove-apparmor
+
+Temporarily remove apparmor 
+- Temporarily remove apparmor 
 - Merge pull request #59 from mdegat01/dependabot/github_actions/actions/cache-v2.1.5
 
 Bump actions/cache from v2.1.4 to v2.1.5 

@@ -1,4 +1,10 @@
 # Changelog since v1.0.2
+- Merge pull request #36 from mdegat01/aa-amd64
+
+Support amd64 with custom apparmor profile 
+- Add overlay variable for opt 
+- Add /usr/lib/locale with overlay path 
+- Support amd64 with custom apparmor profile 
 - Merge pull request #35 from mdegat01/dependabot/github_actions/actions/cache-v2.1.5
 
 Bump actions/cache from v2.1.4 to v2.1.5 

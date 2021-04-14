@@ -1,4 +1,14 @@
 # Changelog since v1.5.4
+- Merge pull request #51 from mdegat01/do_usr-aa
+
+Use the `do_usr` variable 
+- Merge branch 'do_usr-aa' of https://github.com/mdegat01/addon-loki into do_usr-aa 
+- Use the `do_usr` variable 
+- Merge pull request #52 from mdegat01/update-curl-7.76.1-r0
+
+Update curl from `7.74.0-r1` to `7.76.1-r0` 
+- Update curl from `7.74.0-r1` to `7.76.1-r0` 
+- Use the `do_usr` variable 
 - Merge pull request #50 from mdegat01/readd-apparmor
 
 Adding back apparmor profile with amd64 fixes 

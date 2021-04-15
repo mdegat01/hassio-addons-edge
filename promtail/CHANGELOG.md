@@ -1,4 +1,8 @@
 # Changelog since v1.5.2
+- Merge pull request #64 from mdegat01/update-yq-4.7.0
+
+Bump dependency `yq` from `4.6.3` to `4.7.0` 
+- Update yq from `4.6.3` to `4.7.0` 
 - Merge pull request #62 from mdegat01/do_usr-aa
 
 Use the `do_usr` variable 

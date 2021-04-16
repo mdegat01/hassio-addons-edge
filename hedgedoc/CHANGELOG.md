@@ -1,4 +1,8 @@
 # Changelog since v1.0.2
+- Merge pull request #38 from mdegat01/update-addon-base
+
+Bump addons base to `9.1.7` 
+- Bump addons base to `9.1.7` 
 - Merge pull request #37 from mdegat01/dependabot/github_actions/brpaz/hadolint-action-v1.4.0
 
 Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 

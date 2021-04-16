@@ -1,4 +1,8 @@
 # Changelog since v1.5.4
+- Merge pull request #54 from mdegat01/update-alpine-base
+
+Bump build image to `alpine:3.13.5` 
+- Bump build image to `alpine:3.13.5` 
 - Merge pull request #53 from mdegat01/dependabot/github_actions/brpaz/hadolint-action-v1.4.0
 
 Bump brpaz/hadolint-action from v1.3.1 to v1.4.0 

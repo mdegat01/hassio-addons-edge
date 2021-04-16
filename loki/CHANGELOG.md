@@ -1,4 +1,8 @@
 # Changelog since v1.5.4
+- Merge pull request #55 from mdegat01/update-addon-base
+
+Bump addons base to `9.1.7` 
+- Bump addons base to `9.1.7` 
 - Merge pull request #54 from mdegat01/update-alpine-base
 
 Bump build image to `alpine:3.13.5` 

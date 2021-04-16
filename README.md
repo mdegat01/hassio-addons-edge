@@ -145,10 +145,10 @@ SOFTWARE.
 [hedgedoc-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [hedgedoc-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [hedgedoc-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-loki]: https://github.com/mdegat01/addon-loki/tree/c726fa6
-[addon-doc-loki]: https://github.com/mdegat01/addon-loki/blob/c726fa6/README.md
+[addon-loki]: https://github.com/mdegat01/addon-loki/tree/f1927b7
+[addon-doc-loki]: https://github.com/mdegat01/addon-loki/blob/f1927b7/README.md
 [loki-issue]: https://github.com/mdegat01/addon-loki/issues
-[loki-version-shield]: https://img.shields.io/badge/version-c726fa6-yellow.svg
+[loki-version-shield]: https://img.shields.io/badge/version-f1927b7-yellow.svg
 [add-addon-loki]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_loki
 [loki-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [loki-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

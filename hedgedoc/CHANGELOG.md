@@ -1,4 +1,8 @@
 # Changelog since v1.1.0
+- Merge pull request #42 from mdegat01/cleaner-debug-log
+
+Print debug CMD_* msgs line by line readability 
+- Print debug CMD_* msgs line by line readability 
 - Merge pull request #41 from mdegat01/aa-ca-certificates
 
 AppArmor - add RO access to ca-certificates folder 

@@ -135,10 +135,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-hedgedoc]: https://github.com/mdegat01/addon-hedgedoc/tree/f7d5b6e
-[addon-doc-hedgedoc]: https://github.com/mdegat01/addon-hedgedoc/blob/f7d5b6e/README.md
+[addon-hedgedoc]: https://github.com/mdegat01/addon-hedgedoc/tree/999eabb
+[addon-doc-hedgedoc]: https://github.com/mdegat01/addon-hedgedoc/blob/999eabb/README.md
 [hedgedoc-issue]: https://github.com/mdegat01/addon-hedgedoc/issues
-[hedgedoc-version-shield]: https://img.shields.io/badge/version-f7d5b6e-yellow.svg
+[hedgedoc-version-shield]: https://img.shields.io/badge/version-999eabb-yellow.svg
 [add-addon-hedgedoc]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_hedgedoc
 [hedgedoc-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [hedgedoc-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

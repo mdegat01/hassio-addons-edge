@@ -1,17 +1,5 @@
-# Changelog since v1.1.0
-- Merge pull request #42 from mdegat01/cleaner-debug-log
+# Changelog since v1.1.1
+- Merge pull request #43 from mdegat01/doc-bug-underscore
 
-Print debug CMD_* msgs line by line readability 
-- Print debug CMD_* msgs line by line readability 
-- Merge pull request #41 from mdegat01/aa-ca-certificates
-
-AppArmor - add RO access to ca-certificates folder 
-- AppArmor - add RO access to ca-certificates folder 
-- Merge pull request #40 from mdegat01/debug-logging
-
-Add some debug logging for seeing final config 
-- Add some debug logging for seeing final config 
-- Merge pull request #39 from mdegat01/remove-loki-from-docs
-
-Remove Loki references in docs 
-- Remove Loki references in docs 
+Missed a closing underscore in docs 
+- Missed a closing underscore in docs 

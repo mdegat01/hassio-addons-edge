@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #7 from mdegat01/silent-curl
+
+Silent curl to prevent log noise during auth 
+- Silent curl to prevent log noise during auth 
 - Merge pull request #6 from mdegat01/add-watchdog-url
 
 Add watchdog URL to config 

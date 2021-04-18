@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #8 from mdegat01/ha-auth-script
+
+Move `curl` call into a script to simplify auth 
+- Move curl call into a script to simplify auth 
 - Merge pull request #7 from mdegat01/silent-curl
 
 Silent curl to prevent log noise during auth 

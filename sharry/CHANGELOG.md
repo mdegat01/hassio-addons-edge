@@ -1,4 +1,9 @@
 # Changelog since 0.0.1
+- Merge pull request #6 from mdegat01/add-watchdog-url
+
+Add watchdog URL to config 
+- Doc and email template wording tweaks 
+- Add watchdog URL to config 
 - Merge pull request #5 from mdegat01/curl-fail-on-status
 
 Auth command fails on error HTTP status 

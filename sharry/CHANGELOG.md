@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #5 from mdegat01/curl-fail-on-status
+
+Auth command fails on error HTTP status 
+- Auth command fails on error HTTP status 
 - Merge pull request #4 from mdegat01/property-not-name
 
 Use `property` not `name` in run script 

@@ -1,4 +1,8 @@
 # Changelog since 0.0.1
+- Merge pull request #4 from mdegat01/property-not-name
+
+Use `property` not `name` in run script 
+- Use `property` not `name` in run script 
 - Merge pull request #3 from mdegat01/fix-conf-overrides
 
 Using `env_vars` instead of `conf_overrides` 

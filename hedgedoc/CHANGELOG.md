@@ -1,4 +1,8 @@
 # Changelog since v1.1.1
+- Merge pull request #46 from mdegat01/rm-aa-etc-rw
+
+Remove reference to `etc_rw` in link statement 
+- Remove reference to etc_rw in link statement 
 - Merge pull request #45 from mdegat01/aa-reduce-globals
 
 aa - Remove references to run and etc globals 

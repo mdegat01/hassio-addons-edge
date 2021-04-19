@@ -1,4 +1,8 @@
 # Changelog since v1.1.1
+- Merge pull request #45 from mdegat01/aa-reduce-globals
+
+aa - Remove references to run and etc globals 
+- aa - Remove references to run and etc globals 
 - Merge pull request #44 from mdegat01/fix-license-link
 
 Fix license link in readme 

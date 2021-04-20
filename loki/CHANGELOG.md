@@ -1,4 +1,8 @@
 # Changelog since v1.5.5
+- Merge pull request #58 from mdegat01/remove-access-log
+
+Remove Nginx access log 
+- Remove Nginx access log 
 - Merge pull request #57 from mdegat01/aa-reduce-globals
 
 aa - Remove references to run and etc globals 

@@ -1,9 +1,5 @@
-# Changelog since v1.0.0
-- Merge pull request #10 from mdegat01/add-forum-link
+# Changelog since v1.0.1
+- Merge pull request #11 from mdegat01/add-pr-labels-flow
 
-Add link to the forum launch post 
-- Add link to the forum launch post 
-- Merge pull request #9 from mdegat01/fix-license-link
-
-Fix license link in readme 
-- Fix license link in readme 
+Add workflow to enforce specific labels on PRs 
+- Add workflow to enforce specific labels on PRs 

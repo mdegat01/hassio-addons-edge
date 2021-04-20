@@ -1,4 +1,8 @@
 # Changelog since v1.1.1
+- Merge pull request #47 from mdegat01/add-pr-labels-flow
+
+Add workflow to enforce specific labels on PRs 
+- Add workflow to enforce specific labels on PRs 
 - Merge pull request #46 from mdegat01/rm-aa-etc-rw
 
 Remove reference to `etc_rw` in link statement 

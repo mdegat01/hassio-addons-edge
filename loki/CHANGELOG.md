@@ -1,4 +1,8 @@
 # Changelog since v1.5.5
+- Merge pull request #59 from mdegat01/add-pr-labels-flow
+
+Add workflow to enforce specific labels on PRs 
+- Add workflow to enforce specific labels on PRs 
 - Merge pull request #58 from mdegat01/remove-access-log
 
 Remove Nginx access log 

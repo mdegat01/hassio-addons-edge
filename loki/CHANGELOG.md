@@ -1,4 +1,8 @@
 # Changelog since v1.5.6
+- Merge pull request #63 from mdegat01/aa-signal-peer-glob
+
+aa - no ** in peer filtering for signal directive 
+- aa - no ** in peer filtering for signal directive 
 - Merge pull request #62 from mdegat01/aa-improve-signalling
 
 Improve signalling rules in apparmor 

@@ -1,4 +1,8 @@
 # Changelog since v1.0.1
+- Merge pull request #14 from mdegat01/aa-signal-peer-glob
+
+aa - no `**` in peer filtering for signal directive 
+- aa - no ** in peer filtering for signal directive 
 - Merge pull request #13 from mdegat01/aa-no-complain
 
 Remove complain mode from apparmor profile 

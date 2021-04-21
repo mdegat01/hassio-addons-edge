@@ -1,4 +1,8 @@
 # Changelog since v1.5.5
+- Merge pull request #61 from mdegat01/aa-loki-unix-dgram
+
+AA - Allow loki to bind on unix dgram 
+- AA - Allow loki to bind on unix dgram 
 - Merge pull request #60 from mdegat01/aa-network-access
 
 AA - Improve network access controls 

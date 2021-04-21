@@ -1,4 +1,8 @@
 # Changelog since v1.5.3
+- Merge pull request #70 from mdegat01/aa-network-access
+
+AA - Improve network access controls 
+- AA - Improve network access controls 
 - Merge pull request #69 from mdegat01/add-pr-labels-flow
 
 Add workflow to enforce specific labels on PRs 

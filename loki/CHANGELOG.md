@@ -1,25 +1,5 @@
-# Changelog since v1.5.5
-- Merge pull request #61 from mdegat01/aa-loki-unix-dgram
+# Changelog since v1.5.6
+- Merge pull request #62 from mdegat01/aa-improve-signalling
 
-AA - Allow loki to bind on unix dgram 
-- AA - Allow loki to bind on unix dgram 
-- Merge pull request #60 from mdegat01/aa-network-access
-
-AA - Improve network access controls 
-- AA - Improve network access controls 
-- Merge pull request #59 from mdegat01/add-pr-labels-flow
-
-Add workflow to enforce specific labels on PRs 
-- Add workflow to enforce specific labels on PRs 
-- Merge pull request #58 from mdegat01/remove-access-log
-
-Remove Nginx access log 
-- Remove Nginx access log 
-- Merge pull request #57 from mdegat01/aa-reduce-globals
-
-aa - Remove references to run and etc globals 
-- aa - Remove references to run and etc globals 
-- Merge pull request #56 from mdegat01/fix-license-link
-
-Fix license link in readme 
-- Fix license link in readme 
+Improve signalling rules in apparmor 
+- Improve signalling rules in apparmor 

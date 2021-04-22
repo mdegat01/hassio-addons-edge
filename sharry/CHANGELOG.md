@@ -1,4 +1,12 @@
 # Changelog since v1.0.1
+- Merge pull request #18 from mdegat01/dependabot/docker/sharry/alpine-3.13.5
+
+Bump alpine from 3.13.4 to 3.13.5 in /sharry 
+- Bump alpine from 3.13.4 to 3.13.5 in /sharry
+
+Bumps alpine from 3.13.4 to 3.13.5.
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #17 from mdegat01/dependabot-docker
 
 Add docker to dependabot 

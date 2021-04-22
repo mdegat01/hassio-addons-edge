@@ -1,4 +1,8 @@
 # Changelog since v1.0.1
+- Merge pull request #16 from mdegat01/addon-base-9.2.0
+
+Bump addons base from `9.1.7` to `9.2.0` 
+- Bump addons base from `9.1.7` to `9.2.0` 
 - Merge pull request #15 from mdegat01/mariadb-client-10.5.9-r0
 
 Bump mariadb-client from 10.5.8-r0 to 10.5.9-r0 

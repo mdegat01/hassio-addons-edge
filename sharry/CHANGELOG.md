@@ -1,4 +1,8 @@
 # Changelog since v1.0.1
+- Merge pull request #15 from mdegat01/mariadb-client-10.5.9-r0
+
+Bump mariadb-client from 10.5.8-r0 to 10.5.9-r0 
+- Bump mariadb-client from 10.5.8-r0 to 10.5.9-r0 
 - Merge pull request #14 from mdegat01/aa-signal-peer-glob
 
 aa - no `**` in peer filtering for signal directive 

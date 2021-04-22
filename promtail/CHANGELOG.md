@@ -1,4 +1,12 @@
 # Changelog since v1.5.4
+- Merge pull request #74 from mdegat01/dependabot-docker
+
+Add docker to dependabot 
+- Add docker to dependabot 
+- Merge pull request #73 from mdegat01/addons-debian-base-4.2.0
+
+Bump addons debian base from `4.1.4` to `4.2.0` 
+- Bump addons debian base from `4.1.4` to `4.2.0` 
 - Merge pull request #72 from mdegat01/aa-signal-peer-glob
 
 aa - no ** in peer filtering for signal directive 

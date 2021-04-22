@@ -1,4 +1,9 @@
 # Changelog since v1.1.2
+- Merge pull request #53 from mdegat01/dependabot-docker
+
+Add docker to dependabot 
+- Remove unnecessary comment 
+- Add docker to dependabot 
 - Merge pull request #51 from mdegat01/addons-base-9.2.0
 
 Bump addons base from `9.1.7` to `9.2.0` 

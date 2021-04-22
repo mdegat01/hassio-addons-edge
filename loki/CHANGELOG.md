@@ -1,4 +1,8 @@
 # Changelog since v1.5.6
+- Merge pull request #66 from mdegat01/nightly-ci
+
+Run CI nightly to check packages 
+- Run CI nightly to check packages 
 - Merge pull request #65 from mdegat01/dependabot-docker
 
 Add docker to dependabot 

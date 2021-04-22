@@ -1,4 +1,8 @@
 # Changelog since v1.0.1
+- Merge pull request #19 from mdegat01/nightly-ci
+
+Run CI nightly to check packages 
+- Run CI nightly to check packages 
 - Merge pull request #18 from mdegat01/dependabot/docker/sharry/alpine-3.13.5
 
 Bump alpine from 3.13.4 to 3.13.5 in /sharry 

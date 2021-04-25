@@ -1,4 +1,10 @@
 # Changelog since v1.5.4
+- Merge pull request #76 from mdegat01/yq-4.7.1
+
+Bump `yq` from `4.7.0` to `4.7.1` 
+- Bump `yq` from `4.7.0` to `4.7.1`
+
+Bump `mikefarah/yq` from version `4.7.0` to [4.7.1](https://github.com/mikefarah/yq/releases/tag/v4.7.1) 
 - Merge pull request #75 from mdegat01/nightly-ci
 
 Run CI nightly to check packages 

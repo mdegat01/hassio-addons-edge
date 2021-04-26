@@ -1,4 +1,24 @@
 # Changelog since v1.5.4
+- Merge pull request #78 from mdegat01/dependabot/github_actions/docker/setup-qemu-action-v1.1.0
+
+Bump docker/setup-qemu-action from v1.0.2 to v1.1.0 
+- Bump docker/setup-qemu-action from v1.0.2 to v1.1.0
+
+Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from v1.0.2 to v1.1.0.
+- [Release notes](https://github.com/docker/setup-qemu-action/releases)
+- [Commits](https://github.com/docker/setup-qemu-action/compare/v1.0.2...c308fdd69d26ed66f4506ebd74b180abe5362145)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Merge pull request #77 from mdegat01/dependabot/github_actions/docker/setup-buildx-action-v1.2.0
+
+Bump docker/setup-buildx-action from v1.1.2 to v1.2.0 
+- Bump docker/setup-buildx-action from v1.1.2 to v1.2.0
+
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from v1.1.2 to v1.2.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v1.1.2...012185ccbeb554a7f5f987bea0f1a73519b3cdf5)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #76 from mdegat01/yq-4.7.1
 
 Bump `yq` from `4.7.0` to `4.7.1` 

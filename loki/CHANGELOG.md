@@ -1,4 +1,8 @@
 # Changelog since v1.5.6
+- Merge pull request #69 from mdegat01/nginx-return-444
+
+Return `444` from `/ready` only upstream 
+- Return 444 from /ready only upstream 
 - Merge pull request #68 from mdegat01/dependabot/github_actions/docker/setup-qemu-action-v1.1.0
 
 Bump docker/setup-qemu-action from v1.0.2 to v1.1.0 

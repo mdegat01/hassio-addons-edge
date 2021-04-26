@@ -1,42 +1,25 @@
-# Changelog since v1.0.1
-- Merge pull request #19 from mdegat01/nightly-ci
+## What’s changed
 
-Run CI nightly to check packages 
-- Run CI nightly to check packages 
-- Merge pull request #18 from mdegat01/dependabot/docker/sharry/alpine-3.13.5
+Primary change of this release is addition of a custom apparmor profile for increased security of the addon. These profiles carefully control what can and cannot be used to ensure the service does not have access to anything more then strictly necessary. I did extensive testing to ensure it works with this profile in place but I definitely didn't exhaust every possible configuration option of Sharry so its possible some advanced configurations require access to a file or capability that is now being denied.
 
-Bump alpine from 3.13.4 to 3.13.5 in /sharry 
-- Bump alpine from 3.13.4 to 3.13.5 in /sharry
+If you encounter an issue please report it [here](https://github.com/mdegat01/addon-sharry/issues) and include details of your configuration and logs you saw.
 
-Bumps alpine from 3.13.4 to 3.13.5.
+## 🚀 Enhancements
 
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #17 from mdegat01/dependabot-docker
+- Add custom apparmor profile @mdegat01 (#12)
 
-Add docker to dependabot 
-- Add docker to dependabot 
-- Merge pull request #16 from mdegat01/addon-base-9.2.0
+## 🧰 Maintenance
 
-Bump addons base from `9.1.7` to `9.2.0` 
-- Bump addons base from `9.1.7` to `9.2.0` 
-- Merge pull request #15 from mdegat01/mariadb-client-10.5.9-r0
+- Add docker to dependabot @mdegat01 (#17)
+- Run CI nightly to check packages @mdegat01 (#19)
+- Add workflow to enforce specific labels on PRs @mdegat01 (#11)
 
-Bump mariadb-client from 10.5.8-r0 to 10.5.9-r0 
-- Bump mariadb-client from 10.5.8-r0 to 10.5.9-r0 
-- Merge pull request #14 from mdegat01/aa-signal-peer-glob
+## ⬆️ Dependency updates
 
-aa - no `**` in peer filtering for signal directive 
-- aa - no ** in peer filtering for signal directive 
-- Merge pull request #13 from mdegat01/aa-no-complain
+- Bump mariadb-client from 10.5.8-r0 to 10.5.9-r0 @mdegat01 (#15)
+- Bump addons base from `9.1.7` to `9.2.0` @mdegat01 (#16)
+- Bump alpine from 3.13.4 to 3.13.5 in /sharry @dependabot (#18)
 
-Remove complain mode from apparmor profile 
-- Remove complain mode from apparmor profile 
-- Merge pull request #12 from mdegat01/add-apparmor
 
-Add custom apparmor profile 
-- Update apparmor profile after testing service 
-- Add custom apparmor profile 
-- Merge pull request #11 from mdegat01/add-pr-labels-flow
 
-Add workflow to enforce specific labels on PRs 
-- Add workflow to enforce specific labels on PRs 
+

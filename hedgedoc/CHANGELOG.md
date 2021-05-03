@@ -1,4 +1,8 @@
 # Changelog since v1.1.2
+- Merge pull request #59 from mdegat01/update-hedgedoc-1.8.0
+
+Update to HedgeDoc 1.8.0 and remove sequelizerc 
+- Update to HedgeDoc 1.8.0 and remove sequelizerc 
 - Merge pull request #58 from mdegat01/dependabot/github_actions/docker/setup-buildx-action-v1.3.0
 
 Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 

@@ -1,4 +1,9 @@
 # Changelog since v1.1.2
+- Merge pull request #61 from mdegat01/add-csp-settings
+
+Set `cspupgradeInsecureRequests` to `false` in settings 
+- Only set `upgradeInsecureRequests` 
+- Set frameAncestors and upgradeInsecureRequests 
 - Merge pull request #60 from mdegat01/remove-db-migrations
 
 Stop doing db migrations prior to startup 

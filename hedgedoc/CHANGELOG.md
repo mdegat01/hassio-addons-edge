@@ -1,4 +1,8 @@
 # Changelog since v1.1.2
+- Merge pull request #60 from mdegat01/remove-db-migrations
+
+Stop doing db migrations prior to startup 
+- Stop doing db migrations prior to startup 
 - Merge pull request #59 from mdegat01/update-hedgedoc-1.8.0
 
 Update to HedgeDoc 1.8.0 and remove sequelizerc 

@@ -1,4 +1,9 @@
 # Changelog since v1.1.2
+- Merge pull request #63 from mdegat01/csp-directives-top-level
+
+Move csp directives config to root level 
+- Fix example config in docs 
+- Move csp directives config to root level 
 - Merge pull request #62 from mdegat01/set-csp-directives
 
 Add option to set csp directives 

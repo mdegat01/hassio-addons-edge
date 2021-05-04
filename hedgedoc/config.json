@@ -1,7 +1,7 @@
 {
   "name": "HedgeDoc",
   "url": "https://github.com/mdegat01/addon-hedgedoc",
-  "version": "9672fc1",
+  "version": "a303dac",
   "slug": "hedgedoc",
   "arch": [
     "aarch64",
@@ -33,6 +33,9 @@
       "session_secret": null,
       "session_days": 30
     },
+    "csp": {
+      "directives": []
+    },
     "log_level": "info",
     "env_vars": []
   },
@@ -48,6 +51,14 @@
       "session_secret": "password?",
       "session_days": "int(1,)?",
       "allow_email_registration": "bool?"
+    },
+    "csp": {
+      "directives": [
+        {
+          "name": "str",
+          "value": "str"
+        }
+      ]
     },
     "remote_mysql_host": "str?",
     "remote_mysql_port": "port?",

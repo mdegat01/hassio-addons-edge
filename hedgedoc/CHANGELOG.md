@@ -1,4 +1,8 @@
 # Changelog since v1.1.2
+- Merge pull request #62 from mdegat01/set-csp-directives
+
+Add option to set csp directives 
+- Add option to set csp directives 
 - Merge pull request #61 from mdegat01/add-csp-settings
 
 Set `cspupgradeInsecureRequests` to `false` in settings 

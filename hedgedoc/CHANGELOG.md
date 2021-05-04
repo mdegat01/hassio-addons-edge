@@ -1,4 +1,8 @@
 # Changelog since v1.1.2
+- Merge pull request #64 from mdegat01/no-symlink-public-views
+
+Don't copy OOTB views and notes from public 
+- Don't store shipped views and notes from public 
 - Merge pull request #63 from mdegat01/csp-directives-top-level
 
 Move csp directives config to root level 

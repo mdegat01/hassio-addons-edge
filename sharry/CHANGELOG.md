@@ -1,4 +1,12 @@
 # Changelog since v1.1.0
+- Merge pull request #24 from mdegat01/bump-sharry-1.7.0
+
+Update Sharry from `1.6.0` to `1.7.0` 
+- Release tags don't start with release/ anymore 
+- Tags are v{VERSION} now apparently 
+- Update Sharry from `1.6.0` to `1.7.0`
+
+Update Sharry from version `1.6.0` to [1.7.0](https://github.com/eikek/sharry/releases/tag/v1.7.0). 
 - Merge pull request #23 from mdegat01/dependabot/github_actions/docker/setup-buildx-action-v1.3.0
 
 Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 

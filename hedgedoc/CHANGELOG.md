@@ -1,4 +1,8 @@
 # Changelog since v1.2.0
+- Merge pull request #66 from mdegat01/handle-ssl-option-conflict
+
+Handle ssl option conflict during setup 
+- Handle ssl option conflict during setup 
 - Merge pull request #65 from mdegat01/update-hedgedoc-1.8.1
 
 Update to HedgeDoc to `1.8.1` 

@@ -1,14 +1,11 @@
-# Changelog since v1.2.0
-- Merge pull request #66 from mdegat01/handle-ssl-option-conflict
+## What’s changed
+## 🚨 Breaking changes
 
-Handle ssl option conflict during setup 
-- Handle ssl option conflict during setup 
-- Merge pull request #65 from mdegat01/update-hedgedoc-1.8.1
+Another small breaking change that I don't think will actually affect anyone but noting just in case. (#65)
 
-Update to HedgeDoc to `1.8.1` 
-- Update `access.use_ssl` in docs
+In `1.8.1` HedgeDoc changed it so if `useSSL` is `true` then `protocolUseSSL` must also be `true`. `ssl` in the addon config is used to set `useSSL` and `access.use_ssl` is used to set `protocolUseSSL` so that means if `ssl` is `true` then `access.use_ssl` is also `true`. Documentation now notes this and if anyone happened to have a conflict between the two in their configuration then a warning is logged and `access.use_ssl` is removed from the addon configuration.
 
-Docs now note that if `ssl` is `true` then `access.use_ssl` must also be `true`. 
-- Update to HedgeDoc to `1.8.1`
+## 🚀 Enhancements
 
-Update HedgeDoc from `1.8.0` to [1.8.1](https://github.com/hedgedoc/hedgedoc/releases/tag/1.8.1). Fixes https://github.com/hedgedoc/hedgedoc/issues/1221. 
+- Update to HedgeDoc to `1.8.1` @mdegat01 (#65)
+- Handle ssl option conflict during setup @mdegat01 (#66)

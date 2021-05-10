@@ -1,11 +1,18 @@
-## What’s changed
-## 🚀 Enhancements
+# Changelog since v1.2.0
+- Merge pull request #25 from mdegat01/dependabot/github_actions/brpaz/hadolint-action-v1.5.0
 
-- Update Sharry from `1.6.0` to `1.7.0` @mdegat01 (#24)
+Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 
+- Merge pull request #26 from mdegat01/update-sharry-1.7.1
 
-## ⬆️ Dependency updates
+Bump sharry to `1.7.1` 
+- Update sharry to `1.7.1`
 
-- Bump docker/setup-buildx-action from v1.1.2 to v1.2.0 @dependabot (#21)
-- Bump docker/setup-qemu-action from v1.0.2 to v1.1.0 @dependabot (#20)
-- Bump docker/login-action from v1.8.0 to v1.9.0 @dependabot (#22)
-- Bump docker/setup-buildx-action from v1.2.0 to v1.3.0 @dependabot (#23)
+Update Sharry from `1.7.0` to [1.7.1](https://github.com/eikek/sharry/releases/tag/v1.7.1) 
+- Bump brpaz/hadolint-action from v1.4.0 to v1.5.0
+
+Bumps [brpaz/hadolint-action](https://github.com/brpaz/hadolint-action) from v1.4.0 to v1.5.0.
+- [Release notes](https://github.com/brpaz/hadolint-action/releases)
+- [Changelog](https://github.com/hadolint/hadolint-action/blob/master/.releaserc)
+- [Commits](https://github.com/brpaz/hadolint-action/compare/v1.4.0...c27bd9edc1e95eed30474db8f295ff5807ebca14)
+
+Signed-off-by: dependabot[bot] <support@github.com> 

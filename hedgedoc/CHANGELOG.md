@@ -1,11 +1,12 @@
-## What’s changed
-## 🚨 Breaking changes
+# Changelog since v1.3.0
+- Merge pull request #67 from mdegat01/dependabot/github_actions/brpaz/hadolint-action-v1.5.0
 
-Another small breaking change that I don't think will actually affect anyone but noting just in case. (#65)
+Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 
+- Bump brpaz/hadolint-action from v1.4.0 to v1.5.0
 
-In `1.8.1` HedgeDoc changed it so if `useSSL` is `true` then `protocolUseSSL` must also be `true`. `ssl` in the addon config is used to set `useSSL` and `access.use_ssl` is used to set `protocolUseSSL` so that means if `ssl` is `true` then `access.use_ssl` is also `true`. Documentation now notes this and if anyone happened to have a conflict between the two in their configuration then a warning is logged and `access.use_ssl` is removed from the addon configuration.
+Bumps [brpaz/hadolint-action](https://github.com/brpaz/hadolint-action) from v1.4.0 to v1.5.0.
+- [Release notes](https://github.com/brpaz/hadolint-action/releases)
+- [Changelog](https://github.com/hadolint/hadolint-action/blob/master/.releaserc)
+- [Commits](https://github.com/brpaz/hadolint-action/compare/v1.4.0...c27bd9edc1e95eed30474db8f295ff5807ebca14)
 
-## 🚀 Enhancements
-
-- Update to HedgeDoc to `1.8.1` @mdegat01 (#65)
-- Handle ssl option conflict during setup @mdegat01 (#66)
+Signed-off-by: dependabot[bot] <support@github.com> 

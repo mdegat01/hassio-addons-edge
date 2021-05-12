@@ -1,4 +1,8 @@
 # Changelog since v1.3.0
+- Merge pull request #70 from mdegat01/update-hedgedoc-1.8.2
+
+Update HedgeDoc to `1.8.2` 
+- Update HedgeDoc to `1.8.2` 
 - Merge pull request #67 from mdegat01/dependabot/github_actions/brpaz/hadolint-action-v1.5.0
 
 Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 

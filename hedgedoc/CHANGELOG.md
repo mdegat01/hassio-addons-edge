@@ -1,4 +1,14 @@
 # Changelog since v1.3.0
+- Merge pull request #68 from mdegat01/dependabot/github_actions/frenck/action-addon-linter-2.1
+
+Bump frenck/action-addon-linter from 2 to 2.1 
+- Bump frenck/action-addon-linter from 2 to 2.1
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2 to 2.1.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2...v2.1)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #70 from mdegat01/update-hedgedoc-1.8.2
 
 Update HedgeDoc to `1.8.2` 

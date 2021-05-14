@@ -1,4 +1,10 @@
 # Changelog since v1.5.4
+- Merge pull request #84 from mdegat01/bump-yq-4.9.0
+
+Bump YQ to `4.9.0` 
+- Bump YQ to `4.9.0`
+
+Bump YQ from `4.8.0` to [4.9.0](https://github.com/mikefarah/yq/releases/tag/v4.9.0) 
 - Merge pull request #83 from mdegat01/dependabot/github_actions/frenck/action-addon-linter-2.1
 
 Bump frenck/action-addon-linter from 2 to 2.1 

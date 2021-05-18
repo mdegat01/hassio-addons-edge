@@ -1,6 +1,11 @@
-## What’s changed
-## ⬆️ Dependency updates
+# Changelog since v1.3.1
+- Merge pull request #71 from mdegat01/dependabot/github_actions/actions/stale-3.0.19
 
-- Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 @dependabot (#67)
-- Update HedgeDoc to [1.8.2](https://github.com/hedgedoc/hedgedoc/releases/tag/1.8.2) @mdegat01 (#70)
-- Bump frenck/action-addon-linter from 2 to 2.1 @dependabot (#68)
+Bump actions/stale from 3.0.18 to 3.0.19 
+- Bump actions/stale from 3.0.18 to 3.0.19
+
+Bumps [actions/stale](https://github.com/actions/stale) from 3.0.18 to 3.0.19.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Commits](https://github.com/actions/stale/compare/v3.0.18...v3.0.19)
+
+Signed-off-by: dependabot[bot] <support@github.com> 

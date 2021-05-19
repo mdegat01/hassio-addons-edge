@@ -1,4 +1,10 @@
 # Changelog since v1.5.4
+- Merge pull request #88 from mdegat01/bump-addon-debian-base-4.2.1
+
+Bump addon debian base to `4.2.1` 
+- Bump addon debian base to `4.2.1`
+
+Bump the addon debian base image from `4.2.0` to [4.2.1](https://github.com/hassio-addons/addon-debian-base/releases/tag/v4.2.1) 
 - Merge pull request #87 from mdegat01/dependabot/github_actions/actions/stale-3.0.19
 
 Bump actions/stale from 3.0.18 to 3.0.19 

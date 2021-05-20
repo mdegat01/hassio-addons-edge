@@ -1,4 +1,10 @@
 # Changelog since v1.5.4
+- Merge pull request #90 from mdegat01/bump-promtail-journal-1.0.1
+
+Bump promtail journal base to `1.0.1` 
+- Bump promtail journal base to `1.0.1`
+
+Bump promtail journal from `1.0.0` to [1.0.1](https://github.com/mdegat01/promtail-journal/releases/tag/v1.0.1) 
 - Merge pull request #89 from mdegat01/dependabot/github_actions/frenck/action-addon-information-1.1
 
 Bump frenck/action-addon-information from 1.0.0 to 1.1 

@@ -1,4 +1,14 @@
 # Changelog since v1.5.4
+- Merge pull request #89 from mdegat01/dependabot/github_actions/frenck/action-addon-information-1.1
+
+Bump frenck/action-addon-information from 1.0.0 to 1.1 
+- Bump frenck/action-addon-information from 1.0.0 to 1.1
+
+Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.0.0 to 1.1.
+- [Release notes](https://github.com/frenck/action-addon-information/releases)
+- [Commits](https://github.com/frenck/action-addon-information/compare/v1.0.0...v1.1)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #88 from mdegat01/bump-addon-debian-base-4.2.1
 
 Bump addon debian base to `4.2.1` 

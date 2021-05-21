@@ -1,4 +1,10 @@
 # Changelog since v1.5.4
+- Merge pull request #91 from mdegat01/bump-yq-4.9.2
+
+Bump YQ to `4.9.2` 
+- Bump YQ to `4.9.2`
+
+Bump yq from `4.9.1` to [4.9.2](https://github.com/mikefarah/yq/releases/tag/v4.9.2) 
 - Merge pull request #90 from mdegat01/bump-promtail-journal-1.0.1
 
 Bump promtail journal base to `1.0.1` 

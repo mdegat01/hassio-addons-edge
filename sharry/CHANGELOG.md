@@ -1,4 +1,14 @@
 # Changelog since v1.2.0
+- Merge pull request #30 from mdegat01/dependabot/github_actions/micnncim/action-label-syncer-1.3.0
+
+Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 
+- Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0
+
+Bumps [micnncim/action-label-syncer](https://github.com/micnncim/action-label-syncer) from 1.2.0 to 1.3.0.
+- [Release notes](https://github.com/micnncim/action-label-syncer/releases)
+- [Commits](https://github.com/micnncim/action-label-syncer/compare/v1.2.0...v1.3.0)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #29 from mdegat01/dependabot/github_actions/frenck/action-addon-information-1.1
 
 Bump frenck/action-addon-information from 1.0.0 to 1.1 

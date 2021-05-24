@@ -1,4 +1,17 @@
 # Changelog since v1.2.0
+- Merge pull request #32 from mdegat01/update-sharry-1.8.0
+
+Update to Sharry `1.8.0` 
+- Update to Sharry `1.8.0`
+
+Update Sharry from `1.7.1` to [1.8.0](https://github.com/eikek/sharry/releases/tag/v1.8.0) 
+- Merge pull request #31 from mdegat01/change-stage-shield
+
+Change stage shield to production ready 
+- Change stage shield to production ready 
+- Change stage shield to production ready
+
+Change stage shield from experimental to production ready 
 - Merge pull request #30 from mdegat01/dependabot/github_actions/micnncim/action-label-syncer-1.3.0
 
 Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 

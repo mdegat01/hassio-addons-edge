@@ -1,7 +1,7 @@
 {
   "name": "Loki",
   "url": "https://github.com/mdegat01/addon-loki",
-  "version": "fba57f9",
+  "version": "720b2d5",
   "slug": "loki",
   "arch": [
     "aarch64",

@@ -1,4 +1,10 @@
 # Changelog since v1.3.0
+- Merge pull request #36 from mdegat01/bump-addon-base-9.2.1
+
+Bump addon base to `9.2.1` 
+- Bump addon base to `9.2.1`
+
+Bump addon base from `9.2.0` to [9.2.1](https://github.com/hassio-addons/addon-base/releases/tag/v9.2.1) 
 - Merge pull request #33 from mdegat01/dependabot/github_actions/docker/setup-qemu-action-1.2.0
 
 Bump docker/setup-qemu-action from 1.1.0 to 1.2.0 

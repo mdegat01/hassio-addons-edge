@@ -1,20 +1,17 @@
-## What’s changed
-## 🚨 Breaking changes
+# Changelog since v1.3.0
+- Merge pull request #34 from mdegat01/dependabot/github_actions/docker/build-push-action-2.5.0
 
-- Update to Sharry `1.8.0` @mdegat01 (#32)
+Bump docker/build-push-action from 2.4.0 to 2.5.0 
+- Bump docker/build-push-action from 2.4.0 to 2.5.0
 
-Please review the release notes of [Sharry 1.8.0](https://github.com/eikek/sharry/releases/tag/v1.8.0) to see details on the breaking changes. They seem minor but there are a couple changes to the API that could affect advanced users.
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.4.0 to 2.5.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v2.4.0...v2.5.0)
 
-## 📚 Documentation
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Merge pull request #35 from mdegat01/bump-curl-7.77.0-r0
 
-- Change stage shield to production ready @mdegat01 (#31)
+Bump curl to `7.77.0-r0` 
+- Bump curl to `7.77.0-r0`
 
-## ⬆️ Dependency updates
-
-- Bump sharry to `1.7.1` @mdegat01 (#26)
-- Bump brpaz/hadolint-action from v1.4.0 to v1.5.0 @dependabot (#25)
-- Bump frenck/action-addon-linter from 2 to 2.1 @dependabot (#27)
-- Bump actions/stale from 3.0.18 to 3.0.19 @dependabot (#28)
-- Bump frenck/action-addon-information from 1.0.0 to 1.1 @dependabot (#29)
-- Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 @dependabot (#30)
-- Update to Sharry `1.8.0` @mdegat01 (#32)
+Bump curl from `7.76.1-r0` to `7.77.0-r0` 

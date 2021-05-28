@@ -1,4 +1,14 @@
 # Changelog since v1.3.1
+- Merge pull request #77 from mdegat01/dependabot/github_actions/actions/cache-2.1.6
+
+Bump actions/cache from 2.1.5 to 2.1.6 
+- Bump actions/cache from 2.1.5 to 2.1.6
+
+Bumps [actions/cache](https://github.com/actions/cache) from 2.1.5 to 2.1.6.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.5...v2.1.6)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #76 from mdegat01/bump-addon-base-9.2.1
 
 Bump addon base to `9.2.1` 

@@ -1,4 +1,14 @@
 # Changelog since v1.6.0
+- Merge pull request #97 from mdegat01/dependabot/github_actions/actions/cache-2.1.6
+
+Bump actions/cache from 2.1.5 to 2.1.6 
+- Bump actions/cache from 2.1.5 to 2.1.6
+
+Bumps [actions/cache](https://github.com/actions/cache) from 2.1.5 to 2.1.6.
+- [Release notes](https://github.com/actions/cache/releases)
+- [Commits](https://github.com/actions/cache/compare/v2.1.5...v2.1.6)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #95 from mdegat01/dependabot/github_actions/docker/setup-qemu-action-1.2.0
 
 Bump docker/setup-qemu-action from 1.1.0 to 1.2.0 

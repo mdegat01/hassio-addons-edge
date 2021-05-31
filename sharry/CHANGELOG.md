@@ -1,4 +1,14 @@
 # Changelog since v1.3.0
+- Merge pull request #38 from mdegat01/dependabot/github_actions/frenck/action-addon-information-1.2
+
+Bump frenck/action-addon-information from 1.1 to 1.2 
+- Bump frenck/action-addon-information from 1.1 to 1.2
+
+Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.1 to 1.2.
+- [Release notes](https://github.com/frenck/action-addon-information/releases)
+- [Commits](https://github.com/frenck/action-addon-information/compare/v1.1...v1.2)
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #37 from mdegat01/dependabot/github_actions/actions/cache-2.1.6
 
 Bump actions/cache from 2.1.5 to 2.1.6 

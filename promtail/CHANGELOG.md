@@ -1,4 +1,10 @@
 # Changelog since v1.6.0
+- Merge pull request #99 from mdegat01/bump-yq-4.9.4
+
+Bump yq to `4.9.4` 
+- Bump yq to `4.9.4`
+
+Bump yq from `4.9.3` to [4.9.4](https://github.com/mikefarah/yq/releases/tag/v4.9.4) 
 - Merge pull request #98 from mdegat01/dependabot/github_actions/frenck/action-addon-information-1.2
 
 Bump frenck/action-addon-information from 1.1 to 1.2 

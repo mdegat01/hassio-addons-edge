@@ -1,4 +1,10 @@
 # Changelog since v1.3.1
+- Merge pull request #79 from mdegat01/bump-addon-base-9.2.2
+
+Bump addon base to `9.2.2` 
+- Bump addon base to `9.2.2`
+
+Bump addon base from `9.2.1` to [9.2.2](https://github.com/hassio-addons/addon-base/releases/tag/v9.2.2) 
 - Merge pull request #78 from mdegat01/dependabot/github_actions/frenck/action-addon-information-1.2
 
 Bump frenck/action-addon-information from 1.1 to 1.2 

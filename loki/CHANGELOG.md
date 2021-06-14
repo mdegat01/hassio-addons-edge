@@ -1,4 +1,13 @@
 # Changelog since v1.6.0
+- Merge pull request #83 from mdegat01/bump-curl-7.77.0-r1
+
+Bump curl to `7.77.0-r1` & nginx to `nginx-1.18.0-r15` 
+- Bump nginx to `nginx-1.18.0-r15`
+
+Bump nginx from `nginx-1.18.0-r14` to `nginx-1.18.0-r15` 
+- Bump curl to `7.77.0-r1`
+
+Bump curl from `7.77.0-r0` to `7.77.0-r1` 
 - Merge pull request #82 from mdegat01/dependabot/github_actions/frenck/action-addon-information-1.2
 
 Bump frenck/action-addon-information from 1.1 to 1.2 

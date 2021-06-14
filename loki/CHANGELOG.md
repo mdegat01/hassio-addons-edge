@@ -1,4 +1,10 @@
 # Changelog since v1.6.0
+- Merge pull request #84 from mdegat01/bump-addon-base-9.2.2
+
+Bump addon base to `9.2.2` 
+- Bump addon base to `9.2.2`
+
+Bump addon base from `9.2.1` to [9.2.2](https://github.com/hassio-addons/addon-base/releases/tag/v9.2.2) 
 - Merge pull request #83 from mdegat01/bump-curl-7.77.0-r1
 
 Bump curl to `7.77.0-r1` & nginx to `nginx-1.18.0-r15` 

@@ -1,4 +1,10 @@
 # Changelog since v1.6.0
+- Merge pull request #102 from mdegat01/bump-curl-7.77.0-r1
+
+Bump curl to `7.77.0-r1` 
+- Bump curl to `7.77.0-r1`
+
+Bump curl from `7.77.0-r0` to `7.77.0-r1` 
 - Merge pull request #100 from mdegat01/bump-yq-4.9.5
 
 Bump yq to `4.9.5` 

@@ -1,4 +1,19 @@
 # Changelog since v1.6.0
+- Merge pull request #85 from mdegat01/dependabot/docker/loki/alpine-3.14.0
+
+Bump alpine from 3.13.5 to 3.14.0 in /loki 
+- Bump alpine from 3.13.5 to 3.14.0 in /loki
+
+Bumps alpine from 3.13.5 to 3.14.0.
+
+---
+updated-dependencies:
+- dependency-name: alpine
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #84 from mdegat01/bump-addon-base-9.2.2
 
 Bump addon base to `9.2.2` 

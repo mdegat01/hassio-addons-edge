@@ -1,4 +1,19 @@
 # Changelog since v1.3.0
+- Merge pull request #41 from mdegat01/dependabot/docker/sharry/alpine-3.14.0
+
+Bump alpine from 3.13.5 to 3.14.0 in /sharry 
+- Bump alpine from 3.13.5 to 3.14.0 in /sharry
+
+Bumps alpine from 3.13.5 to 3.14.0.
+
+---
+updated-dependencies:
+- dependency-name: alpine
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #40 from mdegat01/bump-addon-base-9.2.2
 
 Bump addon base to `9.2.2` 

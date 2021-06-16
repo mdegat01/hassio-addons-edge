@@ -1,4 +1,19 @@
 # Changelog since v1.6.0
+- Merge pull request #103 from mdegat01/dependabot/docker/promtail/alpine-3.14.0
+
+Bump alpine from 3.13.5 to 3.14.0 in /promtail 
+- Bump alpine from 3.13.5 to 3.14.0 in /promtail
+
+Bumps alpine from 3.13.5 to 3.14.0.
+
+---
+updated-dependencies:
+- dependency-name: alpine
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #101 from mdegat01/bump-yq-4.9.6
 
 Bump yq to `4.9.6` 

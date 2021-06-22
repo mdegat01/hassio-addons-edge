@@ -1,4 +1,11 @@
 # Changelog since v1.3.0
+- Merge pull request #42 from mdegat01/bump-addon-base-10.0.0
+
+Bump addon base to `10.0.0` 
+- Bump unzip to `6.0-r9` and jre to `11.0.11_p9-r0` 
+- Bump addon base to `10.0.0`
+
+Bump addon base from `9.2.2` to [10.0.0](https://github.com/hassio-addons/addon-base/releases/tag/v10.0.0) 
 - Merge pull request #41 from mdegat01/dependabot/docker/sharry/alpine-3.14.0
 
 Bump alpine from 3.13.5 to 3.14.0 in /sharry 

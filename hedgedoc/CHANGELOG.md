@@ -1,4 +1,11 @@
 # Changelog since v1.3.1
+- Merge pull request #80 from mdegat01/bump-addon-base-10.0.0
+
+Bump addon base to `10.0.0` 
+- Bump nodejs to `14.17.1-r0` and npm to `7.17.0-r0` 
+- Bump addon base to `10.0.0`
+
+Bump addon base from `9.2.2` to [10.0.0](https://github.com/hassio-addons/addon-base/releases/tag/v10.0.0) 
 - Merge pull request #79 from mdegat01/bump-addon-base-9.2.2
 
 Bump addon base to `9.2.2` 

@@ -1,4 +1,12 @@
 # Changelog since v1.6.0
+- Merge pull request #86 from mdegat01/bump-addon-base-10.0.0
+
+Bump addon base to `10.0.0` 
+- Bump nginx to `1.20.1-r3` 
+- Bump unzip to `6.0-r9` 
+- Bump addon base to `10.0.0`
+
+Bump addon base from `9.2.2` to [10.0.0](https://github.com/hassio-addons/addon-base/releases/tag/v10.0.0) 
 - Merge pull request #85 from mdegat01/dependabot/docker/loki/alpine-3.14.0
 
 Bump alpine from 3.13.5 to 3.14.0 in /loki 

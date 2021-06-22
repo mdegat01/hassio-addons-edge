@@ -1,4 +1,10 @@
 # Changelog since v1.6.0
+- Merge pull request #104 from mdegat01/bump-libsystemd-dev-247.3-5bpo10+2
+
+Bump libsystemd-dev to `247.3-5~bpo10+2` 
+- Bump libsystemd-dev to `247.3-5~bpo10+2`
+
+Bump libsystemd-dev from `247.3-5~bpo10+1` to `247.3-5~bpo10+2` 
 - Merge pull request #103 from mdegat01/dependabot/docker/promtail/alpine-3.14.0
 
 Bump alpine from 3.13.5 to 3.14.0 in /promtail 

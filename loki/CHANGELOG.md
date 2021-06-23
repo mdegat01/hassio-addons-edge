@@ -1,12 +1,18 @@
-## What’s changed
-## ⬆️ Dependency updates
+# Changelog since v1.6.1
+- Merge pull request #87 from mdegat01/dependabot/github_actions/docker/login-action-1.10.0
 
-- Bump micnncim/action-label-syncer from 1.2.0 to 1.3.0 @dependabot (#76)
-- Bump curl to `7.77.0-r0` @mdegat01 (#79)
-- Bump docker/build-push-action from 2.4.0 to 2.5.0 @dependabot (#78)
-- Bump docker/setup-qemu-action from 1.1.0 to 1.2.0 @dependabot (#77)
-- Bump actions/cache from 2.1.5 to 2.1.6 @dependabot (#81)
-- Bump frenck/action-addon-information from 1.1 to 1.2 @dependabot (#82)
-- Bump curl to `7.77.0-r1` & nginx to `nginx-1.18.0-r15` @mdegat01 (#83)
-- Bump alpine from 3.13.5 to 3.14.0 in /loki @dependabot (#85)
-- Bump addon base to `10.0.0` @mdegat01 (#80, #84, #86)
+Bump docker/login-action from 1.9.0 to 1.10.0 
+- Bump docker/login-action from 1.9.0 to 1.10.0
+
+Bumps [docker/login-action](https://github.com/docker/login-action) from 1.9.0 to 1.10.0.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v1.9.0...v1.10.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 

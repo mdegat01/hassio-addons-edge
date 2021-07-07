@@ -1,4 +1,10 @@
 # Changelog since v1.6.1
+- Merge pull request #110 from mdegat01/bump-yq-4.9.7
+
+Bump yq to `4.9.7` 
+- Bump yq to `4.9.7`
+
+Bump yq from `4.9.6` to [4.9.7](https://github.com/mikefarah/yq/releases/tag/v4.9.7) 
 - Merge pull request #108 from mdegat01/dependabot/github_actions/docker/setup-buildx-action-1.5.0
 
 Bump docker/setup-buildx-action from 1.4.1 to 1.5.0 

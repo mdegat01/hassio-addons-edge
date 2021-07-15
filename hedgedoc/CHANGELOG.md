@@ -1,4 +1,22 @@
 # Changelog since v1.3.2
+- Merge pull request #89 from mdegat01/dependabot/github_actions/actions/stale-4
+
+Bump actions/stale from 3.0.19 to 4 
+- Bump actions/stale from 3.0.19 to 4
+
+Bumps [actions/stale](https://github.com/actions/stale) from 3.0.19 to 4.
+- [Release notes](https://github.com/actions/stale/releases)
+- [Changelog](https://github.com/actions/stale/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/stale/compare/v3.0.19...v4)
+
+---
+updated-dependencies:
+- dependency-name: actions/stale
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #88 from mdegat01/dependabot/github_actions/frenck/action-addon-linter-2.2
 
 Bump frenck/action-addon-linter from 2.1 to 2.2 

@@ -1,7 +1,7 @@
 {
   "name": "Promtail",
   "url": "https://github.com/mdegat01/addon-promtail",
-  "version": "739e957",
+  "version": "d065879",
   "slug": "promtail",
   "arch": [
     "aarch64",

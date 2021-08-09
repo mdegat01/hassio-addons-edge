@@ -1,4 +1,10 @@
 # Changelog since v1.6.1
+- Merge pull request #95 from mdegat01/bump-curl-7.78.0-r0
+
+Bump curl to `7.78.0-r0` 
+- Bump curl to `7.78.0-r0`
+
+Bump curl from `7.77.0-r1` to `7.78.0-r0` 
 - Merge pull request #94 from mdegat01/dependabot/github_actions/actions/stale-4
 
 Bump actions/stale from 3.0.19 to 4 

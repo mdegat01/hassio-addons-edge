@@ -1,4 +1,28 @@
 # Changelog since v1.3.1
+- Merge pull request #52 from mdegat01/dependabot/docker/sharry/alpine-3.14.1
+
+Bump alpine from 3.14.0 to 3.14.1 in /sharry 
+- Bump alpine from 3.14.0 to 3.14.1 in /sharry
+
+Bumps alpine from 3.14.0 to 3.14.1.
+
+---
+updated-dependencies:
+- dependency-name: alpine
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Merge pull request #53 from mdegat01/bump-curl-7.78.0-r0
+
+Bump curl to `7.78.0-r0` and mariadb-client to `10.5.12-r0` 
+- Bump mariadb-client to `10.5.12-r0`
+
+Bump mariadb-client from `10.5.11-r0` to `10.5.12-r0` 
+- Bump curl to `7.78.0-r0`
+
+Bump curl from `7.77.0-r1` to `7.78.0-r0` 
 - Merge pull request #51 from mdegat01/dependabot/github_actions/frenck/action-addon-linter-2.2
 
 Bump frenck/action-addon-linter from 2.1 to 2.2 

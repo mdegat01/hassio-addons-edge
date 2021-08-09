@@ -1,4 +1,10 @@
 # Changelog since v1.6.1
+- Merge pull request #124 from mdegat01/bump-libsystemd-dev-247.3-6bpo10+1
+
+Bump libsystemd-dev to `247.3-6~bpo10+1` 
+- Bump libsystemd-dev to `247.3-6~bpo10+1`
+
+Bump libsystemd-dev from `247.3-5~bpo10+2` to `247.3-6~bpo10+1` 
 - Merge pull request #121 from mdegat01/bump-yq-4.11.2-1
 
 Bump yq to `4.11.2` 

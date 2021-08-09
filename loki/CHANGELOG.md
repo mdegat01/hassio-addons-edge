@@ -1,4 +1,10 @@
 # Changelog since v1.6.1
+- Merge pull request #96 from mdegat01/bump-alpine-3.14.1
+
+Bump alpine to `3.14.1` 
+- Bump alpine to `3.14.1`
+
+Bump alpine from `3.14.0` to `3.14.1` 
 - Merge pull request #95 from mdegat01/bump-curl-7.78.0-r0
 
 Bump curl to `7.78.0-r0` 

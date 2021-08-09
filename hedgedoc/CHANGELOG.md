@@ -1,4 +1,13 @@
 # Changelog since v1.3.2
+- Merge pull request #90 from mdegat01/bump-mariadb-client-10.5.12-r0
+
+Bump mariadb-client to `10.5.12-r0` and nodejs to `14.17.4-r0` 
+- Bump nodejs to `14.17.4-r0`
+
+Bump nodejs from `14.17.1-r0` to `14.17.4-r0` 
+- Bump mariadb-client to `10.5.12-r0`
+
+Bump mariadb-client from `10.5.11-r0` to `10.5.12-r0` 
 - Merge pull request #89 from mdegat01/dependabot/github_actions/actions/stale-4
 
 Bump actions/stale from 3.0.19 to 4 

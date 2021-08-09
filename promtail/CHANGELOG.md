@@ -1,4 +1,10 @@
 # Changelog since v1.6.1
+- Merge pull request #126 from mdegat01/update-promtail-journal-1.1.0
+
+Update promtail-journal to `1.1.0` 
+- Update promtail-journal to `1.1.0`
+
+Update promtail-journal from `1.0.1` to [1.1.0](https://github.com/mdegat01/promtail-journal/releases/tag/v1.1.0) 
 - Merge pull request #125 from mdegat01/bump-alpine-3.14.1
 
 Bump alpine to `3.14.1` 

@@ -1,4 +1,10 @@
 # Changelog since v1.6.1
+- Merge pull request #125 from mdegat01/bump-alpine-3.14.1
+
+Bump alpine to `3.14.1` 
+- Bump alpine to `3.14.1`
+
+Bump alpine from `3.14.0` to `3.14.1` 
 - Merge pull request #124 from mdegat01/bump-libsystemd-dev-247.3-6bpo10+1
 
 Bump libsystemd-dev to `247.3-6~bpo10+1` 

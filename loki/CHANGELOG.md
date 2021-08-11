@@ -1,7 +1,7 @@
-# Changelog since v1.7.0
-- Merge pull request #98 from mdegat01/bump-addon-base-10.0.0.1
+# Changelog since v1.7.1
+- Merge pull request #99 from mdegat01/update-nginx-ssl
 
-Bump addon base to `10.0.1` 
-- Bump addon base to `10.0.1`
+Update NGINX ssl parameters 
+- Update NGINX ssl parameters
 
-Bump addon base from `10.0.0` to [10.0.1](https://github.com/hassio-addons/addon-base/releases/tag/v10.0.1) 
+To match the latest Mozilla intermediate recommendations 

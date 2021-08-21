@@ -1,4 +1,10 @@
 # Changelog since v1.7.1
+- Merge pull request #130 from mdegat01/bump-yq-4.12.0
+
+Bump yq to `4.12.0` 
+- Bump yq to `4.12.0`
+
+Bump yq from `4.11.2` to [4.12.0](https://github.com/mikefarah/yq/releases/tag/v4.12.0) 
 - Merge pull request #129 from mdegat01/dependabot/github_actions/docker/build-push-action-2.7.0
 
 Bump docker/build-push-action from 2.6.1 to 2.7.0 

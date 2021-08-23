@@ -1,4 +1,15 @@
 # Changelog since v1.7.1
+- Merge pull request #131 from mdegat01/bump-addon-debian-base-5.0.0
+
+Bump addon debian base to `5.0.0` 
+- Bump libsystemd-dev to `247.3-6`
+
+Since stable distribution now includes libsystemd-dev version 246+, pulling from backports is no longer needed. 
+- Bump CA-certificates to `20210119 ` 
+- Bump tzdata to `2021a-1` 
+- Bump addon debian base to `5.0.0`
+
+Bump addon debian base from `4.2.3` to [5.0.0](https://github.com/hassio-addons/addon-debian-base/releases/tag/v5.0.0) 
 - Merge pull request #130 from mdegat01/bump-yq-4.12.0
 
 Bump yq to `4.12.0` 

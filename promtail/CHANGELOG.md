@@ -1,4 +1,10 @@
 # Changelog since v1.7.1
+- Merge pull request #133 from mdegat01/bump-promtail-journal-1.2.0
+
+Bump promtail journal to `1.2.0` 
+- Bump promtail journal to `1.2.0`
+
+Bump promtail journal from `1.1.0` to [1.2.0](https://github.com/mdegat01/promtail-journal/releases/tag/v1.2.0) 
 - Merge pull request #131 from mdegat01/bump-addon-debian-base-5.0.0
 
 Bump addon debian base to `5.0.0` 

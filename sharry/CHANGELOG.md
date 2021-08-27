@@ -1,65 +1,11 @@
-# Changelog since v1.3.3
-- Merge pull request #59 from mdegat01/bump-addon-base-10.0.2
+## What’s changed
+## 🚀 Enhancements
 
-Bump addon base to `10.0.2` 
-- Bump addon base to `10.0.2`
+- Update to Sharry `1.9.0` @mdegat01 (#55)
 
-Bump addon base from `10.0.1` to [10.0.2](https://github.com/hassio-addons/addon-base/releases/tag/v10.0.2) 
-- Merge pull request #58 from mdegat01/dependabot/github_actions/frenck/action-addon-linter-2.3
+## ⬆️ Dependency updates
 
-Bump frenck/action-addon-linter from 2.2 to 2.3 
-- Bump frenck/action-addon-linter from 2.2 to 2.3
-
-Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.2 to 2.3.
-- [Release notes](https://github.com/frenck/action-addon-linter/releases)
-- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.2...v2.3)
-
----
-updated-dependencies:
-- dependency-name: frenck/action-addon-linter
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #57 from mdegat01/dependabot/github_actions/docker/build-push-action-2.7.0
-
-Bump docker/build-push-action from 2.6.1 to 2.7.0 
-- Bump docker/build-push-action from 2.6.1 to 2.7.0
-
-Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.6.1 to 2.7.0.
-- [Release notes](https://github.com/docker/build-push-action/releases)
-- [Commits](https://github.com/docker/build-push-action/compare/v2.6.1...v2.7.0)
-
----
-updated-dependencies:
-- dependency-name: docker/build-push-action
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #56 from mdegat01/dependabot/github_actions/dessant/lock-threads-2.1.2
-
-Bump dessant/lock-threads from 2.1.1 to 2.1.2 
-- Bump dessant/lock-threads from 2.1.1 to 2.1.2
-
-Bumps [dessant/lock-threads](https://github.com/dessant/lock-threads) from 2.1.1 to 2.1.2.
-- [Release notes](https://github.com/dessant/lock-threads/releases)
-- [Changelog](https://github.com/dessant/lock-threads/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/dessant/lock-threads/compare/v2.1.1...v2.1.2)
-
----
-updated-dependencies:
-- dependency-name: dessant/lock-threads
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #55 from mdegat01/update-sharry-1.9.0
-
-Update to Sharry `1.9.0` 
-- Update to Sharry `1.9.0`
-
-Update Sharry from `1.8.0` to [1.9.0](https://github.com/eikek/sharry/releases/tag/v1.9.0) 
+- Bump dessant/lock-threads from 2.1.1 to 2.1.2 @dependabot (#56)
+- Bump docker/build-push-action from 2.6.1 to 2.7.0 @dependabot (#57)
+- Bump frenck/action-addon-linter from 2.2 to 2.3 @dependabot (#58)
+- Bump addon base to `10.0.2` @mdegat01 (#59)

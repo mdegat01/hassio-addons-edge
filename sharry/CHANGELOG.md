@@ -1,11 +1,16 @@
-## What’s changed
-## 🚀 Enhancements
+# Changelog since v1.4.0
+- Merge pull request #60 from mdegat01/dependabot/docker/sharry/alpine-3.14.2
 
-- Update to Sharry `1.9.0` @mdegat01 (#55)
+Bump alpine from 3.14.1 to 3.14.2 in /sharry 
+- Bump alpine from 3.14.1 to 3.14.2 in /sharry
 
-## ⬆️ Dependency updates
+Bumps alpine from 3.14.1 to 3.14.2.
 
-- Bump dessant/lock-threads from 2.1.1 to 2.1.2 @dependabot (#56)
-- Bump docker/build-push-action from 2.6.1 to 2.7.0 @dependabot (#57)
-- Bump frenck/action-addon-linter from 2.2 to 2.3 @dependabot (#58)
-- Bump addon base to `10.0.2` @mdegat01 (#59)
+---
+updated-dependencies:
+- dependency-name: alpine
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 

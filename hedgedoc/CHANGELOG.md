@@ -1,4 +1,10 @@
 # Changelog since v1.3.5
+- Merge pull request #101 from mdegat01/update-hedgedoc-1.9.0
+
+Update to HedgeDoc to `1.9.0` 
+- Update to HedgeDoc `1.9.0`
+
+Update from HedgeDoc `1.8.2` to [1.9.0](https://github.com/hedgedoc/hedgedoc/releases/tag/1.9.0) 
 - Merge pull request #100 from mdegat01/dependabot/github_actions/creyD/prettier_action-4.0
 
 Bump creyD/prettier_action from 3.3 to 4.0 

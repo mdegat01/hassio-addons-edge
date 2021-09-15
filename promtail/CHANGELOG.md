@@ -1,4 +1,13 @@
 # Changelog since v1.8.0
+- Bump yq to `4.13.0`
+
+Bump yq from `4.12.2` to [4.13.0](https://github.com/mikefarah/yq/releases/tag/v4.13.0) 
+- Merge pull request #141 from mdegat01/bump-curl-7.79.0-r0
+
+Bump curl to `7.79.0-r0` 
+- Bump curl to `7.79.0-r0`
+
+Bump curl from `7.78.0-r0` to `7.79.0-r0` 
 - Merge pull request #139 from mdegat01/dependabot/github_actions/creyD/prettier_action-4.0
 
 Bump creyD/prettier_action from 3.3 to 4.0 

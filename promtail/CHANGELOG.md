@@ -1,4 +1,10 @@
 # Changelog since v1.8.0
+- Merge pull request #142 from mdegat01/bump-yq-4.13.2
+
+Bump yq to `4.13.2` 
+- Bump yq to `4.13.2`
+
+Bump yq from `4.13.0` to [4.13.2](https://github.com/mikefarah/yq/releases/tag/v4.13.2) 
 - Bump yq to `4.13.0`
 
 Bump yq from `4.12.2` to [4.13.0](https://github.com/mikefarah/yq/releases/tag/v4.13.0) 

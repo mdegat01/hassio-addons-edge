@@ -1,4 +1,11 @@
 # Changelog since v1.8.0
+- Merge pull request #144 from rj175/certificate-issue
+
+Possible fix for #143 
+- Update promtail/apparmor.txt
+
+Co-authored-by: Mike Degatano <michael.degatano@gmail.com> 
+- Possible fix for #143 
 - Merge pull request #142 from mdegat01/bump-yq-4.13.2
 
 Bump yq to `4.13.2` 

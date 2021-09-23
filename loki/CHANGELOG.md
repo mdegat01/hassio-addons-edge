@@ -1,4 +1,7 @@
 # Changelog since v1.8.0
+- Update addon base to `10.1.0`
+
+Update addon base from `10.0.2` to [10.1.0](https://github.com/hassio-addons/addon-base/releases/tag/v10.1.0) 
 - Merge pull request #108 from mdegat01/bump-curl-7.79.1-r0
 
 Bump curl to `7.79.1-r0` 

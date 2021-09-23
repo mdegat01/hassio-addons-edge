@@ -1,11 +1,7 @@
-## What’s changed
-## ✨ New features
+# Changelog since v1.4.0
+- Merge pull request #102 from mdegat01/update-addon-base-10.1.0
 
-- Update to HedgeDoc to `1.9.0` @mdegat01 (#101)
+Update addon base to `10.1.0` 
+- Update addon base to `10.1.0`
 
-## ⬆️ Dependency updates
-
-- Bump nodejs to `14.17.5-r0` @mdegat01 (#97)
-- Bump nodejs to `14.17.6-r0` @mdegat01 (#99)
-- Bump docker/setup-buildx-action from 1.5.1 to 1.6.0 @dependabot (#98)
-- Bump creyD/prettier_action from 3.3 to 4.0 @dependabot (#100)
+Update addon base from `10.0.2` to [10.1.0](https://github.com/hassio-addons/addon-base/releases/tag/v10.1.0) 

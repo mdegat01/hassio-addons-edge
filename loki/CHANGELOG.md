@@ -1,4 +1,10 @@
 # Changelog since v1.8.0
+- Merge pull request #108 from mdegat01/bump-curl-7.79.1-r0
+
+Bump curl to `7.79.1-r0` 
+- Bump curl to `7.79.1-r0`
+
+Bump curl from `7.78.0-r0` to `7.79.1-r0` 
 - Merge pull request #106 from mdegat01/dependabot/github_actions/creyD/prettier_action-4.0
 
 Bump creyD/prettier_action from 3.3 to 4.0 

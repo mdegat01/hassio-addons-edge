@@ -1,4 +1,21 @@
 # Changelog since v1.4.0
+- Merge pull request #66 from mdegat01/dependabot/github_actions/frenck/action-addon-linter-2.4
+
+Bump frenck/action-addon-linter from 2.3 to 2.4 
+- Bump frenck/action-addon-linter from 2.3 to 2.4
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.3 to 2.4.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.3...v2.4)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Update addon base to `10.1.0`
 
 Update addon base from `10.0.2` to [10.1.0](https://github.com/hassio-addons/addon-base/releases/tag/v10.1.0) 

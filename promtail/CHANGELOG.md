@@ -1,4 +1,10 @@
 # Changelog since v1.8.1
+- Merge pull request #151 from mdegat01/bump-yq-4.13.3
+
+Bump yq to `4.13.3` 
+- Bump yq to `4.13.3`
+
+Bump yq from `4.13.2` to [4.13.3](https://github.com/mikefarah/yq/releases/tag/v4.13.3) 
 - Merge pull request #150 from mdegat01/bump-addon-debian-base-5.1.1
 
 Bump addon debian base to `5.1.1` 

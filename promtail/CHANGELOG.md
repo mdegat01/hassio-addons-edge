@@ -1,4 +1,10 @@
 # Changelog since v1.8.1
+- Merge pull request #150 from mdegat01/bump-addon-debian-base-5.1.1
+
+Bump addon debian base to `5.1.1` 
+- Bump addon debian base to `5.1.1`
+
+Bump addon debian base from `5.1.0` to [5.1.1](https://github.com/hassio-addons/addon-debian-base/releases/tag/v5.1.1) 
 - Merge pull request #148 from mdegat01/dependabot/github_actions/dessant/lock-threads-3
 
 Bump dessant/lock-threads from 2.1.2 to 3 

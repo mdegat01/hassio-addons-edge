@@ -1,4 +1,10 @@
 # Changelog since v1.4.0
+- Merge pull request #105 from mdegat01/bump-addon-base-10.1.1
+
+Bump addon base to `10.1.1` 
+- Bump addon base to `10.1.1`
+
+Bump addon base from `10.1.0` to [10.1.1](https://github.com/hassio-addons/addon-base/releases/tag/v10.1.1) 
 - Merge pull request #103 from mdegat01/dependabot/github_actions/dessant/lock-threads-3
 
 Bump dessant/lock-threads from 2.1.2 to 3 

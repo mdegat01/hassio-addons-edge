@@ -1,4 +1,10 @@
 # Changelog since v1.8.1
+- Merge pull request #154 from mdegat01/bump-promtail-journal-1.2.1
+
+Bump promtail journal to `1.2.1` 
+- Bump promtail journal to `1.2.1`
+
+Bump promtail journal from `1.2.0` to [1.2.1](https://github.com/mdegat01/promtail-journal/releases/tag/v1.2.1) 
 - Merge pull request #153 from mdegat01/dependabot/github_actions/actions/checkout-2.3.5
 
 Bump actions/checkout from 2.3.4 to 2.3.5 

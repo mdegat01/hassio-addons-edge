@@ -1,9 +1,35 @@
-## What’s changed
-## ⬆️ Dependency updates
+# Changelog since v1.4.1
+- Merge pull request #109 from mdegat01/dependabot/github_actions/frenck/action-addon-linter-2.5
 
-- Update addon base to `10.1.0` @mdegat01 (#102)
-- Bump frenck/action-addon-linter from 2.3 to 2.4 @dependabot (#104)
-- Bump dessant/lock-threads from 2.1.2 to 3 @dependabot (#103)
-- Bump addon base to `10.1.1` @mdegat01 (#105)
-- Bump nodejs to `14.18.1-r0` @mdegat01 (#107)
-- Bump actions/checkout from 2.3.4 to 2.3.5 @dependabot (#106)
+Bump frenck/action-addon-linter from 2.4 to 2.5 
+- Bump frenck/action-addon-linter from 2.4 to 2.5
+
+Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.4 to 2.5.
+- [Release notes](https://github.com/frenck/action-addon-linter/releases)
+- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.4...v2.5)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-linter
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Merge pull request #108 from mdegat01/dependabot/github_actions/frenck/action-addon-information-1.3
+
+Bump frenck/action-addon-information from 1.2 to 1.3 
+- Bump frenck/action-addon-information from 1.2 to 1.3
+
+Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.2 to 1.3.
+- [Release notes](https://github.com/frenck/action-addon-information/releases)
+- [Commits](https://github.com/frenck/action-addon-information/compare/v1.2...v1.3)
+
+---
+updated-dependencies:
+- dependency-name: frenck/action-addon-information
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 

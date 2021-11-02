@@ -1,4 +1,11 @@
 # Changelog since v1.8.2
+- Merge pull request #159 from mdegat01/bump-addon-debian-base-5.2.0
+
+Bump addon debian base to `5.2.0` 
+- Bump tzdata to `2021a-1+deb11u1` 
+- Bump addon debian base to `5.2.0`
+
+Bump addon debian base from `5.1.1` to [5.2.0](https://github.com/hassio-addons/addon-debian-base/releases/tag/v5.2.0) 
 - Merge pull request #158 from mdegat01/dependabot/github_actions/frenck/action-addon-linter-2.5
 
 Bump frenck/action-addon-linter from 2.4 to 2.5 

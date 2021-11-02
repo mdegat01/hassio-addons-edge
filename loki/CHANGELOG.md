@@ -1,4 +1,10 @@
 # Changelog since v1.8.1
+- Merge pull request #115 from mdegat01/bump-addon-base-10.2.0
+
+Bump addon base to `10.2.0` 
+- Bump addon base to `10.2.0`
+
+Bump addon base from `10.1.1` to [10.2.0](https://github.com/hassio-addons/addon-base/releases/tag/v10.2.0) 
 - Merge pull request #114 from mdegat01/dependabot/github_actions/frenck/action-addon-linter-2.5
 
 Bump frenck/action-addon-linter from 2.4 to 2.5 

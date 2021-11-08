@@ -1,4 +1,10 @@
 # Changelog since v1.8.1
+- Merge pull request #117 from mdegat01/update-loki-2.4.1
+
+Update to Loki `2.4.1` 
+- Update to Loki `2.4.1`
+
+Update from Loki `2.3.0` to [2.4.1](https://github.com/grafana/loki/releases/tag/v2.4.1) (note this also covers the more significant bump to minor version [2.4.0](https://github.com/grafana/loki/releases/tag/v2.4.0)) 
 - Merge pull request #116 from mdegat01/dependabot/github_actions/actions/checkout-2.4.0
 
 Bump actions/checkout from 2.3.5 to 2.4.0 

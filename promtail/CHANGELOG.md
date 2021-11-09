@@ -1,4 +1,10 @@
 # Changelog since v1.8.2
+- Merge pull request #161 from mdegat01/bump-addon-debian-base-5.2.1
+
+Bump addon debian base to `5.2.1` 
+- Bump addon debian base to `5.2.1`
+
+Bump addon debian base from `5.2.0` to [5.2.1](https://github.com/hassio-addons/addon-debian-base/releases/tag/v5.2.1) 
 - Merge pull request #160 from mdegat01/dependabot/github_actions/actions/checkout-2.4.0
 
 Bump actions/checkout from 2.3.5 to 2.4.0 

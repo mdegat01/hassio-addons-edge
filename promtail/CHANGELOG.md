@@ -1,84 +1,16 @@
-# Changelog since v1.8.2
-- Merge pull request #162 from mdegat01/update-promtail-2.4.1
+## What’s changed
+## 🚀 Enhancements
 
-Update to Promtail `2.4.1` 
-- Update to Promtail `2.4.1`
+- Update promtail journal base from `1.2.1` to [1.3.0](https://github.com/mdegat01/promtail-journal/releases/tag/v1.3.0) @mdegat01 (#162)
+  - This also updates Promtail to [2.4.1](https://github.com/grafana/loki/releases/tag/v2.4.1) (and covers the more significant minor bump to [2.4.0](https://github.com/grafana/loki/releases/tag/v2.4.0))
 
-Update promtail journal from `1.2.1` to [1.3.0](https://github.com/mdegat01/promtail-journal/releases/tag/v1.3.0). This also updates Promtail from `2.3.0` to [2.4.1](https://github.com/grafana/loki/releases/tag/v2.4.1) (note this covers the more significant bump to minor version [2.4.0](https://github.com/grafana/loki/releases/tag/v2.4.0)) 
-- Merge pull request #161 from mdegat01/bump-addon-debian-base-5.2.1
+## ⬆️ Dependency updates
 
-Bump addon debian base to `5.2.1` 
-- Bump addon debian base to `5.2.1`
-
-Bump addon debian base from `5.2.0` to [5.2.1](https://github.com/hassio-addons/addon-debian-base/releases/tag/v5.2.1) 
-- Merge pull request #160 from mdegat01/dependabot/github_actions/actions/checkout-2.4.0
-
-Bump actions/checkout from 2.3.5 to 2.4.0 
-- Bump actions/checkout from 2.3.5 to 2.4.0
-
-Bumps [actions/checkout](https://github.com/actions/checkout) from 2.3.5 to 2.4.0.
-- [Release notes](https://github.com/actions/checkout/releases)
-- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/actions/checkout/compare/v2.3.5...v2.4.0)
-
----
-updated-dependencies:
-- dependency-name: actions/checkout
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #159 from mdegat01/bump-addon-debian-base-5.2.0
-
-Bump addon debian base to `5.2.0` 
-- Bump tzdata to `2021a-1+deb11u1` 
-- Bump addon debian base to `5.2.0`
-
-Bump addon debian base from `5.1.1` to [5.2.0](https://github.com/hassio-addons/addon-debian-base/releases/tag/v5.2.0) 
-- Merge pull request #158 from mdegat01/dependabot/github_actions/frenck/action-addon-linter-2.5
-
-Bump frenck/action-addon-linter from 2.4 to 2.5 
-- Bump frenck/action-addon-linter from 2.4 to 2.5
-
-Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.4 to 2.5.
-- [Release notes](https://github.com/frenck/action-addon-linter/releases)
-- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.4...v2.5)
-
----
-updated-dependencies:
-- dependency-name: frenck/action-addon-linter
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #157 from mdegat01/dependabot/github_actions/frenck/action-addon-information-1.3
-
-Bump frenck/action-addon-information from 1.2 to 1.3 
-- Bump frenck/action-addon-information from 1.2 to 1.3
-
-Bumps [frenck/action-addon-information](https://github.com/frenck/action-addon-information) from 1.2 to 1.3.
-- [Release notes](https://github.com/frenck/action-addon-information/releases)
-- [Commits](https://github.com/frenck/action-addon-information/compare/v1.2...v1.3)
-
----
-updated-dependencies:
-- dependency-name: frenck/action-addon-information
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #156 from mdegat01/bump-yq-4.14.1
-
-Bump yq to `4.14.1` 
-- Bump yq to `4.14.1`
-
-Bump yq from `4.13.5` to [4.14.1](https://github.com/mikefarah/yq/releases/tag/v4.14.1) 
-- Merge pull request #155 from mdegat01/bump-yq-4.13.5
-
-Bump yq to `4.13.5` 
-- Bump yq to `4.13.5`
-
-Bump yq from `4.13.4` to [4.13.5](https://github.com/mikefarah/yq/releases/tag/v4.13.5) 
+- Bump yq to `4.13.5` @mdegat01 (#155)
+- Bump yq to `4.14.1` @mdegat01 (#156)
+- Bump frenck/action-addon-information from 1.2 to 1.3 @dependabot (#157)
+- Bump frenck/action-addon-linter from 2.4 to 2.5 @dependabot (#158)
+- Bump addon debian base to `5.2.0` @mdegat01 (#159)
+- Bump actions/checkout from 2.3.5 to 2.4.0 @dependabot (#160)
+- Bump addon debian base to `5.2.1` @mdegat01 (#161)
+- Bump addon debian base to `5.2.2` @mdegat01 (#163)

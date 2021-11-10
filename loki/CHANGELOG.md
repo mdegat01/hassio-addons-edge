@@ -1,4 +1,7 @@
 # Changelog since v1.9.0
+- Change Loki's AA profile to complain temporarily
+
+Debugging change, needs to be reverted once the issue is debugged 
 - Merge pull request #124 from mdegat01/aa-loki-access-proc-cpuset
 
 AA - Allow Loki access to process cpuset 

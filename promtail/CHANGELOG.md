@@ -1,4 +1,10 @@
 # Changelog since v1.8.2
+- Merge pull request #162 from mdegat01/update-promtail-2.4.1
+
+Update to Promtail `2.4.1` 
+- Update to Promtail `2.4.1`
+
+Update promtail journal from `1.2.1` to [1.3.0](https://github.com/mdegat01/promtail-journal/releases/tag/v1.3.0). This also updates Promtail from `2.3.0` to [2.4.1](https://github.com/grafana/loki/releases/tag/v2.4.1) (note this covers the more significant bump to minor version [2.4.0](https://github.com/grafana/loki/releases/tag/v2.4.0)) 
 - Merge pull request #161 from mdegat01/bump-addon-debian-base-5.2.1
 
 Bump addon debian base to `5.2.1` 

@@ -1,4 +1,8 @@
 # Changelog since v1.9.0
+- Merge pull request #123 from mdegat01/aa-create-wal-folder
+
+AA allow creation of wal folder in s6 services 
+- AA allow creation of wal folder in s6 services 
 - Merge pull request #121 from mdegat01/aa-fix-runtime-access-loki-2.4.0
 
 Grant required runtime usage in AA profile 

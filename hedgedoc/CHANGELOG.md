@@ -1,4 +1,10 @@
 # Changelog since v1.4.1
+- Merge pull request #113 from mdegat01/bump-addon-base-10.2.2
+
+Bump addon base to `10.2.2` 
+- Bump addon base to `10.2.2`
+
+Bump addon base from `10.2.1` to [10.2.2](https://github.com/hassio-addons/addon-base/releases/tag/v10.2.2) 
 - Merge pull request #112 from mdegat01/bump-addon-base-10.2.1
 
 Bump addon base to `10.2.1` 

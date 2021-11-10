@@ -1,4 +1,14 @@
 # Changelog since v1.9.0
+- Merge pull request #125 from mdegat01/wal-folder-loki-permissions
+
+Create required wal folder in services directory 
+- Grant read-write permissions to wal folder 
+- AA - remove complain from loki profile
+
+Remove complain mode as apparmor isn't the issue here, its user permissions 
+- Create required wal folder in services directory
+
+Create the required wal folder in loki's s6 services directory so permission can be granted to it for the loki user. 
 - Change Loki's AA profile to complain temporarily
 
 Debugging change, needs to be reverted once the issue is debugged 

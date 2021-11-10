@@ -1,4 +1,8 @@
 # Changelog since v1.9.0
+- Merge pull request #124 from mdegat01/aa-loki-access-proc-cpuset
+
+AA - Allow Loki access to process cpuset 
+- AA - Allow Loki access to process cpuset 
 - Merge pull request #123 from mdegat01/aa-create-wal-folder
 
 AA allow creation of wal folder in s6 services 

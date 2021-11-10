@@ -1,4 +1,10 @@
 # Changelog since v1.8.1
+- Merge pull request #118 from mdegat01/bump-addon-base-10.2.1
+
+Bump addon base to `10.2.1` 
+- Bump addon base to `10.2.1`
+
+Bump addon base from `10.2.0` to [10.2.1](https://github.com/hassio-addons/addon-base/releases/tag/v10.2.1) 
 - Merge pull request #117 from mdegat01/update-loki-2.4.1
 
 Update to Loki `2.4.1` 

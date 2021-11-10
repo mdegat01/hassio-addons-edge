@@ -1,4 +1,15 @@
 # Changelog since v1.9.0
+- Merge pull request #126 from mdegat01/fix-ingestor-wal-directory
+
+Change ingestor's wal directory 
+- Wal folder removed, remove permission grant 
+- Don't create wal folder in s6 services tree 
+- Remove access to service's s6 directory
+
+Loki was incorrectly trying to put its wal directory within the s6 services tree. That is fixed so remove this access. 
+- Change ingestor's wal directory
+
+Loki tries to put the wal directory in a place it has no access to. Moving the location within `/data/loki` 
 - Merge pull request #125 from mdegat01/wal-folder-loki-permissions
 
 Create required wal folder in services directory 

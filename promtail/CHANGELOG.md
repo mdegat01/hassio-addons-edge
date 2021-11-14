@@ -1,4 +1,19 @@
 # Changelog since v1.9.0
+- Merge pull request #166 from mdegat01/dependabot/docker/promtail/alpine-3.14.3
+
+Bump alpine from 3.14.2 to 3.14.3 in /promtail 
+- Bump alpine from 3.14.2 to 3.14.3 in /promtail
+
+Bumps alpine from 3.14.2 to 3.14.3.
+
+---
+updated-dependencies:
+- dependency-name: alpine
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #164 from mdegat01/ci-clear-build-cache
 
 Cache management and one-at-a-time builds in CI 

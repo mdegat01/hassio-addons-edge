@@ -1,4 +1,19 @@
 # Changelog since v1.4.2
+- Merge pull request #76 from mdegat01/dependabot/docker/sharry/alpine-3.14.3
+
+Bump alpine from 3.14.2 to 3.14.3 in /sharry 
+- Bump alpine from 3.14.2 to 3.14.3 in /sharry
+
+Bumps alpine from 3.14.2 to 3.14.3.
+
+---
+updated-dependencies:
+- dependency-name: alpine
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #75 from mdegat01/ci-clear-build-cache
 
 Clear build cache during CI 

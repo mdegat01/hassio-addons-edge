@@ -1,13 +1,10 @@
-## What’s changed
-## 🧰 Maintenance
+# Changelog since v1.4.2
+- Merge pull request #115 from mdegat01/bump-addon-base-10.2.3
 
-- Cache management and one-at-a-time builds in CI @mdegat01 (#114)
+Bump addon base to `10.2.3` 
+- Bump `mariadb-client` to `10.5.13-r0`
 
-## ⬆️ Dependency updates
+Bump `mariadb-client` from `10.5.12-r0` to `10.5.13-r0` 
+- Bump addon base to `10.2.3`
 
-- Bump frenck/action-addon-information from 1.2 to 1.3 @dependabot (#108)
-- Bump frenck/action-addon-linter from 2.4 to 2.5 @dependabot (#109)
-- Bump addon base to `10.2.0` @mdegat01 (#110)
-- Bump actions/checkout from 2.3.5 to 2.4.0 @dependabot (#111)
-- Bump addon base to `10.2.1` @mdegat01 (#112)
-- Bump addon base to `10.2.2` @mdegat01 (#113)
+Bump addon base from `10.2.2` to [10.2.3](https://github.com/hassio-addons/addon-base/releases/tag/v10.2.3) 

@@ -1,4 +1,10 @@
 # Changelog since v1.9.0
+- Merge pull request #167 from mdegat01/bump-yq-4.14.2
+
+Bump yq to `4.14.2` 
+- Bump yq to `4.14.2`
+
+Bump yq from `4.14.1` to [4.14.2](https://github.com/mikefarah/yq/releases/tag/v4.14.2) 
 - Merge pull request #166 from mdegat01/dependabot/docker/promtail/alpine-3.14.3
 
 Bump alpine from 3.14.2 to 3.14.3 in /promtail 

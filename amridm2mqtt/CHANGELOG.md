@@ -1,4 +1,14 @@
 # Changelog since v0.0.1
+- Merge pull request #4 from mdegat01/deploy-ghcr-token
+
+Pass ghcr token to deploy workflow 
+- Pass ghcr token to deploy workflow 
+- Merge pull request #3 from mdegat01/centralized-workflows
+
+Switch to centralized GitHub Actions workflows 
+- Centralize other basic workflows 
+- Version as dev and use correct repo 
+- Switch to centralized workflows 
 - Merge pull request #2 from mdegat01/deploy-use-yaml
 
 Use yq instead of jq in deploy 

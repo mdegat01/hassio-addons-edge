@@ -1,4 +1,8 @@
 # Changelog since v1.9.1
+- Merge pull request #130 from mdegat01/add-pr-template
+
+Add PR template 
+- Add PR template 
 - Merge pull request #129 from mdegat01/centralize-workflows
 
 Centralize GitHub Action workflows 

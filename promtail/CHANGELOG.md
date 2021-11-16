@@ -1,4 +1,8 @@
 # Changelog since v1.9.0
+- Merge pull request #168 from mdegat01/centralize-workflows
+
+Centralize GitHub Action workflows 
+- Centralize GitHub Action workflows 
 - Merge pull request #167 from mdegat01/bump-yq-4.14.2
 
 Bump yq to `4.14.2` 

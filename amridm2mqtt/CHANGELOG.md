@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #5 from mdegat01/recover-release-drafter-tempalte
+
+Recover release drafter template 
+- Recover release drafter template 
 - Merge pull request #4 from mdegat01/deploy-ghcr-token
 
 Pass ghcr token to deploy workflow 

@@ -1,0 +1,35 @@
+arch:
+- aarch64
+- amd64
+- armv7
+- armhf
+description: AMRIDM2MQTT for Home Assistant
+image: ghcr.io/mdegat01/amridm2mqtt/{arch}
+map:
+- ssl
+name: AMRIDM2MQTT
+options:
+  readings_per_hour: 12
+  watched_meters: []
+  wh_multiplier: 1000
+schema:
+  log_level: list(trace|debug|info|notice|warning|error|fatal)?
+  mqtt:
+    base_topic: str?
+    ca: str?
+    cert: str?
+    client_id: str?
+    host: str?
+    key: str?
+    password: password?
+    username: str?
+  readings_per_hour: int(1,)
+  watched_meters:
+  - int
+  wh_multiplier: int(1,)
+services:
+- mqtt:want
+slug: amridm2mqtt
+uart: true
+url: https://github.com/mdegat01/addon-amridm2mqtt
+version: c69c381

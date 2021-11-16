@@ -1,4 +1,8 @@
 # Changelog since v1.4.2
+- Merge pull request #78 from mdegat01/centralize-workflows
+
+Centralize GitHub Action workflows 
+- Centralize GitHub Action workflows 
 - Merge pull request #77 from mdegat01/bump-addon-base-10.2.3
 
 Bump addon base to `10.2.3` 

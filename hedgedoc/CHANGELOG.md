@@ -1,4 +1,8 @@
 # Changelog since v1.4.2
+- Merge pull request #118 from mdegat01/config-to-yaml
+
+Convert config from json to yaml 
+- Convert config from json to yaml 
 - Merge pull request #117 from mdegat01/add-pr-template
 
 Add PR template 

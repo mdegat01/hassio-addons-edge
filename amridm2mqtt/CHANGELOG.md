@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #6 from mdegat01/add-pr-template
+
+Add a PR template 
+- Add a PR template 
 - Merge pull request #5 from mdegat01/recover-release-drafter-tempalte
 
 Recover release drafter template 

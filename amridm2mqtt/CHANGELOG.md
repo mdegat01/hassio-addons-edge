@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #10 from mdegat01/bug-fixes
+
+Fix log level, settings and example config 
+- Fix log level, settings and example config 
 - Merge pull request #8 from mdegat01/remove-pr-template
 
 Inherit org's pull request template 

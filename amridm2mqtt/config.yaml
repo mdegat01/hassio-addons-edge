@@ -9,6 +9,7 @@ map:
 - ssl
 name: AMRIDM2MQTT
 options:
+  mqtt: {}
   readings_per_hour: 12
   watched_meters: []
   wh_multiplier: 1000
@@ -32,4 +33,4 @@ services:
 slug: amridm2mqtt
 uart: true
 url: https://github.com/mdegat01/addon-amridm2mqtt
-version: 76d9d70
+version: c3598d1

@@ -1,4 +1,8 @@
 # Changelog since v1.4.2
+- Merge pull request #81 from mdegat01/remove-inherited-templates
+
+Inherit org's PR and release drafter templates 
+- Inherit org's PR and release drafter templates 
 - Merge pull request #80 from mdegat01/config-to-yaml
 
 Convert config from json to yaml 

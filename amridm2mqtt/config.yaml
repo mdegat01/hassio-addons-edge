@@ -32,4 +32,4 @@ services:
 slug: amridm2mqtt
 uart: true
 url: https://github.com/mdegat01/addon-amridm2mqtt
-version: bac5707
+version: bd3086c

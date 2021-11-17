@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #7 from mdegat01/remove-release-drafter-template
+
+Inherit org's release drafter template 
+- Inherit org's release drafter template 
 - Merge pull request #6 from mdegat01/add-pr-template
 
 Add a PR template 

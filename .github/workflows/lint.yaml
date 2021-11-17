@@ -15,4 +15,4 @@ on:
 
 jobs:
   workflows:
-    uses: mdegat01/addons-workflows/.github/workflows/lint.yaml@main
+    uses: mdegat01/addons-workflows/.github/workflows/repository-lint.yaml@main

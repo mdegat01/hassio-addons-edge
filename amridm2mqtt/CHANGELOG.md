@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #11 from mdegat01/config-rtl-sdr
+
+Map udev and add rtl-sdr config/rules 
+- Map udev and add rtl-sdr config/rules 
 - Merge pull request #10 from mdegat01/bug-fixes
 
 Fix log level, settings and example config 

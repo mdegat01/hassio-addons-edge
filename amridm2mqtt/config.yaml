@@ -32,5 +32,6 @@ services:
 - mqtt:want
 slug: amridm2mqtt
 uart: true
+udev: true
 url: https://github.com/mdegat01/addon-amridm2mqtt
-version: c3598d1
+version: 8073b9a

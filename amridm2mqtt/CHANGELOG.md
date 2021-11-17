@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #8 from mdegat01/remove-pr-template
+
+Inherit org's pull request template 
+- Inherit org's pull request template 
 - Merge pull request #7 from mdegat01/remove-release-drafter-template
 
 Inherit org's release drafter template 

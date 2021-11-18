@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #12 from mdegat01/add-usb-support
+
+Add USB to add-on config 
+- Add USB to add-on config 
 - Merge pull request #11 from mdegat01/config-rtl-sdr
 
 Map udev and add rtl-sdr config/rules 

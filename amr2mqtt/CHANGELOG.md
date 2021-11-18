@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #23 from mdegat01/correct-ssl-certs
+
+Use `/ssl` for ca cert and not for client certs 
+- Use /ssl for ca cert and not for client certs 
 - Wrong field for meter ID in SCM 
 - Merge pull request #22 from mdegat01/run-rtl_tcp-root
 

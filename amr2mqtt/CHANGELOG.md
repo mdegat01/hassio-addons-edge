@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #20 from mdegat01/use-built-in-id-filter
+
+Use `rtlamr`'s built-in ID filter 
+- Use rtlamr's built-in ID filter 
 - Merge pull request #19 from mdegat01/fix-interval-test
 
 Initialize `interval_cur` so check works 

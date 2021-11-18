@@ -1,0 +1,41 @@
+arch:
+- aarch64
+- amd64
+- armv7
+- armhf
+description: AMR2MQTT for Home Assistant
+image: ghcr.io/mdegat01/amr2mqtt/{arch}
+map:
+- ssl
+name: AMR2MQTT
+options:
+  message_types:
+  - scm
+  mqtt: {}
+  watched_meters: []
+  wh_multiplier: 1000
+schema:
+  log_level: list(trace|debug|info|notice|warning|error|fatal)?
+  message_types:
+  - list(scm|idm)
+  mqtt:
+    base_topic: str?
+    ca: str?
+    cert: str?
+    client_id: str?
+    host: str?
+    key: str?
+    password: password?
+    username: str?
+  readings_per_hour: int(1,)?
+  watched_meters:
+  - int
+  wh_multiplier: int(1,)
+services:
+- mqtt:want
+slug: amr2mqtt
+uart: true
+udev: true
+url: https://github.com/mdegat01/addon-amr2mqtt
+usb: true
+version: 1fe8db6

@@ -11,9 +11,10 @@ name: AMR2MQTT
 options:
   message_types:
   - scm
+  - idm
   mqtt: {}
+  reading_multiplier: 1.0
   watched_meters: []
-  wh_multiplier: 1000
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   message_types:
@@ -28,10 +29,10 @@ schema:
     password: password?
     port: port?
     username: str?
+  reading_multiplier: float(0,)?
   readings_per_hour: int(1,)?
   watched_meters:
   - int
-  wh_multiplier: int(1,)
 services:
 - mqtt:want
 slug: amr2mqtt
@@ -39,4 +40,4 @@ uart: true
 udev: true
 url: https://github.com/mdegat01/addon-amr2mqtt
 usb: true
-version: bb09ad1
+version: 9cd74d2

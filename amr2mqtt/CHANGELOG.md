@@ -1,4 +1,9 @@
 # Changelog since v0.0.1
+- Merge pull request #27 from mdegat01/fix-reading-multiplier
+
+Change `wh_multiplier` to `reading_multiplier` 
+- Also change option in doc 
+- `wh_multiplier` to more `reading_multiplier` 
 - Merge pull request #26 from mdegat01/keepalive-mqtt-connection
 
 Keep connection to MQTT broker while running 

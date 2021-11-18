@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #19 from mdegat01/fix-interval-test
+
+Initialize `interval_cur` so check works 
+- Initialize `interval_cur` so check works 
 - Merge pull request #18 from mdegat01/fix-generated-readme
 
 Use new name in generated readme 

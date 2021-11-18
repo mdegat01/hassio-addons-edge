@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #14 from mdegat01/fix-message-types-config
+
+Fix message types config option 
+- Fix message types config option 
 - Merge pull request #13 from mdegat01/add-scm-support
 
 Add support for scm type messages 

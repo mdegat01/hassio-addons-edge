@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- Wrong field for meter ID in SCM 
 - Merge pull request #22 from mdegat01/run-rtl_tcp-root
 
 Don't run rtl_tcp as a user 

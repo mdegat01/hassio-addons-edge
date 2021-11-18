@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- Multiplier must be cast to float now 
 - Merge pull request #27 from mdegat01/fix-reading-multiplier
 
 Change `wh_multiplier` to `reading_multiplier` 

@@ -40,21 +40,6 @@ https://github.com/mdegat01/hassio-addons-edge
 
 ## Add-ons provided by this repository
 
-### &#10003; [AMRIDM2MQTT][addon-amridm2mqtt]
-
-![Latest Version][amridm2mqtt-version-shield]
-![Supports armhf Architecture][amridm2mqtt-armhf-shield]
-![Supports armv7 Architecture][amridm2mqtt-armv7-shield]
-![Supports aarch64 Architecture][amridm2mqtt-aarch64-shield]
-![Supports amd64 Architecture][amridm2mqtt-amd64-shield]
-![Supports i386 Architecture][amridm2mqtt-i386-shield]
-
-AMRIDM2MQTT for Home Assistant
-
-[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-amridm2mqtt]
-
-[:books: AMRIDM2MQTT add-on documentation][addon-doc-amridm2mqtt]
-
 ### &#10003; [HedgeDoc][addon-hedgedoc]
 
 ![Latest Version][hedgedoc-version-shield]
@@ -135,7 +120,6 @@ You could also open an issue here on GitHub. Note, I use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
-- [Open an issue for the add-on: AMRIDM2MQTT][amridm2mqtt-issue]
 - [Open an issue for the add-on: HedgeDoc][hedgedoc-issue]
 - [Open an issue for the add-on: Loki][loki-issue]
 - [Open an issue for the add-on: Promtail][promtail-issue]
@@ -167,16 +151,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-amridm2mqtt]: https://github.com/mdegat01/addon-amridm2mqtt/tree/58899e0
-[addon-doc-amridm2mqtt]: https://github.com/mdegat01/addon-amridm2mqtt/blob/58899e0/README.md
-[amridm2mqtt-issue]: https://github.com/mdegat01/addon-amridm2mqtt/issues
-[amridm2mqtt-version-shield]: https://img.shields.io/badge/version-58899e0-yellow.svg
-[add-addon-amridm2mqtt]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_amridm2mqtt
-[amridm2mqtt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[amridm2mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[amridm2mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[amridm2mqtt-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[amridm2mqtt-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-hedgedoc]: https://github.com/mdegat01/addon-hedgedoc/tree/659e3a5
 [addon-doc-hedgedoc]: https://github.com/mdegat01/addon-hedgedoc/blob/659e3a5/README.md
 [hedgedoc-issue]: https://github.com/mdegat01/addon-hedgedoc/issues

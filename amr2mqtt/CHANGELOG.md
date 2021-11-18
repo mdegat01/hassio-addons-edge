@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #28 from mdegat01/quiet-rtl_tcp
+
+Quiet `rtl_tcp` based on `log_level` 
+- Quiet rtl_tcp based on log level 
 - Multiplier must be cast to float now 
 - Merge pull request #27 from mdegat01/fix-reading-multiplier
 

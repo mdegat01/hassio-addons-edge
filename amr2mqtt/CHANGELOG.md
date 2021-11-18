@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #25 from mdegat01/fix-auth-settings
+
+Using incorrect EV name for auth 
+- Using incorrect EV name for auth 
 - Merge pull request #24 from mdegat01/missing-port-config
 
 Missing port config option 

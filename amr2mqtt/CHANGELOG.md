@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #22 from mdegat01/run-rtl_tcp-root
+
+Don't run rtl_tcp as a user 
+- Don't run rtl_tcp as a user 
 - Fix type in bashio 
 - Merge pull request #21 from mdegat01/rtl-tcp-separate-service
 

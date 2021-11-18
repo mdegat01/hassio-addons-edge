@@ -26,6 +26,7 @@ schema:
     host: str?
     key: str?
     password: password?
+    port: port?
     username: str?
   readings_per_hour: int(1,)?
   watched_meters:
@@ -38,4 +39,4 @@ uart: true
 udev: true
 url: https://github.com/mdegat01/addon-amr2mqtt
 usb: true
-version: 2de5822
+version: b29cb99

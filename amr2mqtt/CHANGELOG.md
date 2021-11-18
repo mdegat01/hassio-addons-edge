@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #24 from mdegat01/missing-port-config
+
+Missing port config option 
+- Missing port config option 
 - Merge pull request #23 from mdegat01/correct-ssl-certs
 
 Use `/ssl` for ca cert and not for client certs 

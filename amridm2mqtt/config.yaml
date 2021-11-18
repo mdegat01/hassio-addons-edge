@@ -9,12 +9,16 @@ map:
 - ssl
 name: AMRIDM2MQTT
 options:
+  message_types:
+  - scm
   mqtt: {}
   readings_per_hour: 12
   watched_meters: []
   wh_multiplier: 1000
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
+  message_type:
+  - list(scm,idm)
   mqtt:
     base_topic: str?
     ca: str?
@@ -35,4 +39,4 @@ uart: true
 udev: true
 url: https://github.com/mdegat01/addon-amridm2mqtt
 usb: true
-version: 02e29e6
+version: e949223

@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #13 from mdegat01/add-scm-support
+
+Add support for scm type messages 
+- Add support for scm type messages 
 - Merge pull request #12 from mdegat01/add-usb-support
 
 Add USB to add-on config 

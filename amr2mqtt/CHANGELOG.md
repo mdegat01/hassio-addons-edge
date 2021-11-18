@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #26 from mdegat01/keepalive-mqtt-connection
+
+Keep connection to MQTT broker while running 
+- Keep connection to MQTT broker while running 
 - Merge pull request #25 from mdegat01/fix-auth-settings
 
 Using incorrect EV name for auth 

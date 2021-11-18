@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- Fix type in bashio 
 - Merge pull request #21 from mdegat01/rtl-tcp-separate-service
 
 Start `rtl_tcp` as a separate managed service 

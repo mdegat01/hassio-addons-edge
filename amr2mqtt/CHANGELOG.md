@@ -1,4 +1,9 @@
 # Changelog since v0.0.1
+- Merge pull request #21 from mdegat01/rtl-tcp-separate-service
+
+Start `rtl_tcp` as a separate managed service 
+- Newlines at end of script files 
+- Start rtl_tcp as a separate managed service 
 - Merge pull request #20 from mdegat01/use-built-in-id-filter
 
 Use `rtlamr`'s built-in ID filter 

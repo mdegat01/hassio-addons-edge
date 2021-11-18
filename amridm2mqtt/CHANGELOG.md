@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #15 from mdegat01/fix-message-types-enum
+
+Fix message types config option 
+- Fix message types config option 
 - Merge pull request #14 from mdegat01/fix-message-types-config
 
 Fix message types config option 

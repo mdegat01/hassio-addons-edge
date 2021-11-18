@@ -18,7 +18,7 @@ options:
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   message_types:
-  - list(scm,idm)
+  - list(scm|idm)
   mqtt:
     base_topic: str?
     ca: str?
@@ -39,4 +39,4 @@ uart: true
 udev: true
 url: https://github.com/mdegat01/addon-amridm2mqtt
 usb: true
-version: 32ab0a2
+version: bd9a3b0

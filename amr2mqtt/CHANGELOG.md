@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #18 from mdegat01/fix-generated-readme
+
+Use new name in generated readme 
+- Use new name in generated readme 
 - Merge pull request #17 from mdegat01/change-name-amr2mqtt
 
 Change name to `amr2mqtt` 

@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #16 from mdegat01/fix-f-strings
+
+Incorrect syntax for f strings 
+- Incorrect syntax for f strings 
 - Merge pull request #15 from mdegat01/fix-message-types-enum
 
 Fix message types config option 

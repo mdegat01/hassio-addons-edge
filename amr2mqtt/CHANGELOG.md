@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- Trim base ids list as well 
 - Echo ids to get value in bash 
 - Merge pull request #33 from mdegat01/per-meter-config
 

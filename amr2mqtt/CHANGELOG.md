@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #31 from mdegat01/add-scmplus-r900
+
+Add scm+ and r900 support 
+- Add scm+ and r900 support 
 - Merge pull request #30 from mdegat01/fix-list-config-parsing
 
 Fix handling list configs 

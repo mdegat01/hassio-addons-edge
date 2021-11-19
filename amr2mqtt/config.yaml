@@ -19,7 +19,7 @@ schema:
   discovery_mode: list(plain|csv)?
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   message_types:
-  - list(scm|idm)
+  - list(idm|r900|scm|scm+)
   mqtt:
     base_topic: str?
     ca: str?
@@ -41,4 +41,4 @@ uart: true
 udev: true
 url: https://github.com/mdegat01/addon-amr2mqtt
 usb: true
-version: 8052ef6
+version: cc11427

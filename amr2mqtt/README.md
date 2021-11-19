@@ -7,7 +7,7 @@
 ![Project Maintenance][maintenance-shield]
 [![Community Forum][forum-shield]][forum]
 
-_Runs rtlamr to read IDM power meter data and send to MQTT broker._
+_Runs rtlamr to read meter data and send to MQTT broker._
 
 ## WARNING! THIS IS AN EDGE REPOSITORY
 

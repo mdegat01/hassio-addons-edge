@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #30 from mdegat01/fix-list-config-parsing
+
+Fix handling list configs 
+- Fix handling list configs 
 - Doc tweaks 
 - Merge pull request #29 from mdegat01/docs-and-discovery-mode
 

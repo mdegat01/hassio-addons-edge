@@ -16,7 +16,6 @@ options:
   reading_multiplier: 1.0
   watched_meters: []
 schema:
-  discovery_mode: list(plain|csv)?
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   message_types:
   - list(idm|r900|scm|scm+)
@@ -41,4 +40,4 @@ uart: true
 udev: true
 url: https://github.com/mdegat01/addon-amr2mqtt
 usb: true
-version: cc11427
+version: efe8c6e

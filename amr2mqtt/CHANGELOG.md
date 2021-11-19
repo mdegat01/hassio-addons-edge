@@ -1,4 +1,9 @@
 # Changelog since v0.0.1
+- Merge pull request #32 from mdegat01/remove-discovery-mode
+
+Remove discovery mode 
+- Remove unused link 
+- Remove discovery mode 
 - Merge pull request #31 from mdegat01/add-scmplus-r900
 
 Add scm+ and r900 support 

@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #33 from mdegat01/per-meter-config
+
+Change config to be based around meters 
+- Change config to be based around meters 
 - Merge pull request #32 from mdegat01/remove-discovery-mode
 
 Remove discovery mode 

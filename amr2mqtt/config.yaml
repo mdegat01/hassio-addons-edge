@@ -9,16 +9,17 @@ map:
 - ssl
 name: AMR2MQTT
 options:
-  message_types:
-  - scm
-  - idm
+  meters: []
   mqtt: {}
-  reading_multiplier: 1.0
-  watched_meters: []
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
-  message_types:
-  - list(idm|r900|scm|scm+)
+  meters:
+  - id: int
+    name: str?
+    protocol: list(idm|netidm|r900|scm|scm+)
+    reading_multiplier: float(0,)?
+    reading_unit_of_measurement: str?
+    type: list(gas|water|electric)?
   mqtt:
     base_topic: str?
     ca: str?
@@ -29,10 +30,6 @@ schema:
     password: password?
     port: port?
     username: str?
-  reading_multiplier: float(0,)?
-  readings_per_hour: int(1,)?
-  watched_meters:
-  - int
 services:
 - mqtt:want
 slug: amr2mqtt
@@ -40,4 +37,4 @@ uart: true
 udev: true
 url: https://github.com/mdegat01/addon-amr2mqtt
 usb: true
-version: efe8c6e
+version: 9bac503

@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- Use dictionaries correctly 
 - Merge pull request #34 from mdegat01/permissions-on-data
 
 Grant read permission on /data 

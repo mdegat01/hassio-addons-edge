@@ -37,4 +37,4 @@ uart: true
 udev: true
 url: https://github.com/mdegat01/addon-amr2mqtt
 usb: true
-version: 69851d1
+version: 4e5ef85

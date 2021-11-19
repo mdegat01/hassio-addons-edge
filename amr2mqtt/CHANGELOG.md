@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- Doc tweaks 
 - Merge pull request #29 from mdegat01/docs-and-discovery-mode
 
 Fill in documentation and add discovery mode 

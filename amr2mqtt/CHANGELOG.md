@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- Echo ids to get value in bash 
 - Merge pull request #33 from mdegat01/per-meter-config
 
 Change config to be based around meters 

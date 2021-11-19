@@ -1,4 +1,9 @@
 # Changelog since v0.0.1
+- Merge pull request #29 from mdegat01/docs-and-discovery-mode
+
+Fill in documentation and add discovery mode 
+- Fix ordered list for MD029 
+- Fill in documentation and add discovery mode 
 - Merge pull request #28 from mdegat01/quiet-rtl_tcp
 
 Quiet `rtl_tcp` based on `log_level` 

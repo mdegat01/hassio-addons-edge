@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #34 from mdegat01/permissions-on-data
+
+Grant read permission on /data 
+- Grant read permission on /data 
 - Trim base ids list as well 
 - Echo ids to get value in bash 
 - Merge pull request #33 from mdegat01/per-meter-config

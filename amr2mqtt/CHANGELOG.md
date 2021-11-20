@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- Correct meters variable for protocols 
 - Use dictionaries correctly 
 - Merge pull request #34 from mdegat01/permissions-on-data
 

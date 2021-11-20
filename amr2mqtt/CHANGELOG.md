@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- json.loads not json.load 
 - Fix rtlamr flag 
 - Correct meters variable for protocols 
 - Use dictionaries correctly 

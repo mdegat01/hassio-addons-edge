@@ -1,4 +1,10 @@
 # Changelog since v1.9.0
+- Merge pull request #172 from mdegat01/bump-yq-4.15.1
+
+Bump yq to `4.15.1` 
+- Bump yq to `4.15.1`
+
+Bump yq from `4.14.2` to [4.15.1](https://github.com/mikefarah/yq/releases/tag/v4.15.1) 
 - Merge pull request #171 from mdegat01/remove-inherited-templates
 
 Inherit org's PR and release drafter templates 

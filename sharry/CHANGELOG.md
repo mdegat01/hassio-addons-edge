@@ -1,4 +1,22 @@
 # Changelog since v1.4.2
+- Merge pull request #82 from mdegat01/dependabot/docker/sharry/alpine-3.15.0
+
+Bump alpine from 3.14.3 to 3.15.0 in /sharry 
+- Bump curl to `7.80.0-r0`
+
+Bump curl from `7.79.1-r0` to `7.80.0-r0` 
+- Bump alpine from 3.14.3 to 3.15.0 in /sharry
+
+Bumps alpine from 3.14.3 to 3.15.0.
+
+---
+updated-dependencies:
+- dependency-name: alpine
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #81 from mdegat01/remove-inherited-templates
 
 Inherit org's PR and release drafter templates 

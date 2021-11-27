@@ -1,4 +1,22 @@
 # Changelog since v0.0.1
+- Merge pull request #35 from mdegat01/dependabot/docker/amr2mqtt/alpine-3.15.0
+
+Bump alpine from 3.14.3 to 3.15.0 in /amr2mqtt 
+- Bump curl to `7.80.0-r0`
+
+Bump curl from `7.79.1-r0` to `7.80.0-r0` 
+- Bump alpine from 3.14.3 to 3.15.0 in /amr2mqtt
+
+Bumps alpine from 3.14.3 to 3.15.0.
+
+---
+updated-dependencies:
+- dependency-name: alpine
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Make ID into string for tests 
 - json.loads not json.load 
 - Fix rtlamr flag 

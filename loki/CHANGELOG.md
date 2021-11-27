@@ -1,4 +1,25 @@
 # Changelog since v1.9.1
+- Merge pull request #133 from mdegat01/dependabot/docker/loki/alpine-3.15.0
+
+Bump alpine from 3.14.3 to 3.15.0 in /loki 
+- Bump nginx to `1.20.2-r0`
+
+Bump nginx from `1.20.1-r3` to `1.20.2-r0` 
+- Bump curl to `7.80.0-r0`
+
+Bump curl from `7.79.1-r0` to `7.80.0-r0` 
+- Bump alpine from 3.14.3 to 3.15.0 in /loki
+
+Bumps alpine from 3.14.3 to 3.15.0.
+
+---
+updated-dependencies:
+- dependency-name: alpine
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #132 from mdegat01/remove-inherited-templates
 
 Inherit org's PR and release drafter templates 

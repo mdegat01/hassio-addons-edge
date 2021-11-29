@@ -1,4 +1,10 @@
 # Changelog since v1.9.1
+- Merge pull request #134 from mdegat01/bump-addon-base-11.0.0
+
+Bump addon base to `11.0.0` 
+- Bump addon base to `11.0.0`
+
+Bump addon base from `10.2.3` to [11.0.0](https://github.com/hassio-addons/addon-base/releases/tag/v11.0.0). Also bump ca-certificates to `20191127-r7` 
 - Merge pull request #133 from mdegat01/dependabot/docker/loki/alpine-3.15.0
 
 Bump alpine from 3.14.3 to 3.15.0 in /loki 

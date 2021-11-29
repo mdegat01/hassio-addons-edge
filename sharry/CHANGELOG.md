@@ -1,4 +1,15 @@
 # Changelog since v1.4.2
+- Merge pull request #83 from mdegat01/bump-addon-base-11.0.0
+
+Bump addon base to `11.0.0` 
+- Bump mariadb-client to `10.6.4-r1` 
+- Bump addon base to `11.0.0`
+
+Bump addon base from `10.2.3` to [11.0.0](https://github.com/hassio-addons/addon-base/releases/tag/v11.0.0). Additionally bump the following packages to latest for alpine 3.15:
+
+- mariadb-client: `10.5.13-r0` -> `10.6.4-r1`
+- netcat-openbsd: `1.130-r2` -> `1.130-r3`
+- openjdk11-jre: `11.0.11_p9-r0` -> `11.0.13_p8-r0` 
 - Merge pull request #82 from mdegat01/dependabot/docker/sharry/alpine-3.15.0
 
 Bump alpine from 3.14.3 to 3.15.0 in /sharry 

@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #36 from mdegat01/docs-and-ha-discovery
+
+Fix docs and add HA discovery options 
+- Fix docs and add HA discovery options 
 - Merge pull request #35 from mdegat01/dependabot/docker/amr2mqtt/alpine-3.15.0
 
 Bump alpine from 3.14.3 to 3.15.0 in /amr2mqtt 

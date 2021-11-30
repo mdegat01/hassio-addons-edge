@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #37 from mdegat01/ha-discovery-support
+
+Add support for HA MQTT discovery 
+- Add support for HA MQTT discovery 
 - Merge pull request #36 from mdegat01/docs-and-ha-discovery
 
 Fix docs and add HA discovery options 

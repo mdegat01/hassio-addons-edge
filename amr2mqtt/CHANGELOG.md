@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- Ensure settings.METERS exists to prevent NPEs 
 - Disable discovery when watched_meters is empty 
 - Merge pull request #37 from mdegat01/ha-discovery-support
 

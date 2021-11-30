@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- Disable discovery when watched_meters is empty 
 - Merge pull request #37 from mdegat01/ha-discovery-support
 
 Add support for HA MQTT discovery 

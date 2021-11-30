@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #38 from mdegat01/birth-will-message
+
+Set availability on birth and will 
+- Set availability on birth and will 
 - Ensure settings.METERS exists to prevent NPEs 
 - Disable discovery when watched_meters is empty 
 - Merge pull request #37 from mdegat01/ha-discovery-support

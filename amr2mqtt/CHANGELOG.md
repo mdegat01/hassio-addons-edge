@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #40 from mdegat01/use-dictionary-correctly
+
+Correct use of dictionary to get protocol 
+- Correct use of dictionary to get protocol 
 - Merge pull request #39 from mdegat01/docs-troubleshooting
 
 Add troubleshooting info to docs 

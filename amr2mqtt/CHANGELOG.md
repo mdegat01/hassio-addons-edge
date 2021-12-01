@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- Only publish messages with expected protocol 
 - Merge pull request #38 from mdegat01/birth-will-message
 
 Set availability on birth and will 

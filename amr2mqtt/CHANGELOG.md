@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #39 from mdegat01/docs-troubleshooting
+
+Add troubleshooting info to docs 
+- Add troubleshooting info to docs 
 - Only publish messages with expected protocol 
 - Merge pull request #38 from mdegat01/birth-will-message
 

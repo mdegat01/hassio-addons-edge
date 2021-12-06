@@ -1,4 +1,10 @@
 # Changelog since v1.4.2
+- Merge pull request #123 from mdegat01/bump-nodejs-16.13.1-r0
+
+Bump nodejs to `16.13.1-r0` 
+- Bump nodejs to `16.13.1-r0`
+
+Bump nodejs from `16.13.0-r0` to `16.13.1-r0`. 
 - Merge pull request #120 from mdegat01/bump-addon-base-11.0.0
 
 Bump addon base to `11.0.0` 

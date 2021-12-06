@@ -1,4 +1,19 @@
 # Changelog since v1.4.2
+- Merge pull request #122 from mdegat01/dependabot/docker/hedgedoc/hedgedoc/hedgedoc-1.9.2-alpine
+
+Bump hedgedoc/hedgedoc from 1.9.0-alpine to 1.9.2-alpine in /hedgedoc 
+- Bump hedgedoc/hedgedoc from 1.9.0-alpine to 1.9.2-alpine in /hedgedoc
+
+Bumps hedgedoc/hedgedoc from 1.9.0-alpine to 1.9.2-alpine.
+
+---
+updated-dependencies:
+- dependency-name: hedgedoc/hedgedoc
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #123 from mdegat01/bump-nodejs-16.13.1-r0
 
 Bump nodejs to `16.13.1-r0` 

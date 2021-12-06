@@ -177,10 +177,10 @@ SOFTWARE.
 [amr2mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [amr2mqtt-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [amr2mqtt-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-hedgedoc]: https://github.com/mdegat01/addon-hedgedoc/tree/82ddea8
-[addon-doc-hedgedoc]: https://github.com/mdegat01/addon-hedgedoc/blob/82ddea8/README.md
+[addon-hedgedoc]: https://github.com/mdegat01/addon-hedgedoc/tree/9a38a93
+[addon-doc-hedgedoc]: https://github.com/mdegat01/addon-hedgedoc/blob/9a38a93/README.md
 [hedgedoc-issue]: https://github.com/mdegat01/addon-hedgedoc/issues
-[hedgedoc-version-shield]: https://img.shields.io/badge/version-82ddea8-yellow.svg
+[hedgedoc-version-shield]: https://img.shields.io/badge/version-9a38a93-yellow.svg
 [add-addon-hedgedoc]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_hedgedoc
 [hedgedoc-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [hedgedoc-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

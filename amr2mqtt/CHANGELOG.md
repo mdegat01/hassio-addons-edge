@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #44 from mdegat01/dont-force-measurement-class
+
+Correctly set default `state_class` 
+- Correctly set default `state_class` 
 - Merge pull request #43 from mdegat01/multiplier-and-precision
 
 Change to multiplier and precision config options 

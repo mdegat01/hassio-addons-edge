@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #42 from mdegat01/add-ha-docs
+
+Add docs on Home Assistant usage 
+- Add docs on Home Assistant usage 
 - Merge pull request #41 from mdegat01/to-reading-decimals
 
 Change reading multiplier to reading decimals 

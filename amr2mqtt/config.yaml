@@ -19,7 +19,7 @@ schema:
   - id: int
     name: str?
     protocol: list(idm|netidm|r900|scm|scm+)
-    reading_multiplier: float(0,)?
+    reading_decimals: int(0,)?
     reading_unit_of_measurement: str?
     type: list(gas|water|energy)?
   mqtt:
@@ -39,4 +39,4 @@ uart: true
 udev: true
 url: https://github.com/mdegat01/addon-amr2mqtt
 usb: true
-version: de09e68
+version: b06aed2

@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #41 from mdegat01/to-reading-decimals
+
+Change reading multiplier to reading decimals 
+- Change reading multiplier to reading decimals 
 - Merge pull request #40 from mdegat01/use-dictionary-correctly
 
 Correct use of dictionary to get protocol 

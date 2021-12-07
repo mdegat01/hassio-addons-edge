@@ -16,10 +16,10 @@ schema:
   home_assistant_discovery_prefix: match(^[^+#]{1,65535}$)?
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   meters:
-  - id: int
+  - consumption_decimals: int(0,)?
+    id: int
     name: str?
     protocol: list(idm|netidm|r900|scm|scm+)
-    reading_decimals: int(0,)?
     reading_unit_of_measurement: str?
     type: list(gas|water|energy)?
   mqtt:
@@ -39,4 +39,4 @@ uart: true
 udev: true
 url: https://github.com/mdegat01/addon-amr2mqtt
 usb: true
-version: ba2e025
+version: 08d4539

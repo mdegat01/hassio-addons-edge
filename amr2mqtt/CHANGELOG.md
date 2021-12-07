@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- `consumption_decimals` not `reading_decimals` 
 - Merge pull request #42 from mdegat01/add-ha-docs
 
 Add docs on Home Assistant usage 

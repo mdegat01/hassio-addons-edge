@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #43 from mdegat01/multiplier-and-precision
+
+Change to multiplier and precision config options 
+- Change to multiplier and precision config options 
 - `consumption_decimals` not `reading_decimals` 
 - Merge pull request #42 from mdegat01/add-ha-docs
 

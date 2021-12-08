@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #47 from mdegat01/fix-json-attributes-template
+
+Fix `json_attributes_template` for IDM 
+- Fix formatting for `json_attributes_template` 
 - Merge pull request #46 from mdegat01/empty-obj-is-false
 
 Fix IDM test, must be `is not None` 

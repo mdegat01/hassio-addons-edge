@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #45 from mdegat01/reuse-interval-start
+
+Keep same interval start across IDM interval 
+- Keep same interval start across IDM interval 
 - Merge pull request #44 from mdegat01/dont-force-measurement-class
 
 Correctly set default `state_class` 

@@ -1,4 +1,9 @@
 # Changelog since v0.0.1
+- Merge pull request #46 from mdegat01/empty-obj-is-false
+
+Fix IDM test, must be `is not None` 
+- Fix last consumption interval discovery 
+- Fix IDM test, must be `is not None` 
 - Merge pull request #45 from mdegat01/reuse-interval-start
 
 Keep same interval start across IDM interval 

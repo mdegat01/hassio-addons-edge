@@ -1,4 +1,8 @@
 # Changelog since v1.9.1
+- Merge pull request #135 from mdegat01/remove-github-token-input
+
+Remove `GITHUB_TOKEN` input from all workflows 
+- Remove `GITHUB_TOKEN` input from all workflows 
 - Merge pull request #134 from mdegat01/bump-addon-base-11.0.0
 
 Bump addon base to `11.0.0` 

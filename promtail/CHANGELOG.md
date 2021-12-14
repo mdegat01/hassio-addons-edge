@@ -1,4 +1,12 @@
 # Changelog since v1.9.0
+- Merge pull request #176 from mdegat01/remove-github-token-input
+
+Remove `GITHUB_TOKEN` input from all workflows 
+- Remove `GITHUB_TOKEN` input from all workflows 
+- Merge pull request #175 from mdegat01/no-github-token-labels
+
+Don't pass `GITHUB_TOKEN` to labels workflow 
+- Don't pass `GITHUB_TOKEN` to labels workflow 
 - Merge pull request #174 from mdegat01/bump-yq-4.16.1
 
 Bump yq to `4.16.1` 

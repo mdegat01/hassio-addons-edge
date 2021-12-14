@@ -1,4 +1,11 @@
 # Changelog since v1.4.2
+- Merge pull request #124 from mdegat01/remove-github-token-input
+
+Remove `GITHUB_TOKEN` input from all workflows 
+- Bump mariadb-client to `10.6.4-r2`
+
+Bump mariadb-client from `10.6.4-r1` to `10.6.4-r2` 
+- Remove `GITHUB_TOKEN` input from all workflows 
 - Merge pull request #122 from mdegat01/dependabot/docker/hedgedoc/hedgedoc/hedgedoc-1.9.2-alpine
 
 Bump hedgedoc/hedgedoc from 1.9.0-alpine to 1.9.2-alpine in /hedgedoc 

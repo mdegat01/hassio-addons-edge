@@ -1,4 +1,11 @@
 # Changelog since v1.4.2
+- Merge pull request #84 from mdegat01/remove-github-token-input
+
+Remove `GITHUB_TOKEN` input from all workflows 
+- Bump mariadb-client to `10.6.4-r2`
+
+Bump mariadb-client from `10.6.4-r1` to `10.6.4-r2` 
+- Remove `GITHUB_TOKEN` input from all workflows 
 - Merge pull request #83 from mdegat01/bump-addon-base-11.0.0
 
 Bump addon base to `11.0.0` 

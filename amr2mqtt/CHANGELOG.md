@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #48 from mdegat01/remove-github-token-input
+
+Remove `GITHUB_TOKEN` input from all workflows 
+- Remove `GITHUB_TOKEN` input from all workflows 
 - Merge pull request #47 from mdegat01/fix-json-attributes-template
 
 Fix `json_attributes_template` for IDM 

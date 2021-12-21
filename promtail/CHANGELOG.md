@@ -1,4 +1,10 @@
 # Changelog since v1.9.0
+- Merge pull request #177 from mdegat01/bump-yq-4.16.2
+
+Bump yq to `4.16.2` 
+- Bump yq to `4.16.2`
+
+Bump yq from `4.16.1` to [4.16.2](https://github.com/mikefarah/yq/releases/tag/v4.16.2) 
 - Merge pull request #176 from mdegat01/remove-github-token-input
 
 Remove `GITHUB_TOKEN` input from all workflows 

@@ -33,5 +33,5 @@ schema:
   skip_default_scrape_config: bool?
 slug: promtail
 url: https://github.com/mdegat01/addon-promtail
-version: 51076d0
+version: 824e29c
 watchdog: http://[HOST]:[PORT:9080]/ready

@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #51 from mdegat01/cleanup-discovery
+
+Cleanup discovery messages 
+- Cleanup discovery messages 
 - Merge pull request #50 from mdegat01/update-license-maintenance-year
 
 Update maintenance/license year to 2022 

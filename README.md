@@ -167,10 +167,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-amr2mqtt]: https://github.com/mdegat01/addon-amr2mqtt/tree/d8e150f
-[addon-doc-amr2mqtt]: https://github.com/mdegat01/addon-amr2mqtt/blob/d8e150f/README.md
+[addon-amr2mqtt]: https://github.com/mdegat01/addon-amr2mqtt/tree/bc8c6fb
+[addon-doc-amr2mqtt]: https://github.com/mdegat01/addon-amr2mqtt/blob/bc8c6fb/README.md
 [amr2mqtt-issue]: https://github.com/mdegat01/addon-amr2mqtt/issues
-[amr2mqtt-version-shield]: https://img.shields.io/badge/version-d8e150f-yellow.svg
+[amr2mqtt-version-shield]: https://img.shields.io/badge/version-bc8c6fb-yellow.svg
 [add-addon-amr2mqtt]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_amr2mqtt
 [amr2mqtt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amr2mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

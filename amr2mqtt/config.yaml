@@ -17,6 +17,8 @@ schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   meters:
   - id: int
+    manufacturer: str?
+    model: str?
     multiplier: float(0,)?
     name: str?
     precision: int(0,)?
@@ -40,4 +42,4 @@ uart: true
 udev: true
 url: https://github.com/mdegat01/addon-amr2mqtt
 usb: true
-version: d8e150f
+version: bc8c6fb

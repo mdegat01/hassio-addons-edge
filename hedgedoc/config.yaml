@@ -52,6 +52,6 @@ services:
 - mysql:want
 slug: hedgedoc
 url: https://github.com/mdegat01/addon-hedgedoc
-version: '3423326'
+version: 7212f68
 watchdog: '[PROTO:ssl]://[HOST]:3000/status'
 webui: '[PROTO:ssl]://[HOST]:[PORT:3000]'

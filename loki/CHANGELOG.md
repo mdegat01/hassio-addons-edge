@@ -1,4 +1,10 @@
 # Changelog since v1.9.1
+- Merge pull request #137 from mdegat01/bump-addon-base-11.0.1
+
+Bump addon base to `11.0.1` 
+- Bump addon base to `11.0.1`
+
+Bump addon base from `11.0.0` to [11.0.1](https://github.com/hassio-addons/addon-base/releases/tag/v11.0.1 
 - Merge pull request #135 from mdegat01/remove-github-token-input
 
 Remove `GITHUB_TOKEN` input from all workflows 

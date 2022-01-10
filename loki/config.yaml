@@ -28,5 +28,5 @@ schema:
 slug: loki
 startup: system
 url: https://github.com/mdegat01/addon-loki
-version: 9df8328
+version: 241a3e7
 watchdog: http://[HOST]:3101/ready

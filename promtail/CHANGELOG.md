@@ -1,4 +1,13 @@
 # Changelog since v1.9.0
+- Bump addon debian base to `5.2.3`
+
+Bump addon debian base from `5.2.2` to [5.2.3](https://github.com/hassio-addons/addon-debian-base/releases/tag/v5.2.3) 
+- Merge pull request #179 from mdegat01/bump-tzdata-2021a-1+deb11u2
+
+Bump tzdata to `2021a-1+deb11u2` 
+- Bump tzdata to `2021a-1+deb11u2`
+
+Bump tzdata from `2021a-1+deb11u1` to `2021a-1+deb11u2` 
 - Merge pull request #177 from mdegat01/bump-yq-4.16.2
 
 Bump yq to `4.16.2` 

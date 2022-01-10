@@ -1,4 +1,5 @@
 # Changelog since v1.9.0
+- Update maintenance/license year to 2022 
 - Bump addon debian base to `5.2.3`
 
 Bump addon debian base from `5.2.2` to [5.2.3](https://github.com/hassio-addons/addon-debian-base/releases/tag/v5.2.3) 

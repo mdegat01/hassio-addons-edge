@@ -1,4 +1,8 @@
 # Changelog since v1.9.1
+- Merge pull request #138 from mdegat01/update-license-maintenance-year
+
+Update maintenance/license year to 2022 
+- Update maintenance/license year to 2022 
 - Merge pull request #137 from mdegat01/bump-addon-base-11.0.1
 
 Bump addon base to `11.0.1` 

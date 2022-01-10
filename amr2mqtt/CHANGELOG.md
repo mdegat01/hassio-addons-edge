@@ -1,4 +1,8 @@
 # Changelog since v0.0.1
+- Merge pull request #50 from mdegat01/update-license-maintenance-year
+
+Update maintenance/license year to 2022 
+- Update maintenance/license year to 2022 
 - Merge pull request #49 from mdegat01/bump-addon-debian-base-5.2.3
 
 Bump addon debian base to `5.2.3` 

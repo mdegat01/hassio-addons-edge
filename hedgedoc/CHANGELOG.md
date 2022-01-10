@@ -1,4 +1,10 @@
 # Changelog since v1.4.2
+- Merge pull request #126 from mdegat01/bump-openssl-1.1.1l-r8
+
+Bump openssl to `1.1.1l-r8` 
+- Bump openssl to `1.1.1l-r8`
+
+Bump openssl from `1.1.1l-r7` to `1.1.1l-r8` 
 - Merge pull request #124 from mdegat01/remove-github-token-input
 
 Remove `GITHUB_TOKEN` input from all workflows 

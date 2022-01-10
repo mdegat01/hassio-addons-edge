@@ -1,4 +1,10 @@
 # Changelog since v0.0.1
+- Merge pull request #49 from mdegat01/bump-addon-debian-base-5.2.3
+
+Bump addon debian base to `5.2.3` 
+- Bump addon debian base to `5.2.3`
+
+Bump addon debian base from `5.2.2` to [5.2.3](https://github.com/hassio-addons/addon-debian-base/releases/tag/v5.2.3) 
 - Merge pull request #48 from mdegat01/remove-github-token-input
 
 Remove `GITHUB_TOKEN` input from all workflows 

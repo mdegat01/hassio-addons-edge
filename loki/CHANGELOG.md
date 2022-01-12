@@ -1,18 +1,7 @@
-# Changelog since v1.9.2
-- Merge pull request #142 from mdegat01/days-to-keep-as-is
+# Changelog since v1.9.3
+- Merge pull request #144 from mdegat01/update-loki-2.4.2
 
-Stop subtracting one from `days_to_keep` 
-- Stop subtracting one from days to keep 
-- Merge pull request #141 from mdegat01/aa-marker-file-lock
+Update Loki to `2.4.2` 
+- Update Loki to `2.4.2`
 
-Grant `rwk` access in `/tmp` to files owned by Loki user 
-- Better way to give access in tmp 
-- Needs lock access to marker files as well 
-- Merge pull request #140 from mdegat01/aa-fix-ssl-compactor
-
-Needs access to ssl cnf file and files in /tmp 
-- Needs access to ssl cnf file and files in /tmp 
-- Merge pull request #139 from mdegat01/compactor-for-retention
-
-Fix retention by using compactor 
-- Fix retention by using compactor 
+Update Loki from `2.4.1` to [2.4.2](https://github.com/grafana/loki/releases/tag/v2.4.2) 

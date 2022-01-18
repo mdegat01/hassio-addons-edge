@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v1.0.2
+- Merge pull request #54 from mdegat01/add-last-seen
 
-## 📚 Documentation
-
-- Fix references to `watched_meters` in docs @mdegat01 (#53)
+Add option for `last_seen` 
+- Add option for `last_seen` 

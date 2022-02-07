@@ -1,10 +1,7 @@
-## What’s changed
+# Changelog since v1.9.3
+- Merge pull request #186 from mdegat01/bump-yq-4.19.1
 
-## 🐛 Bug fixes
+Bump yq to `4.19.1` 
+- Bump yq to `4.19.1`
 
-- Allow access on docker root paths in debian @mdegat01 (#182)
-
-## ⬆️ Dependency updates
-
-- Bump yq to `4.18.1` @mdegat01 (#183)
-- Update to promtail journal `1.4.0` @mdegat01 (#184)
+Bump yq from `4.18.1` to [4.19.1](https://github.com/mikefarah/yq/releases/tag/v4.19.1) 

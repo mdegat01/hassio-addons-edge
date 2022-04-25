@@ -1,10 +1,10 @@
-## What’s changed
+# Changelog since v1.4.4
+- Merge pull request #132 from mdegat01/bump-mariadb-nodejs-openssl
 
-## 🐛 Bug fixes
+Bump mariadb-client, nodejs and openssl 
+- Bump mariadb-client, nodejs and openssl
 
-- Allow access on docker root paths in debian @mdegat01 (#129)
-- Add access to ssl cnf file and other used files @mdegat01 (#128)
-
-## ⬆️ Dependency updates
-
-- Bump nodejs to `16.13.2-r0` @mdegat01 (#130)
+Bump the following packages:
+- mariadb-client from `10.6.4-r2` to `10.6.7-r0`
+- nodejs from `16.13.2-r0` to `16.14.2-r0`
+- openssl from `1.1.1l-r8` to `1.1.1n-r0` 

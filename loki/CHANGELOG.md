@@ -1,9 +1,16 @@
-## What’s changed
+# Changelog since v1.9.5
+- Merge pull request #149 from mdegat01/dependabot/docker/loki/alpine-3.15.4
 
-## 🐛 Bug fixes
+Bump alpine from 3.15.0 to 3.15.4 in /loki 
+- Bump alpine from 3.15.0 to 3.15.4 in /loki
 
-- Allow access on docker root paths in debian @mdegat01 (#145)
+Bumps alpine from 3.15.0 to 3.15.4.
 
-## ⬆️ Dependency updates
+---
+updated-dependencies:
+- dependency-name: alpine
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
 
-- Update Loki to `2.4.2` @mdegat01 (#144)
+Signed-off-by: dependabot[bot] <support@github.com> 

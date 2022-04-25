@@ -1,4 +1,10 @@
 # Changelog since v1.4.4
+- Merge pull request #95 from mdegat01/update-sharry-1.10.0
+
+Update Sharry to `1.10.0` 
+- Update Sharry to `1.10.0`
+
+Update Sharry from `1.9.0` to [1.10.0](https://github.com/eikek/sharry/releases/tag/v1.10.0) 
 - Merge pull request #93 from mdegat01/dependabot/docker/sharry/alpine-3.15.4
 
 Bump alpine from 3.15.0 to 3.15.4 in /sharry 

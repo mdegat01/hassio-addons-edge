@@ -1,4 +1,19 @@
 # Changelog since v1.4.4
+- Merge pull request #131 from mdegat01/dependabot/docker/hedgedoc/hedgedoc/hedgedoc-1.9.3-alpine
+
+Bump hedgedoc/hedgedoc from 1.9.2-alpine to 1.9.3-alpine in /hedgedoc 
+- Bump hedgedoc/hedgedoc from 1.9.2-alpine to 1.9.3-alpine in /hedgedoc
+
+Bumps hedgedoc/hedgedoc from 1.9.2-alpine to 1.9.3-alpine.
+
+---
+updated-dependencies:
+- dependency-name: hedgedoc/hedgedoc
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #132 from mdegat01/bump-mariadb-nodejs-openssl
 
 Bump mariadb-client, nodejs and openssl 

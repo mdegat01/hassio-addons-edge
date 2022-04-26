@@ -1,4 +1,8 @@
 # Changelog since v1.9.3
+- Merge pull request #197 from mdegat01/remove-non-ssl-support-cafile
+
+Remove deprecated option for cafile outside /ssl 
+- Remove deprecated option for cafile outside /ssl 
 - Merge pull request #196 from mdegat01/add-cas-signing
 
 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) 

@@ -1,4 +1,10 @@
 # Changelog since v1.9.3
+- Merge pull request #194 from mdegat01/update-promtail-2.5.0
+
+Update promtail to `2.5.0` 
+- Update promtail to `2.5.0`
+
+Update promtail-journal from `1.4.0` to [1.5.0](https://github.com/mdegat01/promtail-journal/releases/tag/v1.5.0). This updates promtail from `2.4.2` to [2.5.0](https://github.com/grafana/loki/releases/tag/v2.5.0) 
 - Merge pull request #193 from mdegat01/bump-yq-4.24.5
 
 Bump yq to `4.24.5` 

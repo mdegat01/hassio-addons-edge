@@ -1,4 +1,14 @@
 # Changelog since v1.4.4
+- Merge pull request #133 from mdegat01/bump-hassio-addons-base-11.1.2
+
+Bump hassio-addons/base to `11.1.2` 
+- Move version to build.yaml 
+- Bump ca-certificates to `20211220-r0`
+
+Bump ca-certificates from `20191127-r7` to `20211220-r0` 
+- Bump hassio-addons/base to `11.1.2`
+
+Bump hassio-addons/base from `11.0.1` to [11.1.2](https://github.com/hassio-addons/addon-base/releases/tag/v11.1.2) 
 - Merge pull request #131 from mdegat01/dependabot/docker/hedgedoc/hedgedoc/hedgedoc-1.9.3-alpine
 
 Bump hedgedoc/hedgedoc from 1.9.2-alpine to 1.9.3-alpine in /hedgedoc 

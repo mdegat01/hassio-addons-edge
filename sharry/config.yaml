@@ -2,6 +2,7 @@ arch:
 - aarch64
 - amd64
 auth_api: true
+codenotary: codenotary@degatano.com
 description: Sharry for Home Assistant
 image: ghcr.io/mdegat01/sharry/{arch}
 name: Sharry
@@ -40,6 +41,6 @@ services:
 - mysql:want
 slug: sharry
 url: https://github.com/mdegat01/addon-sharry
-version: 33be799
+version: 78fd997
 watchdog: http://[HOST]:9090/api/v2/open/info/version
 webui: http://[HOST]:[PORT:9090]

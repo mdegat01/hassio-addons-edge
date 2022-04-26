@@ -1,4 +1,9 @@
 # Changelog since v1.4.4
+- Merge pull request #98 from mdegat01/add-cas-signing
+
+ 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) 
+- Pass CAS_API_KEY in deploy workflow 
+- Sign add-on with CAS 
 - Merge pull request #97 from mdegat01/version-to-build-yaml
 
 Base version into build.yaml 

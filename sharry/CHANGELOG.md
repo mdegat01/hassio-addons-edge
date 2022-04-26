@@ -1,4 +1,14 @@
 # Changelog since v1.4.4
+- Merge pull request #97 from mdegat01/version-to-build-yaml
+
+Base version into build.yaml 
+- Base version into build.yaml 
+- Merge pull request #96 from mdegat01/bump-hassio-addons-base-11.1.2
+
+Bump hassio-addons/base to `11.1.2` 
+- Bump hassio-addons/base to `11.1.2`
+
+Bump hassio-addons/base from `11.0.1` to [11.1.2](https://github.com/hassio-addons/addon-base/releases/tag/v11.1.2) 
 - Merge pull request #95 from mdegat01/update-sharry-1.10.0
 
 Update Sharry to `1.10.0` 

@@ -1,4 +1,9 @@
 # Changelog since v1.0.2
+- Merge pull request #64 from mdegat01/add-symbol-length
+
+Add symbol length option for rtlamr 
+- Add documentation for new option 
+- Add symbol length option for rtlamr 
 - Merge pull request #63 from mdegat01/r900-messages-8-fields
 
 Allow 8 fields for R900 messages 

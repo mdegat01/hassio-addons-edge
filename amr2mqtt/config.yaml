@@ -37,6 +37,7 @@ schema:
     password: password?
     port: port?
     username: str?
+  rtlamr_symbol_length: list(8|32|40|48|56|64|72|80|88|96)?
 services:
 - mqtt:want
 slug: amr2mqtt
@@ -44,4 +45,4 @@ uart: true
 udev: true
 url: https://github.com/mdegat01/addon-amr2mqtt
 usb: true
-version: 9c484ce
+version: 78453f9

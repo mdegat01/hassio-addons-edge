@@ -1,4 +1,8 @@
 # Changelog since v1.0.2
+- Merge pull request #62 from mdegat01/add-cas-signing
+
+🔒 Sign add-on with Codenotary Community Attestation Service (CAS) 
+- Sign add-on with CAS 
 - Merge pull request #61 from mdegat01/bump-hassio-addons-debian-base-5.3.1
 
 Bump hassio-addons/debian-base to `5.3.1` 

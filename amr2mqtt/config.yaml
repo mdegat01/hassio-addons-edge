@@ -3,6 +3,7 @@ arch:
 - amd64
 - armv7
 - armhf
+codenotary: codenotary@degatano.com
 description: AMR2MQTT for Home Assistant
 image: ghcr.io/mdegat01/amr2mqtt/{arch}
 map:
@@ -43,4 +44,4 @@ uart: true
 udev: true
 url: https://github.com/mdegat01/addon-amr2mqtt
 usb: true
-version: 131a1e4
+version: e02dfd8

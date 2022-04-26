@@ -1,4 +1,9 @@
 # Changelog since v1.9.3
+- Merge pull request #195 from mdegat01/allow-config-access
+
+Allow /config access to promtail folder only 
+- Document restrictions on /config 
+- Allow /config access to promtail folder only 
 - Merge pull request #194 from mdegat01/update-promtail-2.5.0
 
 Update promtail to `2.5.0` 

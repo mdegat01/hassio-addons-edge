@@ -7,6 +7,7 @@ description: Promtail for Home Assistant
 image: ghcr.io/mdegat01/promtail/{arch}
 journald: true
 map:
+- config
 - share
 - ssl
 name: Promtail
@@ -33,5 +34,5 @@ schema:
   skip_default_scrape_config: bool?
 slug: promtail
 url: https://github.com/mdegat01/addon-promtail
-version: e15d7d6
+version: e8a7030
 watchdog: http://[HOST]:[PORT:9080]/ready

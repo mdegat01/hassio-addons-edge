@@ -1,4 +1,14 @@
 # Changelog since v1.9.3
+- Merge pull request #192 from mdegat01/bump-hassio-addons-debian-base-5.3.1
+
+Bump hassio-addons/debian-base to `5.3.1` 
+- Move version to build.yaml 
+- Bump tzdata to `2021a-1+deb11u3`
+
+Bump tzdata from `2021a-1+deb11u2` to `2021a-1+deb11u3` 
+- Bump hassio-addons/debian-base to `5.3.1`
+
+Bump hassio-addons/debian-base from `5.2.3` to [5.3.1](https://github.com/hassio-addons/addon-debian-base/releases/tag/v5.3.1) 
 - Merge pull request #190 from mdegat01/dependabot/docker/promtail/alpine-3.15.4
 
 Bump alpine from 3.15.0 to 3.15.4 in /promtail 

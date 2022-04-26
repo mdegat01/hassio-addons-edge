@@ -1,4 +1,8 @@
 # Changelog since v1.9.5
+- Merge pull request #152 from mdegat01/add-cas-signing
+
+🔒 Sign add-on with Codenotary Community Attestation Service (CAS) 
+- Sign add-on with CAS 
 - Merge pull request #151 from mdegat01/bump-hassio-addons-base-11.1.2
 
 Bump hassio-addons/base to `11.1.2` 

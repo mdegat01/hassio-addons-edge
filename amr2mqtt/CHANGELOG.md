@@ -1,4 +1,8 @@
 # Changelog since v1.0.2
+- Merge pull request #63 from mdegat01/r900-messages-8-fields
+
+Allow 8 fields for R900 messages 
+- Allow 8 fields for R900 messages 
 - Merge pull request #62 from mdegat01/add-cas-signing
 
 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) 

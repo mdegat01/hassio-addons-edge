@@ -1,4 +1,10 @@
 # Changelog since v1.9.3
+- Merge pull request #193 from mdegat01/bump-yq-4.24.5
+
+Bump yq to `4.24.5` 
+- Bump yq to `4.24.5`
+
+Bump yq from `4.19.1` to [4.24.5](https://github.com/mikefarah/yq/releases/tag/v4.24.5) 
 - Merge pull request #192 from mdegat01/bump-hassio-addons-debian-base-5.3.1
 
 Bump hassio-addons/debian-base to `5.3.1` 

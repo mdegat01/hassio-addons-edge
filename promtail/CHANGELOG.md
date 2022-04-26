@@ -1,4 +1,8 @@
 # Changelog since v1.9.3
+- Merge pull request #196 from mdegat01/add-cas-signing
+
+🔒 Sign add-on with Codenotary Community Attestation Service (CAS) 
+- Sign add-on with CAS 
 - Merge pull request #195 from mdegat01/allow-config-access
 
 Allow /config access to promtail folder only 

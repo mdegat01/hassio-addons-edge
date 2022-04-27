@@ -1,4 +1,9 @@
 # Changelog since v1.0.2
+- Merge pull request #68 from mdegat01/fix-last-seen-name
+
+Fix name for last seen sensor 
+- Include device name in name 
+- Fix name for last seen sensor 
 - Merge pull request #67 from mdegat01/note-dongle-issue
 
 Include my NooElec issues and dongle change in doc 

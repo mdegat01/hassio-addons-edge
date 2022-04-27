@@ -1,4 +1,8 @@
 # Changelog since v1.4.4
+- Merge pull request #100 from mdegat01/bump-curl-7.80.0-r1
+
+Bump curl to `7.80.0-r1` 
+- Bump curl to `7.80.0-r1` 
 - Merge pull request #99 from mdegat01/revert-95-update-sharry-1.10.0
 
 Revert "Update Sharry to `1.10.0`" 

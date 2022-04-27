@@ -1,4 +1,8 @@
 # Changelog since v1.0.2
+- Merge pull request #66 from mdegat01/bump-curl-7.80.0-r1
+
+Bump curl to `7.80.0-r1` 
+- Bump curl to `7.80.0-r1` 
 - Merge pull request #64 from mdegat01/add-symbol-length
 
 Add symbol length option for rtlamr 

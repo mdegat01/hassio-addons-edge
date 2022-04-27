@@ -1,4 +1,12 @@
 # Changelog since v1.0.2
+- Merge pull request #67 from mdegat01/note-dongle-issue
+
+Include my NooElec issues and dongle change in doc 
+- Note nooelec issues and dongle change in doc 
+- Merge pull request #65 from mdegat01/last-seen-sensor
+
+`last_seen` as sensor not attribute 
+- last_seen as sensor not attribute 
 - Merge pull request #66 from mdegat01/bump-curl-7.80.0-r1
 
 Bump curl to `7.80.0-r1` 

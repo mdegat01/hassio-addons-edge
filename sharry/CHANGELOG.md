@@ -1,4 +1,8 @@
 # Changelog since v1.4.4
+- Merge pull request #99 from mdegat01/revert-95-update-sharry-1.10.0
+
+Revert "Update Sharry to `1.10.0`" 
+- Revert "Update Sharry to `1.10.0`" 
 - Merge pull request #98 from mdegat01/add-cas-signing
 
  🔒 Sign add-on with Codenotary Community Attestation Service (CAS) 

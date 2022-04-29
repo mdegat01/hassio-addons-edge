@@ -45,4 +45,4 @@ uart: true
 udev: true
 url: https://github.com/mdegat01/addon-amr2mqtt
 usb: true
-version: e80bee5
+version: 2.0.0

@@ -1,61 +1,24 @@
-# Changelog since v1.0.2
-- Merge pull request #68 from mdegat01/fix-last-seen-name
+## What’s changed
 
-Fix name for last seen sensor 
-- Include device name in name 
-- Fix name for last seen sensor 
-- Merge pull request #67 from mdegat01/note-dongle-issue
+This got tagged as a major version bump to 2.0.0 because #65 is marked as a breaking change. But I realized after that it was only a breaking change for beta users, this is the first release the `last_seen` option will be available in stable. So shouldn't really be any breaking changes for anyone. Some new features though, enjoy!
 
-Include my NooElec issues and dongle change in doc 
-- Note nooelec issues and dongle change in doc 
-- Merge pull request #65 from mdegat01/last-seen-sensor
+## 🐛 Bug fixes
 
-`last_seen` as sensor not attribute 
-- last_seen as sensor not attribute 
-- Merge pull request #66 from mdegat01/bump-curl-7.80.0-r1
+- Allow 8 fields for R900 messages @mdegat01 (#63)
 
-Bump curl to `7.80.0-r1` 
-- Bump curl to `7.80.0-r1` 
-- Merge pull request #64 from mdegat01/add-symbol-length
+## 🚀 Enhancements
 
-Add symbol length option for rtlamr 
-- Add documentation for new option 
-- Add symbol length option for rtlamr 
-- Merge pull request #63 from mdegat01/r900-messages-8-fields
+- Add option for `last_seen` @mdegat01 (#54)
+- 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) @mdegat01 (#62)
+- Add symbol length option for rtlamr @mdegat01 (#64)
+- `last_seen` as sensor not attribute @mdegat01 (#65)
 
-Allow 8 fields for R900 messages 
-- Allow 8 fields for R900 messages 
-- Merge pull request #62 from mdegat01/add-cas-signing
+## 📚 Documentation
 
-🔒 Sign add-on with Codenotary Community Attestation Service (CAS) 
-- Sign add-on with CAS 
-- Merge pull request #61 from mdegat01/bump-hassio-addons-debian-base-5.3.1
+- Include my NooElec issues and dongle change in doc @mdegat01 (#67)
 
-Bump hassio-addons/debian-base to `5.3.1` 
-- Move version to build.yaml 
-- Bump hassio-addons/debian-base to `5.3.1`
+## ⬆️ Dependency updates
 
-Bump hassio-addons/debian-base from `5.2.3` to [5.3.1](https://github.com/hassio-addons/addon-debian-base/releases/tag/v5.3.1) 
-- Merge pull request #59 from mdegat01/dependabot/docker/amr2mqtt/alpine-3.15.4
-
-Bump alpine from 3.15.0 to 3.15.4 in /amr2mqtt 
-- Bump alpine from 3.15.0 to 3.15.4 in /amr2mqtt
-
-Bumps alpine from 3.15.0 to 3.15.4.
-
----
-updated-dependencies:
-- dependency-name: alpine
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] <support@github.com> 
-- Merge pull request #55 from mdegat01/fix-last-seen-format
-
-Swap `ISO_8601` and `ISO_8601_local` 
-- Swap `ISO_8601` and `ISO_8601_local` 
-- Merge pull request #54 from mdegat01/add-last-seen
-
-Add option for `last_seen` 
-- Add option for `last_seen` 
+- Bump alpine from 3.15.0 to 3.15.4 in /amr2mqtt @dependabot (#59)
+- Bump hassio-addons/debian-base to `5.3.1` @mdegat01 (#61)
+- Bump curl to `7.80.0-r1` @mdegat01 (#66)

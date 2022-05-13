@@ -1,11 +1,11 @@
-## What’s changed
+# Changelog since v1.5.1
+- Merge pull request #135 from mdegat01/s6-v3-prep
 
-## 🚀 Enhancements
+Fix permissions for s6 v3 and remove fix-attrs.d 
+- Fix permissions for s6 v3 and remove fix-attrs.d 
+- Merge pull request #136 from mdegat01/bump-openssl-1.1.1o-r0
 
-- 🔒 Sign add-on with Codenotary Community Attestation Service (CAS) @mdegat01 (#134)
+Bump openssl to `1.1.1o-r0` 
+- Bump openssl to `1.1.1o-r0`
 
-## ⬆️ Dependency updates
-
-- Bump mariadb-client, nodejs and openssl @mdegat01 (#132)
-- Bump hedgedoc/hedgedoc from 1.9.2-alpine to 1.9.3-alpine in /hedgedoc @dependabot (#131)
-- Bump hassio-addons/base to `11.1.2` @mdegat01 (#133)
+Bump openssl from `1.1.1n-r0` to `1.1.1o-r0`. Also fix incorrect version in hedgedoc URL. 

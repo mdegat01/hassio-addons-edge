@@ -1,13 +1,5 @@
-## What’s changed
+# Changelog since v2.1.0
+- Merge pull request #206 from mdegat01/update-debian-base-6.0.0
 
-## 🐛 Bug fixes
-
-- Fix aa permission on fix-attrs.d @mdegat01 (#205)
-- Add /tmp access to promtail apparmor profile @pdecat (#200)
-
-## 🚀 Enhancements
-
-- Fix permissions for s6 v3 and remove fix-attrs.d @mdegat01 (#201)
-- Remove extra build layer from dockerfile @mdegat01 (#203)
-- Use s6 init @mdegat01 (#204)
-
+Update to debian base to 6.0.0 
+- Update to debian base 6.0.0 

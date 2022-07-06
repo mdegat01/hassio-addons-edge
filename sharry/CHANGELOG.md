@@ -1,4 +1,10 @@
 # Changelog since v1.4.4
+- Merge pull request #103 from mdegat01/simplify-dockerfile
+
+Remove build layer to simplify dockerfile 
+- Remove curl since its in base 
+- Bump packages 
+- Remove build layer to simplify dockerfile 
 - Merge pull request #101 from mdegat01/s6-v3-prep
 
 Fix permissions for s6 v3 and remove fix-attrs.d 

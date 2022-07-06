@@ -1,4 +1,8 @@
 # Changelog since v2.0.1
+- Merge pull request #204 from mdegat01/use-s6-init
+
+Use s6 init 
+- Use s6 init 
 - Merge pull request #203 from mdegat01/simplify-dockerfile
 
 Remove extra build layer from dockerfile 

@@ -1,4 +1,8 @@
 # Changelog since v1.4.4
+- Merge pull request #105 from mdegat01/update-sharry-1.11.0
+
+Update sharry from 1.9.0 to 1.11.0 
+- Update sharry from 1.9.0 to 1.11.0 
 - Merge pull request #104 from mdegat01/update-base-12.2.0
 
 Update addon base to 12.2.0 

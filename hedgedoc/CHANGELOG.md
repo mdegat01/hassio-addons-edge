@@ -1,4 +1,9 @@
 # Changelog since v1.5.1
+- Merge pull request #137 from mdegat01/use-s6-init
+
+Use s6 init and small dockerfile refactor 
+- Bump packages 
+- Use s6 init and small dockerfile refactor 
 - Merge pull request #135 from mdegat01/s6-v3-prep
 
 Fix permissions for s6 v3 and remove fix-attrs.d 

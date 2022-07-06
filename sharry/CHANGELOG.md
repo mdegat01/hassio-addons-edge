@@ -1,4 +1,8 @@
 # Changelog since v1.4.4
+- Merge pull request #104 from mdegat01/update-base-12.2.0
+
+Update addon base to 12.2.0 
+- Update addon base to 12.2.0 
 - Merge pull request #103 from mdegat01/simplify-dockerfile
 
 Remove build layer to simplify dockerfile 

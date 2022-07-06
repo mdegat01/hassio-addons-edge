@@ -1,4 +1,8 @@
 # Changelog since v1.10.1
+- Merge pull request #159 from mdegat01/fix-aa-fix-attrs.d
+
+Fix aa permission on fix-attrs.d 
+- Fix aa permission on fix-attrs.d 
 - Merge pull request #158 from mdegat01/use-s6-init
 
 Use s6 init 

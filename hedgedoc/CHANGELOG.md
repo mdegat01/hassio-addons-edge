@@ -1,4 +1,8 @@
 # Changelog since v1.5.1
+- Merge pull request #138 from mdegat01/update-base-12.2.0
+
+Update base to 12.2.0 
+- Update base to 12.2.0 
 - Merge pull request #137 from mdegat01/use-s6-init
 
 Use s6 init and small dockerfile refactor 

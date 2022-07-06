@@ -1,4 +1,10 @@
 # Changelog since v1.10.1
+- Merge pull request #157 from mdegat01/remove-build-layer
+
+Simplify dockerfile by removing build layer 
+- Remove curl, already in base image 
+- Tweaks and separate out nsswitch bit 
+- Simplify dockerfile by removing build layer 
 - Merge pull request #154 from mdegat01/s6-v3-prep
 
 Fix permissions for s6 v3 and remove fix-attrs.d 

@@ -1,4 +1,10 @@
 # Changelog since v2.0.1
+- Merge pull request #203 from mdegat01/simplify-dockerfile
+
+Remove extra build layer from dockerfile 
+- Don't remove tar, it's essential 
+- Correct tar version 
+- Remove extra build layer from dockerfile 
 - Merge pull request #200 from pdecat/apparmor_tmp
 
 Add /tmp access to promtail apparmor profile 

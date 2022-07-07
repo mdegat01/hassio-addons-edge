@@ -1,4 +1,8 @@
 # Changelog since v1.4.4
+- Merge pull request #108 from mdegat01/no-arg-build
+
+Remove args from build.yaml 
+- Remove args from build.yaml 
 - Merge pull request #107 from mdegat01/aa-s6-v3-fix
 
 Adjust apparmor for s6 v3 

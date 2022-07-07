@@ -1,4 +1,8 @@
 # Changelog since v1.10.1
+- Merge pull request #161 from mdegat01/add-etc-s6-ix
+
+Add back ix to /etc/s6 
+- Add back ix to /etc/s6 
 - Merge pull request #160 from mdegat01/aa-s6-v3-fixes
 
 Adjust s6 aa permissions for v3 

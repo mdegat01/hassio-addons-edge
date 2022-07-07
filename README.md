@@ -207,10 +207,10 @@ SOFTWARE.
 [promtail-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [promtail-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [promtail-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-sharry]: https://github.com/mdegat01/addon-sharry/tree/131c396
-[addon-doc-sharry]: https://github.com/mdegat01/addon-sharry/blob/131c396/README.md
+[addon-sharry]: https://github.com/mdegat01/addon-sharry/tree/a457339
+[addon-doc-sharry]: https://github.com/mdegat01/addon-sharry/blob/a457339/README.md
 [sharry-issue]: https://github.com/mdegat01/addon-sharry/issues
-[sharry-version-shield]: https://img.shields.io/badge/version-131c396-yellow.svg
+[sharry-version-shield]: https://img.shields.io/badge/version-a457339-yellow.svg
 [add-addon-sharry]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_sharry
 [sharry-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sharry-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg

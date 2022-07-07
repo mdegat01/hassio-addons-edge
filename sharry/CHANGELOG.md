@@ -1,4 +1,8 @@
 # Changelog since v1.4.4
+- Merge pull request #109 from mdegat01/apparmor-fixes
+
+Apparmor fixes for 1.11.0 
+- Apparmor fixes for 1.11.0 
 - Merge pull request #108 from mdegat01/no-arg-build
 
 Remove args from build.yaml 

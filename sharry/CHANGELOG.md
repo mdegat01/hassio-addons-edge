@@ -1,4 +1,9 @@
 # Changelog since v1.4.4
+- Merge pull request #106 from mdegat01/update-sharry-config
+
+Dark mode! And update sharry config 
+- Fix typo in log 
+- Update to latest sharry config and add theme 
 - Merge pull request #105 from mdegat01/update-sharry-1.11.0
 
 Update sharry from 1.9.0 to 1.11.0 

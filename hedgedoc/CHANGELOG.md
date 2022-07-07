@@ -1,4 +1,8 @@
 # Changelog since v1.5.1
+- Merge pull request #141 from mdegat01/remove-s6-rc.d
+
+Remove /etc/s6-rc.d from apparmor 
+- Remove /etc/s6-rc.d 
 - Merge pull request #140 from mdegat01/aa-s6-overlay
 
 Add aa access to all etc/s6 

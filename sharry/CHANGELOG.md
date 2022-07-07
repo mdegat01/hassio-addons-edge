@@ -1,4 +1,8 @@
 # Changelog since v1.4.4
+- Merge pull request #110 from mdegat01/fix-log-level
+
+Ensure log level setting used for all loggers 
+- Ensure log level setting used for all loggers 
 - Merge pull request #109 from mdegat01/apparmor-fixes
 
 Apparmor fixes for 1.11.0 

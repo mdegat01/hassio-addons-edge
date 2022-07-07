@@ -1,4 +1,9 @@
 # Changelog since v1.5.1
+- Merge pull request #143 from mdegat01/add-uptime-icu-aa
+
+Add uptime and icu access for node 
+- Increase access to icu folder 
+- Add access to files needed by nodejs 
 - Merge pull request #142 from mdegat01/add-wix-s6-folders
 
 Add wix access back to s6 folders 

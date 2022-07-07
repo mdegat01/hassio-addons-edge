@@ -1,4 +1,8 @@
 # Changelog since v2.1.0
+- Merge pull request #210 from mdegat01/add-broad-etc-aa
+
+Add rw to most of etc for timezone script 
+- Add rw to most of etc for timezone script 
 - Merge pull request #209 from mdegat01/add-etc-timezone
 
 Add rw to /etc/timezone 

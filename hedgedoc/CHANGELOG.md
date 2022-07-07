@@ -1,4 +1,9 @@
 # Changelog since v1.5.1
+- Merge pull request #139 from mdegat01/aa-s6-rc.d
+
+Add s6-rc.d to apparmor and other tweaks 
+- Add s6-rc.d to apparmor and other tweaks 
+- Add s6-rc.d to apparmor 
 - Merge pull request #138 from mdegat01/update-base-12.2.0
 
 Update base to 12.2.0 

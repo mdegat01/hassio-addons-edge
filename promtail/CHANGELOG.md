@@ -1,4 +1,9 @@
 # Changelog since v2.1.0
+- Merge pull request #211 from mdegat01/bump-yq-v4.25.3
+
+Bump yq to 4.25.3 
+- Remove args from build.yaml 
+- Bump yq to v4.25.3 
 - Merge pull request #210 from mdegat01/add-broad-etc-aa
 
 Add rw to most of etc for timezone script 

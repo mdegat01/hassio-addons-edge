@@ -1,4 +1,8 @@
 # Changelog since v1.10.1
+- Merge pull request #160 from mdegat01/aa-s6-v3-fixes
+
+Adjust s6 aa permissions for v3 
+- Adjust s6 permissions for v3 
 - Merge pull request #159 from mdegat01/fix-aa-fix-attrs.d
 
 Fix aa permission on fix-attrs.d 

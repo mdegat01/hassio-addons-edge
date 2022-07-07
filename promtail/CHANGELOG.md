@@ -1,4 +1,8 @@
 # Changelog since v2.1.0
+- Merge pull request #208 from mdegat01/fix-timezone-script
+
+Add permissions for tz setup script 
+- Add permissions for tz setup script 
 - Merge pull request #207 from mdegat01/aa-s6-v3-fixes
 
 Adjust s6 aa permissions for v3 

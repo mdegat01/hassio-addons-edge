@@ -1,4 +1,8 @@
 # Changelog since v1.5.1
+- Merge pull request #140 from mdegat01/aa-s6-overlay
+
+Add aa access to all etc/s6 
+- Add aa access to all etc/s6 
 - Merge pull request #139 from mdegat01/aa-s6-rc.d
 
 Add s6-rc.d to apparmor and other tweaks 

@@ -1,4 +1,8 @@
 # Changelog since v2.1.0
+- Merge pull request #209 from mdegat01/add-etc-timezone
+
+Add rw to /etc/timezone 
+- Add rw to /etc/timezone 
 - Merge pull request #208 from mdegat01/fix-timezone-script
 
 Add permissions for tz setup script 

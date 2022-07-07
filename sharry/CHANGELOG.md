@@ -1,4 +1,8 @@
 # Changelog since v1.4.4
+- Merge pull request #107 from mdegat01/aa-s6-v3-fix
+
+Adjust apparmor for s6 v3 
+- Adjust apparmor for s6 v3 
 - Merge pull request #106 from mdegat01/update-sharry-config
 
 Dark mode! And update sharry config 

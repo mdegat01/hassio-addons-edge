@@ -1,4 +1,8 @@
 # Changelog since v1.5.1
+- Merge pull request #142 from mdegat01/add-wix-s6-folders
+
+Add wix access back to s6 folders 
+- Add wix back to s6 folders 
 - Merge pull request #141 from mdegat01/remove-s6-rc.d
 
 Remove /etc/s6-rc.d from apparmor 

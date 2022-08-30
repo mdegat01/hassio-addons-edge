@@ -1,5 +1,5 @@
-## What’s changed
+# Changelog since v2.0.1
+- Merge pull request #112 from mdegat01/fix-finish-script
 
-## ⬆️ Dependency updates
-
-- Bump addon base to `12.2.3` @mdegat01 (#111)
+Set exit code in finish script 
+- Set exit code in finish script 

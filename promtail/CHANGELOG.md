@@ -1,4 +1,10 @@
 # Changelog since v2.1.0
+- Merge pull request #213 from mdegat01/bump-addon-debian-base-6.1.1
+
+Bump addon debian base 6.1.1 
+- Remove packages already in base 
+- Bump tzdata 
+- Bump addon debian base 6.1.1 
 - Merge pull request #212 from mdegat01/arg-over-env
 
 Change arg to env 

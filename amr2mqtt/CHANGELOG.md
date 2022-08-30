@@ -1,4 +1,9 @@
 # Changelog since v2.0.0
+- Merge pull request #76 from mdegat01/update-addon-base-6.1.1
+
+Update addon debian base to 6.1.1 
+- Newline at end 
+- Update addon debian base to 6.1.1 
 - Merge pull request #74 from mdegat01/dependabot/docker/amr2mqtt/alpine-3.16.2
 
 Bump alpine from 3.15.4 to 3.16.2 in /amr2mqtt 

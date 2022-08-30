@@ -1,4 +1,9 @@
 # Changelog since v1.10.2
+- Merge pull request #166 from mdegat01/bump-addon-base-12.2.3
+
+Update addon base 12.2.3 
+- Bump ca-certificates and nginx 
+- Update addon base 12.2.3 
 - Merge pull request #165 from mdegat01/no-version-dockerfile
 
 Remove loki version print in dockerfile 

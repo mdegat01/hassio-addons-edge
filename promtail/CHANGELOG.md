@@ -1,4 +1,12 @@
 # Changelog since v2.1.0
+- Merge pull request #215 from mdegat01/fix-finish-script
+
+Set exit code in finish script 
+- Set exit code in finish script 
+- Merge pull request #214 from mdegat01/bump-yq-4.27.3
+
+Bump yq to 4.27.3 
+- Bump yq to 4.27.3 
 - Merge pull request #213 from mdegat01/bump-addon-debian-base-6.1.1
 
 Bump addon debian base 6.1.1 

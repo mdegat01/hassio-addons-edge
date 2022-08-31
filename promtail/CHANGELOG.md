@@ -1,4 +1,10 @@
 # Changelog since v2.1.0
+- Merge pull request #217 from mdegat01/update-promtail-2.6.1
+
+Update promtail to 2.6.1 
+- Update promtail to 2.6.1
+
+Bump promtail journal base to [1.6.0](https://github.com/mdegat01/promtail-journal/releases/tag/v1.6.0) (which updates Promtail to [2.6.1](https://github.com/grafana/loki/releases/tag/v2.6.1)) 
 - Merge pull request #215 from mdegat01/fix-finish-script
 
 Set exit code in finish script 

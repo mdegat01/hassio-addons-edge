@@ -1,15 +1,6 @@
-## What’s changed
+# Changelog since v2.2.0
+- Merge pull request #219 from mdegat01/bump-debian-base-6.1.3
 
-## 🐛 Bug fixes
-
-- Set exit code in finish script @mdegat01 (#215)
-
-## 🚀 Enhancements
-
-- Adjust s6 aa permissions for v3 @mdegat01 (#207)
-- Update promtail to 2.6.1 @mdegat01 (#217)
-
-## ⬆️ Dependency updates
-
-- Bump addon debian base 6.1.1 @mdegat01 (#206, #213)
-- Bump yq to 4.27.3 @mdegat01 (#211, #214)
+Bump debian base to 6.1.3 
+- Bump libsysystemd-dev 
+- Bump debian base to 6.1.3 
